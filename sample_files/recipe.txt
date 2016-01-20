@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html class="no-js" lang="en">
+<body style="min-height: 100%; padding-bottom: 70px;">
+<div id="wrapper">
+<div itemtype="http://schema.org/Recipe">
+<div class="row">
+<div class="large-9 medium-9 columns">
+<span itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating">
+<span itemprop="ratingValue">5.0</span> stars based on <span itemprop="ratingCount">1</span> votes
+</span>
+<div class="row">
+<div class="large-10 medium-9 small-9 columns">
+<p>
+<b>Beer Style:</b> Spice, Herb, or Vegetable Beer&nbsp;(<a href="bjcpguidelines.php?id=96&amp;recipeid=13872" rel="nofollow">21A</a>)<br>
+<b>Recipe Type:</b> other<br>
+<b>Yield:</b> <span itemprop="recipeYield">5 gallons</span><br>
+</p>
+</div>
+<div class="large-2 medium-3 small-3 columns">
+</div>
+</div>
+<div class="row">
+<div class="large-12 columns" style="line-height: 18px;">
+<h4>Description:</h4>
+<h4>Ingredients:</h4>
+<ul>
+<li>
+<span itemprop="ingredients">2 pounds Fresh ginger</span>
+</li>
+<li>
+<span itemprop="ingredients">5 oranges</span>
+</li>
+<li>
+<span itemprop="ingredients">3 lemons</span>
+</li>
+<li>
+<span itemprop="ingredients">3 limes</span>
+</li>
+<li>
+<span itemprop="ingredients">5 Cinnamon sticks</span>
+</li>
+<li>
+<span itemprop="ingredients">1/2 tsp nutmeg</span>
+</li>
+<li>
+<span itemprop="ingredients">8 Pounds Sugar</span>
+</li>
+<li>
+<span itemprop="ingredients">1 packet Safale 04</span>
+</li>
+<li>
+<span itemprop="ingredients">5 tsp yeast nutrient</span>
+</li>
+<li>
+<span itemprop="ingredients">3/4 cups sugar for priming</span>
+</li>
+</ul>
+<p>
+<h4>Additional Instructions</h4>
+<b>Boil</b>: 45 Minutes<br> <b>Primary Ferment:</b> 1<br> <b>Secondary Ferment:</b> 2<br> <br>
+<h4>Procedure:</h4>
+<div itemprop="recipeInstructions">
+<p>I cut off any woody parts of the ginger then grate all the ginger I usually buy 2 1/2 pounds to yield 2 pounds grated, Juice and zest all the citrus. Heat in as large a pot that you have available 3 gallons water sugar juice ginger zest and sugar. <br/>
+Heat to boil and simmer 45 minutes.<br/>
+Cool and transfer to primary pitch yeast<br/>
+Add water to just over 5 gallons<br/>
+I let everything go in the primary for 1 week<br/>
+Then I strain and transfer to secondary<br/>
+After 1 - 2 weeks in secondary prime the liquid and bottle<br/>
+Let set in the bottles for 2 weeks<br/>
+you will have a wonderful ginger citrus drink that is refreshing and well carbonated<br/>
+My friends love it (if they like ginger)</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
