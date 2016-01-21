@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "151",
+    "ingredients": [
+        "10 lbs. Alexander's pale malt extract",
+        "8 lbs. Klages 2-row",
+        "3 lbs Cara-Pils",
+        "2 lbs Crystal 10L",
+        "1 lbs Victory Malt (Brewtek)",
+        "1 oz Perle (60 mins)",
+        "1 oz Cascade (60 mins)",
+        "2 oz Cascade (30 mins)",
+        "1 oz Cascade (Steep while cooling)",
+        "SNPA Yeast"
+    ],
+    "name": "Da Beer",
+    "name_raw": "Da Beer",
+    "rating": "1.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "5"
+}

@@ -1,0 +1,25 @@
+{
+    "bjcp": "13F",
+    "id": "6065",
+    "ingredients": [
+        "14 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 5.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "12.8 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "5.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "2.0 oz - Centennial [10.0%] - Boil 90 min (Hops)",
+        "2.0 oz - Centennial [10.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 15 min (Hops)",
+        "1.00 - Irish Moss (Boil 10 min) (Misc)",
+        "2 pkgs - London ESB Ale (Wyeast Labs #1968) (Yeast)",
+        "1.5 oz - Cascade [5.5%] - Dry Hop 0 days (Hops)",
+        "1.5 oz - Simcoe [13.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Happy Endings",
+    "name_raw": "Happy Endings",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": 0
+}

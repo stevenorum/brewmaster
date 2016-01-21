@@ -1,0 +1,25 @@
+{
+    "bjcp": "23A",
+    "id": "12978",
+    "ingredients": [
+        "1 lbs 8.0 oz - Rye Malt (4.7 SRM) (Grain)",
+        "8.0 oz - Rye, Flaked (2.0 SRM) (Grain)",
+        "2.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2.0 oz - Victory Malt (25.0 SRM) (Grain)",
+        "3 lbs 4.0 oz - Wheat Dry Extract (8.0 SRM) (Grain)",
+        "3 lbs - Light Dry Extract (8.0 SRM) (Grain)",
+        "1.0 oz - Nugget [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Crystal [3.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Chinook [13.0%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 5 days (Hops)",
+        "1.0 oz - Summit [17.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Range-Top RyePA",
+    "name_raw": "Range-Top RyePA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Specialty Beer",
+    "style_raw": "Specialty Beer",
+    "votes": 0
+}

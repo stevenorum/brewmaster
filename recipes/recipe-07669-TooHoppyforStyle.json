@@ -1,0 +1,27 @@
+{
+    "bjcp": "2A",
+    "id": "7669",
+    "ingredients": [
+        "13 lbs 8.0 oz - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "8.0 oz - Vienna Malt (3.5 SRM) (Grain)",
+        "0.7 oz - Perle [8.0%] - First Wort (Hops)",
+        "0.6 oz - Amarillo Gold [8.5%] - Boil 30 min (Hops)",
+        "2.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.6 oz - Amarillo Gold [8.5%] - Boil 15 min (Hops)",
+        "0.88 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "0.6 oz - Amarillo Gold [8.5%] - Boil 10 min (Hops)",
+        "0.6 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "0.6 oz - Amarillo Gold [8.5%] - Boil 1 min (Hops)",
+        "3 pkgs - San Francisco Lager (White Labs #WLP810) (Yeast)",
+        "0.6 oz - Amarillo Gold [8.5%] - Dry Hop 10 days (Hops)",
+        "0.6 oz - Amarillo Gold [8.5%] - Dry Hop 8 days (Hops)"
+    ],
+    "name": "Too Hoppy for Style",
+    "name_raw": "Too Hoppy for Style",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "German Pilsner (Pils)",
+    "style_raw": "German Pilsner (Pils)",
+    "votes": 0
+}

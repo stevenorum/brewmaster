@@ -1,0 +1,28 @@
+{
+    "bjcp": "14C",
+    "id": "8321",
+    "ingredients": [
+        "8 lbs 8.0 oz - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "8 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "2.0 oz - Summit [17.0%] - Boil 90 min (Hops)",
+        "2.0 oz - Northern Brewer [8.5%] - Boil 15 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Boil 15 min (Hops)",
+        "2.0 oz - Cascade [5.5%] - Steep 0 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Steep 0 min (Hops)",
+        "1.0 oz - Motueka [7.0%] - Steep 0 min (Hops)",
+        "2 pkgs - Dry English Ale (White Labs #WLP007) (Yeast)",
+        "1.5 oz - Nelson Sauvin [12.0%] - Dry Hop 8 days (Hops)",
+        "1.5 oz - Simcoe [13.0%] - Dry Hop 8 days (Hops)",
+        "1.5 oz - Nelson Sauvin [12.0%] - Dry Hop 4 days (Hops)",
+        "1.5 oz - Simcoe [13.0%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "Imperial IPA #2",
+    "name_raw": "Imperial IPA #2",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

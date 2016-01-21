@@ -1,0 +1,23 @@
+{
+    "bjcp": "16A",
+    "id": "2780",
+    "ingredients": [
+        "2 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "1 lbs - Wheat, Flaked (1.6 SRM) (Grain)",
+        "2 lbs - Wheat Dry Extract (8.0 SRM) (Grain)",
+        "0.8 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "1.50 oz - Coriander Seed (Boil 10 min) (Misc)",
+        "1.00 oz - Orange Peel, Sweet (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)"
+    ],
+    "name": "Buchanon Junction Belgian",
+    "name_raw": "Buchanon Junction Belgian",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": 0
+}

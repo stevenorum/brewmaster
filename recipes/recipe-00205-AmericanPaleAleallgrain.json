@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "205",
+    "ingredients": [
+        "9.0 lbs US 2-row pale malt (Briess)",
+        "1.0 lbs crystal malt (combo of British 50L, US 40L, Special B)",
+        "0.5 lbs US dextrin malt",
+        "27-32 IBU from Goldings (bitterness)",
+        "0.5 oz Cascade or Goldings (flavor)",
+        "0.5-1.0 oz Cascade or Goldings (aroma)",
+        "0.5-1.0 oz Cascade or Goldings (dry-hop)",
+        "1 tsp rehydrated Irish moss",
+        "Wyeast Irish 1084 repitched",
+        "gelatin finings"
+    ],
+    "name": "American Pale Ale (all grain)",
+    "name_raw": "American Pale Ale (all grain)",
+    "rating": "4.3",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "4"
+}

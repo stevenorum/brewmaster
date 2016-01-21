@@ -1,0 +1,31 @@
+{
+    "bjcp": "14C",
+    "id": "6026",
+    "ingredients": [
+        "14 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs - Vienna Malt (Briess) (3.5 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Honey Malt (25.0 SRM) (Grain)",
+        "1.2 oz - Columbus (Tomahawk) [14.0%] - First Wort (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Chinook [13.0%] - Boil 45 min (Hops)",
+        "1.0 oz - Centennial [10.0%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Citra [12.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 10 min (Hops)",
+        "2.0 oz - Amarillo Gold [8.5%] - Steep 0 min (Hops)",
+        "2.0 oz - Simcoe [13.0%] - Steep 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)",
+        "1 lbs 6.4 oz - Honey (1.0 SRM) (Grain)",
+        "3.0 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Hopslam Clone",
+    "name_raw": "Hopslam Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

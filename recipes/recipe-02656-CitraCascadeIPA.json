@@ -1,0 +1,25 @@
+{
+    "bjcp": "14B",
+    "id": "2656",
+    "ingredients": [
+        "12 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "2 lbs - Vienna Malt (Weyermann) (3.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1.0 oz - Citra [11.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Citra [11.0%] - Boil 45 min (Hops)",
+        "0.5 oz - Citra [11.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Citra [11.0%] - Boil 15 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 10 min) (Misc)",
+        "0.5 oz - Citra [11.0%] - Steep 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 14 days (Hops)"
+    ],
+    "name": "Citra Cascade IPA",
+    "name_raw": "Citra Cascade IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

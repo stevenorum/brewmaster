@@ -1,0 +1,29 @@
+{
+    "bjcp": "10A",
+    "id": "9059",
+    "ingredients": [
+        "8 lbs 2.5 oz - Pilsner (2.3 SRM) (Grain)",
+        "2 lbs 6.8 oz - M&uuml;nchnermalt (9.1 SRM) (Grain)",
+        "11.3 oz - Carapale (4.1 SRM) (Grain)",
+        "7.8 oz - Cara Plus 10 (5.1 SRM) (Grain)",
+        "0.7 oz - Columbus (Tomahawk) [14.0%] - Boil 60 min (Hops)",
+        "1.00 g - Protafloc (Boil 15 min) (Misc)",
+        "1.1 oz - Amarillo [9.0%] - Boil 15 min (Hops)",
+        "2.00 g - Wyeast Nutrient Blend j&auml;stn&auml;ring (Boil 15 min) (Misc)",
+        "1.4 oz - Simcoe [13.0%] - Boil 0 min (Hops)",
+        "1.1 oz - Amarillo [9.0%] - Boil 0 min (Hops)",
+        "2.00 g - Calcium Chloride (Boil 0 min) (Misc)",
+        "1.60 g - MagnesiumSulfat (Boil 0 min) (Misc)",
+        "2 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.1 oz - Amarillo [9.0%] - Dry Hop 7 days (Hops)",
+        "0.7 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)",
+        "0.7 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Pale Ale (Brygg ??l)",
+    "name_raw": "Pale Ale (Brygg \u00d6l)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

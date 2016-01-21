@@ -1,0 +1,24 @@
+{
+    "bjcp": "12A",
+    "id": "10611",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 11.6 oz - Carafoam (2.0 SRM) (Grain)",
+        "14.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "14.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "7.5 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Willamette [5.5%] - Boil 20 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.00 lbs - PB2 (Boil 10 min) (Misc)",
+        "2.00 oz - Caco Nibs (Boil 0 min) (Misc)",
+        "1 pkgs - London Ale (White Labs #WLP013) (Yeast)"
+    ],
+    "name": "Peanut Butter Cup Porter",
+    "name_raw": "Peanut Butter Cup Porter",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Brown Porter",
+    "style_raw": "Brown Porter",
+    "votes": "1"
+}

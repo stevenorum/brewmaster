@@ -1,0 +1,27 @@
+{
+    "bjcp": "12B",
+    "id": "3667",
+    "ingredients": [
+        "20 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Biscuit Malt (23.0 SRM) (Grain)",
+        "2 lbs - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "2 lbs - Brown Malt (65.0 SRM) (Grain)",
+        "2 lbs - Wheat Malt, Dark (9.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "8.0 oz - Peat Smoked Malt (2.8 SRM) (Grain)",
+        "1.5 oz - Cluster [7.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Cluster [7.0%] - Boil 40 min (Hops)",
+        "2.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.0 oz - Willamette [5.5%] - Boil 10 min (Hops)",
+        "2.0 oz - Willamette [5.5%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "2.00 oz - White Earl Grey Tea (Secondary 7 days) (Misc)"
+    ],
+    "name": "Peat-Smoked Earl Grey Porter",
+    "name_raw": "Peat-Smoked Earl Grey Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

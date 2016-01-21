@@ -1,0 +1,27 @@
+{
+    "bjcp": "12C",
+    "id": "11678",
+    "ingredients": [
+        "8 lbs 4.8 oz - Pale Malt (2 Row) (1.9 SRM) (Grain)",
+        "1 lbs 1.6 oz - Munich Malt (6.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [7.2%] - Boil 60 min (Hops)",
+        "0.5 oz - Willamette [5.2%] - Boil 30 min (Hops)",
+        "1.0 oz - Willamette [5.2%] - Boil 15 min (Hops)",
+        "0.50 lbs - Cocoa Powder (Boil 5 min) (Misc)",
+        "0.5 oz - Goldings, East Kent [5.0%] - Boil 0 min (Hops)",
+        "0.5 oz - Willamette [5.2%] - Boil 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "0.50 oz - Hazelnut Extract (Bottling 0 min) (Misc)"
+    ],
+    "name": "Enchantress",
+    "name_raw": "Enchantress",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": 0
+}

@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "12683",
+    "ingredients": [
+        "4.00 ml - Lactic Acid (Mash 60 min) (Misc)",
+        "3.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "3.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "5 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "5 lbs - Red Wheat Malt (3.3 SRM) (Grain)",
+        "1 lbs - Caravienne Malt (22.0 SRM) (Grain)",
+        "0.2 oz - Amarillo Gold [9.0%] - First Wort (Hops)",
+        "0.2 oz - Amarillo Gold [9.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Amarillo Gold [9.0%] - Boil 15 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Amarillo Gold [9.0%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)"
+    ],
+    "name": "Gumball Head",
+    "name_raw": "Gumball Head",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "2"
+}

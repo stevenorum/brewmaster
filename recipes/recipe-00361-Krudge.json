@@ -1,0 +1,25 @@
+{
+    "bjcp": "13A",
+    "id": "361",
+    "ingredients": [
+        "1 can, M&F stout extract",
+        "1 pound, amber dry malt extract",
+        "1 pound, dark malt extract",
+        "7 ounces, black patent malt",
+        "7 ounces, chocolate malt",
+        "7 ounces, roast barley",
+        "21 ounces, crystal malt",
+        "1/2 ounce, gypsum",
+        "2 ounces, Chinook hops (boil)",
+        "1 ounce, Centennial hops (boil)",
+        "1 ounce, Cascade hops (finish)",
+        "ale yeast"
+    ],
+    "name": "Krudge",
+    "name_raw": "Krudge",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "19"
+}

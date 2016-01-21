@@ -1,0 +1,31 @@
+{
+    "bjcp": "14B",
+    "id": "5477",
+    "ingredients": [
+        "9 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs - Pilsner (2 row) (Gambrinus) (1.6 SRM) (Grain)",
+        "1 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "8.0 oz - Caramel Malt - 40L (Briess) (40.0 SRM) (Grain)",
+        "8.0 oz - Honey Malt (25.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "1.0 oz - Galena [13.4%] - Boil 60 min (Hops)",
+        "0.2 oz - Citra [14.5%] - Boil 25 min (Hops)",
+        "0.2 oz - Citra [13.9%] - Boil 20 min (Hops)",
+        "0.2 oz - Nelson Sauvin [10.9%] - Boil 20 min (Hops)",
+        "0.2 oz - Amarillo Gold [7.8%] - Boil 15 min (Hops)",
+        "0.2 oz - Nelson Sauvin [10.9%] - Boil 15 min (Hops)",
+        "0.2 oz - Amarillo Gold [7.8%] - Boil 10 min (Hops)",
+        "0.2 oz - Nelson Sauvin [10.9%] - Boil 10 min (Hops)",
+        "1 pkgs - European Ale (White Labs #WLP011) (Yeast)",
+        "0.8 oz - Amarillo Gold [7.8%] - Dry Hop 10 days (Hops)",
+        "0.8 oz - Citra [13.9%] - Dry Hop 10 days (Hops)",
+        "0.8 oz - Nelson Sauvin [10.9%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Badass American",
+    "name_raw": "Badass American",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

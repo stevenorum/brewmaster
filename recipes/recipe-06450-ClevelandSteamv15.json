@@ -1,0 +1,24 @@
+{
+    "bjcp": "7B",
+    "id": "6450",
+    "ingredients": [
+        "5.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "3.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "12 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "8 lbs 8.0 oz - Vienna (Hoepfner) (4.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Carabrown (55.0 SRM) (Grain)",
+        "1 lbs - Caramel Munich 60L (Briess) (60.0 SRM) (Grain)",
+        "2.0 oz - Northern Brewer [9.4%] - Boil 55 min (Hops)",
+        "1.0 oz - Northern Brewer [9.4%] - Boil 20 min (Hops)",
+        "0.50 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "2 pkgs - San Francisco Lager (White Labs #WLP810) (Yeast)",
+        "2.0 oz - Northern Brewer [9.4%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Cleveland Steam v1.5",
+    "name_raw": "Cleveland Steam v1.5",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "California Common Beer",
+    "style_raw": "California Common Beer",
+    "votes": "1"
+}

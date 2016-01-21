@@ -1,0 +1,27 @@
+{
+    "bjcp": "10A",
+    "id": "3184",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "1.0 oz - Centennial [10.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Boil 20 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Steep 0 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Steep 5 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Steep 10 min (Hops)",
+        "0.5 oz - Citra [12.0%] - Steep 5 min (Hops)",
+        "0.5 oz - Citra [12.0%] - Steep 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Unibrau Rye APA",
+    "name_raw": "Unibrau Rye APA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

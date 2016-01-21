@@ -1,0 +1,24 @@
+{
+    "bjcp": "14B",
+    "id": "7368",
+    "ingredients": [
+        "4.0 oz - Vienna Malt (3.5 SRM) (Grain)",
+        "1.9 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 12.0 oz - DME Golden Light (Briess) (4.0 SRM) (Grain)",
+        "0.2 oz - Galena [12.5%] - Boil 60 min (Hops)",
+        "0.06 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.8 oz - Northern Brewer [8.5%] - Boil 5 min (Hops)",
+        "0.5 oz - Northern Brewer [8.5%] - Boil 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "0.5 oz - Amarillo Gold [8.5%] - Dry Hop 14 days (Hops)"
+    ],
+    "name": "Double Hump IPA Small Batch",
+    "name_raw": "Double Hump IPA Small Batch",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

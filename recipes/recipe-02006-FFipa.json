@@ -1,0 +1,22 @@
+{
+    "bjcp": "14B",
+    "id": "2006",
+    "ingredients": [
+        "12 lbs - Pale Ale Malt, Northwestern (Great Western) (4.1 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "0.5 oz - Summit [17.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Summit [17.0%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Falconer&#39;s Flight [11.4%] - Boil 15 min (Hops)",
+        "4.00 oz - Malto-Dextrine (Boil 15 min) (Misc)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "0.5 oz - Falconer&#39;s Flight [11.4%] - Dry Hop 14 days (Hops)"
+    ],
+    "name": "FFipa",
+    "name_raw": "FFipa",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "2"
+}

@@ -1,0 +1,27 @@
+{
+    "bjcp": "12C",
+    "id": "5473",
+    "ingredients": [
+        "6 lbs 0.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "3 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "1 lbs 0.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "1 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Melanoiden Malt (20.0 SRM) (Grain)",
+        "4.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "12.0 oz - Caramelized Sugar, Table (Sucrose) (1.0 SRM) (Grain)",
+        "10.0 oz - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "1.0 oz - Magnum [11.6%] - Boil 60 min (Hops)",
+        "1.0 oz - Willamette [4.9%] - Boil 20 min (Hops)",
+        "0.8 oz - Willamette [4.9%] - Boil 10 min (Hops)",
+        "1 pkgs - British Ale (White Labs #WLP005) (Yeast)"
+    ],
+    "name": "Santa's Pot Belly Porter",
+    "name_raw": "Santa's Pot Belly Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": 0
+}

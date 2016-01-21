@@ -1,0 +1,25 @@
+{
+    "bjcp": "12C",
+    "id": "12689",
+    "ingredients": [
+        "5.55 gal - Perth (Water)",
+        "6 lbs 9.8 oz - Kirin Malt (3.0 SRM) (Grain)",
+        "4 lbs 6.5 oz - Pale Malt, Traditional Ale (Joe White) (3.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Munich, Light (Joe White) (9.0 SRM) (Grain)",
+        "14.1 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "7.1 oz - Chocolate Malt (Joe White) (381.0 SRM) (Grain)",
+        "3.5 oz - Crystal, Dark (Joe White) (110.0 SRM) (Grain)",
+        "0.7 oz - Northern Brewer [9.1%] - Boil 60 min (Hops)",
+        "0.7 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.4 oz - Amarillo Gold [8.5%] - Steep 10 min (Hops)",
+        "1 pkgs - SafAle American Ale (DCL Yeast #S-056) (Yeast)"
+    ],
+    "name": "Dark Side of the Ale",
+    "name_raw": "Dark Side of the Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": 0
+}

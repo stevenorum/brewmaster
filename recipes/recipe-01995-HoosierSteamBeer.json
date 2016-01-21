@@ -1,0 +1,19 @@
+{
+    "bjcp": "10A",
+    "id": "1995",
+    "ingredients": [
+        "20 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2.0 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Northern Brewer [8.5%] - Boil 15 min (Hops)",
+        "1.0 oz - Northern Brewer [8.5%] - Boil 1 min (Hops)",
+        "2 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Hoosier Steam Beer",
+    "name_raw": "Hoosier Steam Beer",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

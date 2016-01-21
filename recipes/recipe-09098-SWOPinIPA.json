@@ -1,0 +1,23 @@
+{
+    "bjcp": "14B",
+    "id": "9098",
+    "ingredients": [
+        "6 lbs 12.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "4.0 oz - Special B Malt (180.0 SRM) (Grain)",
+        "0.6 oz - Centennial [10.0%] - Boil 60 min (Hops)",
+        "0.2 oz - Centennial [10.0%] - Boil 30 min (Hops)",
+        "0.50 g - Irish Moss (Boil 15 min) (Misc)",
+        "0.2 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "0.2 oz - Centennial [10.0%] - Boil 15 min (Hops)",
+        "0.2 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)"
+    ],
+    "name": "SWO Pin IPA",
+    "name_raw": "SWO Pin IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

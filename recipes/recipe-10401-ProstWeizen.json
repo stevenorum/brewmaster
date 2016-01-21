@@ -1,0 +1,20 @@
+{
+    "bjcp": "15A",
+    "id": "10401",
+    "ingredients": [
+        "5 lbs 0.1 oz - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "4 lbs - Pale Malt (2 Row) Bel (3.0 SRM) (Grain)",
+        "0.5 oz - Tettnang [4.4%] - Boil 60 min (Hops)",
+        "0.5 oz - Tettnang [4.4%] - Boil 30 min (Hops)",
+        "1.1 oz - Tettnang [4.5%] - Steep 0 min (Hops)",
+        "1 pkgs - Bavarian Wheat Yeast (Wyeast Labs #3056) (Yeast)",
+        "1.1 oz - Tettnang [4.5%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "Prost! Weizen",
+    "name_raw": "Prost! Weizen",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": 0
+}

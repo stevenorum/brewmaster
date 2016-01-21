@@ -1,0 +1,21 @@
+{
+    "bjcp": "14B",
+    "id": "2471",
+    "ingredients": [
+        "11 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "0.5 oz - Galena [12.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Galaxy [14.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Galena [12.5%] - Boil 30 min (Hops)",
+        "1.0 oz - Galaxy [14.0%] - Boil 15 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)",
+        "1.0 oz - Galaxy [14.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "express your IPA",
+    "name_raw": "express your IPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

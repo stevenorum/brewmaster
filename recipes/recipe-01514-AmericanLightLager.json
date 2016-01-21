@@ -1,0 +1,29 @@
+{
+    "bjcp": "1B",
+    "id": "1514",
+    "ingredients": [
+        "Grains &amp;amp;amp;amp;amp; Adjuncts:",
+        "Amount Percentage Name Time Gravity",
+        "0.50 lbs 8.62 % Corn Syrup 40 mins 1.036",
+        "0.50 lbs 8.62 % Rice Extract Syrup 40 mins 1.032",
+        "1.50 lbs 25.86 % Honey 40 mins 1.035",
+        "3.30 lbs 56.90 % Briess White Sorghum LME 40 mins 1.037",
+        "Hops:",
+        "Amount IBU's Name Time AA %",
+        "0.75 ozs 0.00 Saaz 0 mins 4.00",
+        "0.75 ozs 5.89 Cascade 10 mins 5.50",
+        "0.50 ozs 12.79 Mt. Hood 60 mins 6.50",
+        "Yeasts:",
+        "Amount Name Laboratory / ID",
+        "2.0 pkg Dry Lager Yeast",
+        "Additions",
+        "1 Teaspoon Yeast Nutrient 15 mins"
+    ],
+    "name": "American Light Lager",
+    "name_raw": "American Light Lager",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Standard American Lager",
+    "style_raw": "Standard American Lager",
+    "votes": 0
+}

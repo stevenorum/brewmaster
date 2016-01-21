@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "13829",
+    "ingredients": [
+        "Amt Name Type # %/IBU",
+        "7 lbs Briess 2-row (2.2 SRM) Grain 1 54.9 %",
+        "2 lbs Munich Malt (9.0 SRM) Grain 2 15.7 %",
+        "1 lbs 8.0 oz Smoked Malt (9.0 SRM) Grain 3 11.8 %",
+        "1 lbs Caramel/Crystal Malt -120L (120.0 SRM) Grain 4 7.8 %",
+        "12.0 oz Chocolate Malt (450.0 SRM) Grain 5 5.9 %",
+        "4.0 oz Black (Patent) Malt (500.0 SRM) Grain 6 2.0 %",
+        "4.0 oz Wheat Malt, Dark (9.0 SRM) Grain 7 2.0 %",
+        "0.50 oz Nugget [13.00 %] - Boil 60.0 min Hop 8 22.1 IBUs",
+        "1.50 oz East Kent Goldings (EKG) [5.00 %] - Boil Hop 9 12.7 IBUs",
+        "1.00 oz Smoked chilpolte Pepper (Boil 0.0 mins) Flavor 10 -",
+        "0.50 oz East Kent Goldings (EKG) [5.00 %] - Boil Hop 11 0.0 IBUs",
+        "1.0 pkg American Ale (Wyeast Labs #1056) [124.21 Yeast 12 -"
+    ],
+    "name": "Hot and Smokey Porter",
+    "name_raw": "Hot and Smokey Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

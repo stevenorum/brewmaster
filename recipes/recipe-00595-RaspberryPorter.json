@@ -1,0 +1,27 @@
+{
+    "bjcp": "12B",
+    "id": "595",
+    "ingredients": [
+        "5 pounds, 2--row pale malt (mash)",
+        "1 pound, Vienna malt (mash)",
+        "1/2 pound, Munich malt (mash)",
+        "1/2 pound, 90 L. crystal malt (mash)",
+        "1/2 pound, 20 L. crystal malt (mash)",
+        "1 pound, chocolate malt (steep)",
+        "1/2 pound, Cara-Pils malt (steep)",
+        "1/4 pound, black patent malt (steep)",
+        "2--1/2 pounds, Australian light DME",
+        "1 ounce, Chinook hops (13.7% alpha)",
+        "3/4 ounce, Perle hops (7.8% alpha)",
+        "1--1/2 ounce, Cascade hops (5% alpha)",
+        "Wyeast Irish ale yeast",
+        "3 pounds, raspberries"
+    ],
+    "name": "Raspberry Porter",
+    "name_raw": "Raspberry Porter",
+    "rating": "3.8",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "13"
+}

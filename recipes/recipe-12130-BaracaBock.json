@@ -1,0 +1,21 @@
+{
+    "bjcp": "5B",
+    "id": "12130",
+    "ingredients": [
+        "5 lbs 8.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "4 lbs - Bohemian Pilsner- Floor Malted (2.0 SRM) (Grain)",
+        "1 lbs - Carafoam (2.0 SRM) (Grain)",
+        "1 lbs - Caramunich Malt (56.0 SRM) (Grain)",
+        "1 lbs - Melanoiden Malt (20.0 SRM) (Grain)",
+        "0.8 oz - Perle [8.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Tettnang [4.5%] - Boil 10 min (Hops)",
+        "2 pkgs - German Bock Lager (White Labs #WLP833) (Yeast)"
+    ],
+    "name": "Baraca Bock",
+    "name_raw": "Baraca Bock",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Traditional Bock",
+    "style_raw": "Traditional Bock",
+    "votes": 0
+}

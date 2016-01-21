@@ -1,0 +1,23 @@
+{
+    "bjcp": "10C",
+    "id": "1602",
+    "ingredients": [
+        "9 lbs 4.2 oz - J.W Pale Malt (2.5 SRM) (Grain)",
+        "2 lbs 3.3 oz - Pale Malt, Golden Promise (Thomas Fawcett) (3.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.2 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "0.5 oz - Nugget [11.2%] - Boil 60 min (Hops)",
+        "0.9 oz - Williamette [4.7%] - Boil 30 min (Hops)",
+        "0.25 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.9 oz - Williamette [4.7%] - Boil 15 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "0.5 oz - Fuggles [5.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Brent's Brown Ale",
+    "name_raw": "Brent's Brown Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": 0
+}

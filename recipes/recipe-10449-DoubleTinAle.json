@@ -1,0 +1,25 @@
+{
+    "bjcp": "16B",
+    "id": "10449",
+    "ingredients": [
+        "4.00 tsp - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "4.0 oz - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "4.0 oz - Toasted Malt (27.0 SRM) (Grain)",
+        "9 lbs - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "8.0 oz - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "1.5 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.8 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "1.00 - Servomyces Tablets (Boil 10 min) (Misc)",
+        "0.75 oz - Orange Peel, Sweet (Boil 5 min) (Misc)",
+        "0.50 oz - Lemon Peel (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Ale #1 (Brewtek #CL-0300) (Yeast)"
+    ],
+    "name": "Double Tin Ale",
+    "name_raw": "Double Tin Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Pale Ale",
+    "style_raw": "Belgian Pale Ale",
+    "votes": 0
+}

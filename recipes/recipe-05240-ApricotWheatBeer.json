@@ -1,0 +1,23 @@
+{
+    "bjcp": "20A",
+    "id": "5240",
+    "ingredients": [
+        "8.0 oz - Weyermann Light Wheat Malt (CB3120) (2.0 SRM) (Grain)",
+        "4.0 oz - Carapils (Briess) (BC1190-E) (1.5 SRM) (Grain)",
+        "4.0 oz - Vienna Malt (Gambrinus) (BC1190-H) (6.0 SRM) (Grain)",
+        "3 lbs - DME Wheat Bavarian (Briess) (CB3445A) (8.0 SRM) (Grain)",
+        "2 lbs - DME Pilsen Light (Briess) (CB3440A) (2.0 SRM) (Grain)",
+        "0.5 oz - Mt. Hood (CB4240A) [6.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Willamette (US) Hop Pellets (CB4270A) [5.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Nottingham (CB3613) (Danstar #-) (Yeast)",
+        "3 lbs - Fruit - Apricot Puree 49oz can (BC1730-E-1) (10.0 SRM) (Grain)",
+        "4.00 oz - Apricot Extract 4 oz (BC1705-H-1) (Bottling 5 min) (Misc)"
+    ],
+    "name": "Apricot Wheat Beer",
+    "name_raw": "Apricot Wheat Beer",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Fruit Beer",
+    "style_raw": "Fruit Beer",
+    "votes": 0
+}

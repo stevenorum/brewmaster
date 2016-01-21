@@ -1,0 +1,31 @@
+{
+    "bjcp": "13F",
+    "id": "364",
+    "ingredients": [
+        "5--1/2 pounds, Belgian Pale malt",
+        "3 pounds, Dextrine malt",
+        "3 pounds, Belgian Carapils",
+        "2 pounds, Belgian Special-B",
+        "1 pound, Wheat malt",
+        "1 pound, Crystal malt (60L)",
+        "1 pound, Belgian Biscuit",
+        "3/4 pound, Chocolate malt",
+        "3/4 pound, Black Patent",
+        "1/2 pound, Roasted Barley",
+        "2 pounds, dark brown sugar",
+        "2 Licorice sticks",
+        "1 ounce, Bullion hops (10%), 60 minute boil",
+        "1 ounce, Cascade hops (5.9%), 45 minute boil",
+        "1 ounce, Kent Goldings (4.9%), 30 minute boil",
+        "1 ounce, Fuggles (3.1%), 15 minute boil",
+        "1 ounce, Mt. Hood (3.5%), steep",
+        "Wyeast Chico ale yeast"
+    ],
+    "name": "Imperial Stout",
+    "name_raw": "Imperial Stout",
+    "rating": "3.8",
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": "4"
+}

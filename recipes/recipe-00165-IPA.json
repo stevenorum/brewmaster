@@ -1,0 +1,21 @@
+{
+    "bjcp": "14B",
+    "id": "165",
+    "ingredients": [
+        "5# Pale Malt Extract Syrup",
+        "4# Amber Malt Extract Syrup",
+        "1# Crystal Malt",
+        "1/2# Toasted Malted Barley",
+        "2 Tsp Gypsum",
+        "2 oz. Northern Brewers Hops (boil)",
+        "3/4 oz Cascade Hops (finishing)",
+        "Wyeast Britsh Ale (w/starter)"
+    ],
+    "name": "IPA",
+    "name_raw": "IPA",
+    "rating": "2.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "3"
+}

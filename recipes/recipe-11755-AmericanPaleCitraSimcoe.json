@@ -1,0 +1,32 @@
+{
+    "bjcp": "10A",
+    "id": "11755",
+    "ingredients": [
+        "7.93 gal - London, England (Water)",
+        "1.00 tbsp - PH 5.2 Stabilizer (Mash 60 min) (Misc)",
+        "7 lbs 11.3 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs 0.3 oz - Munich I (Weyermann) (7.1 SRM) (Grain)",
+        "7.0 oz - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "7.0 oz - Wheat Malt, Pale (Weyermann) (2.0 SRM) (Grain)",
+        "0.4 oz - Columbus (Tomahawk) [7.8%] - Boil 60 min (Hops)",
+        "0.4 oz - Simcoe [10.3%] - Boil 60 min (Hops)",
+        "0.4 oz - Citra [11.5%] - Boil 15 min (Hops)",
+        "0.2 oz - Simcoe [10.3%] - Boil 15 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.4 oz - Citra [11.5%] - Boil 5 min (Hops)",
+        "0.2 oz - Simcoe [10.3%] - Boil 5 min (Hops)",
+        "0.7 oz - Citra [11.5%] - Boil 0 min (Hops)",
+        "0.4 oz - Simcoe [10.3%] - Boil 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)",
+        "1.8 oz - Citra [11.5%] - Dry Hop 8 days (Hops)",
+        "1.8 oz - Citra [11.5%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "American Pale (Citra, Simcoe)",
+    "name_raw": "American Pale (Citra, Simcoe)",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "2"
+}

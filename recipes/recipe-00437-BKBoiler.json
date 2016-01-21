@@ -1,0 +1,33 @@
+{
+    "bjcp": "16B",
+    "id": "437",
+    "ingredients": [
+        "9 lb. 2-row pale malt",
+        "8 oz. Belgian pale malt",
+        "1 lb. Vienna malt",
+        "8 oz. Dextrin malt",
+        "6 oz. wheat flakes",
+        "8 oz. toasted pale malt (10 min @ 350F)",
+        "6 oz. Belgian Special B",
+        "2 oz. Chocolate malt",
+        "8 oz. light crystal (10 Lv)",
+        "8 oz. medium crystal(60 Lv)",
+        "4 oz. m-otter crystal(?? Lv)",
+        "2 tsp gypsum (in mash water)",
+        "1 oz. Perle (7.5% alpha) for 60 min",
+        ".75 oz. Perle (7.5% alpha) for 30 min",
+        ".5 oz. Tettnang (4.2% alpha) for 15 min",
+        ".5 oz. Cascade (5.1% alpha) for 0 min",
+        "1 tsp Irish Moss (last 10 min)",
+        "12 oz. clover honey (last 10 min)",
+        ".25 cup Barbados molasses (end of boil)",
+        "American Ale yeast (1056)"
+    ],
+    "name": "BK Boiler",
+    "name_raw": "BK Boiler",
+    "rating": "2.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Pale Ale",
+    "style_raw": "Belgian Pale Ale",
+    "votes": "1"
+}

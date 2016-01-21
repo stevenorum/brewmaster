@@ -1,0 +1,21 @@
+{
+    "bjcp": "16A",
+    "id": "4118",
+    "ingredients": [
+        "9.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "9.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "5.0 oz - Barley, Flaked (1.7 SRM) (Grain)",
+        "1 lbs 12.0 oz - Light Dry Extract (8.0 SRM) (Grain)",
+        "4 lbs - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "1.0 oz - Target [8.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Goldings, East Kent [4.5%] - Boil 60 min (Hops)",
+        "1 pkgs - Irish Ale (White Labs #WLP004) (Yeast)"
+    ],
+    "name": "Guinness Extra Stout (re-mixed)",
+    "name_raw": "Guinness Extra Stout (re-mixed)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": 0
+}

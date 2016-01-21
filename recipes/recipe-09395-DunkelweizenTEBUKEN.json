@@ -1,0 +1,29 @@
+{
+    "bjcp": "15B",
+    "id": "9395",
+    "ingredients": [
+        "3.57 gal - Tebuken Dark beers water (Water)",
+        "2.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "2.00 g - Chalk (Mash 60 min) (Misc)",
+        "2.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "1.90 g - Baking Soda (Mash 60 min) (Misc)",
+        "1.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "3 lbs 15.5 oz - Pilsner (2 Row)Maltear (2.0 SRM) (Grain)",
+        "2 lbs 10.3 oz - Wheat Malt (10.0 SRM) (Grain)",
+        "1 lbs 8.7 oz - Melanoiden Malt (20.0 SRM) (Grain)",
+        "1 lbs 5.2 oz - Munich Malt (9.0 SRM) (Grain)",
+        "8.8 oz - Caramel/Crystal Malt -140 L (140.0 SRM) (Grain)",
+        "8.8 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "3.5 oz - Acid Malt (3.0 SRM) (Grain)",
+        "0.8 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "0.5 oz - Hallertauer [4.8%] - Boil 15 min (Hops)",
+        "1 pkgs - Munich (Lallemand #- ) (Yeast)"
+    ],
+    "name": "Dunkelweizen TEBUKEN",
+    "name_raw": "Dunkelweizen TEBUKEN",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Dunkelweizen",
+    "style_raw": "Dunkelweizen",
+    "votes": "1"
+}

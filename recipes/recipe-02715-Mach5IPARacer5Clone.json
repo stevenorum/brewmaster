@@ -1,0 +1,27 @@
+{
+    "bjcp": "14B",
+    "id": "2715",
+    "ingredients": [
+        "12 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 13.2 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "11.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Caramel Pils Malt (2.0 SRM) (Grain)",
+        "0.6 oz - Columbus (Tomahawk) [14.0%] - Boil 90 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 20 min (Hops)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Boil 20 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 10 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 10 min (Hops)",
+        "1 pkgs - California Ale V (White Labs #WLP051) (Yeast)",
+        "0.5 oz - Cascade [5.5%] - Dry Hop 0 days (Hops)",
+        "0.5 oz - Centennial [10.0%] - Dry Hop 0 days (Hops)",
+        "0.5 oz - Chinook [13.0%] - Dry Hop 0 days (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Mach 5 IPA (Racer 5 Clone)",
+    "name_raw": "Mach 5 IPA (Racer 5 Clone)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

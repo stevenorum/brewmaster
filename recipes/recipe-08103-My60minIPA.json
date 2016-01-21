@@ -1,0 +1,30 @@
+{
+    "bjcp": "14B",
+    "id": "8103",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "6.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "0.2 oz - Warrior [15.0%] - Boil 60 min (Hops)",
+        "14.0 oz - Corn Sugar (Dextrose) [Boil for 60 min] (0.0 SRM) (Grain)",
+        "0.2 oz - Warrior [15.0%] - Boil 50 min (Hops)",
+        "0.2 oz - Warrior [15.0%] - Boil 40 min (Hops)",
+        "0.2 oz - Simcoe [13.0%] - Boil 30 min (Hops)",
+        "0.2 oz - Warrior [15.0%] - Boil 30 min (Hops)",
+        "0.2 oz - Palisade [7.5%] - Boil 20 min (Hops)",
+        "0.2 oz - Palisade [7.5%] - Boil 15 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.2 oz - Palisade [7.5%] - Boil 10 min (Hops)",
+        "0.2 oz - Palisade [7.5%] - Boil 5 min (Hops)",
+        "1 pkgs - British Ale Yeast (Wyeast Labs #1098) (Yeast)",
+        "0.8 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)",
+        "0.8 oz - Glacier [5.6%] - Dry Hop 7 days (Hops)",
+        "0.8 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "My 60 min IPA",
+    "name_raw": "My 60 min IPA",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

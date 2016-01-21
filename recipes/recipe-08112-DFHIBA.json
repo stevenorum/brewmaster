@@ -1,0 +1,25 @@
+{
+    "bjcp": "10C",
+    "id": "8112",
+    "ingredients": [
+        "11 lbs - Pilsner (2 Row) UK (1.0 SRM) (Grain)",
+        "1 lbs - Amber Malt (22.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Coffee Malt (200.0 SRM) (Grain)",
+        "8.0 oz - Corn, Flaked (1.3 SRM) (Grain)",
+        "2.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "8.0 oz - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "2.0 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Goldings, B.C. [5.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Steep 30 min (Hops)",
+        "1.0 oz - Liberty [4.3%] - Steep 30 min (Hops)",
+        "3 pkgs - Ringwood Ale (Wyeast Labs #1187) (Yeast)"
+    ],
+    "name": "DFH IBA",
+    "name_raw": "DFH IBA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "1"
+}

@@ -1,0 +1,21 @@
+{
+    "bjcp": "14B",
+    "id": "10074",
+    "ingredients": [
+        "12 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1.0 oz - Simcoe [13.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Boil 20 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1.0 oz - Simcoe [13.0%] - Boil 5 min (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "2.0 oz - Simcoe [14.1%] - Dry Hop 9 days (Hops)"
+    ],
+    "name": "Simcoe SMASH",
+    "name_raw": "Simcoe SMASH",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

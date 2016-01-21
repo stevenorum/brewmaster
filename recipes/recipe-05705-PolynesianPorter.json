@@ -1,0 +1,22 @@
+{
+    "bjcp": "12B",
+    "id": "5705",
+    "ingredients": [
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "2.4 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "2 lbs - Light Dry Extract (8.0 SRM) (Grain)",
+        "3 lbs 4.8 oz - Dark Liquid Extract (30.0 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 15 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)"
+    ],
+    "name": "Polynesian Porter",
+    "name_raw": "Polynesian Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

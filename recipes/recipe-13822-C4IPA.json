@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "13822",
+    "ingredients": [
+        "13 lbs Pale Malt (2 Row) US (2.0 SRM) Grain 1 89.7 %",
+        "1 lbs Caramel/Crystal Malt -120L (120.0 SRM) Grain 2 6.9 %",
+        "4.0 oz Caramel/Crystal Malt - 20L (20.0 SRM) Grain 3 1.7 %",
+        "4.0 oz Caramel/Crystal Malt - 40L (40.0 SRM) Grain 4 1.7 %",
+        "2.00 oz Columbus (Tomahawk) [14.00 %] - Boil 60.0 min Hop 5 89.7 IBUs",
+        "1.00 oz Chinook [13.00 %] - Boil 20.0 min Hop 6 25.2 IBUs",
+        "1.00 Items Whirlfloc Tablet (Boil 15.0 mins) Fining 7 -",
+        "1.00 oz Centennial [10.00 %] - Boil 10.0 min Hop 8 11.6 IBUs",
+        "0.75 oz Cascade [5.50 %] - Boil 5.0 min Hop 9 2.6 IBUs",
+        "1.0 pkg California Ale (White Labs \u202a#&lrm;WLP001\u202c) [35.49 ml] Yeast 10 -",
+        "1.00 oz Centennial [10.30 %] - Dry Hop 14.0 Days Hop 11 0.0 IBUs",
+        "1.00 oz Columbus (Tomahawk) [12.90 %] - Dry Hop 14.0 Days Hop 12 0.0 IBUs"
+    ],
+    "name": "C-4 IPA",
+    "name_raw": "C-4 IPA",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

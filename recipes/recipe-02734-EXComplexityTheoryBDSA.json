@@ -1,0 +1,24 @@
+{
+    "bjcp": "18E",
+    "id": "2734",
+    "ingredients": [
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Special B Malt (180.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "4.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "3 lbs - Amber Dry Extract (12.5 SRM) (Grain)",
+        "6 lbs - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "1 lbs - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "1.0 oz - Perle [8.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Tettnang [4.5%] - Boil 30 min (Hops)",
+        "1 pkgs - SafBrew Specialty Ale (DCL/Fermentis #T-58) (Yeast)"
+    ],
+    "name": "EX Complexity Theory BDSA",
+    "name_raw": "EX Complexity Theory BDSA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Dark Strong Ale",
+    "style_raw": "Belgian Dark Strong Ale",
+    "votes": "1"
+}

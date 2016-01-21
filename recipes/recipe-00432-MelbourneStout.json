@@ -1,0 +1,20 @@
+{
+    "bjcp": "13A",
+    "id": "432",
+    "ingredients": [
+        "6 lbs Australian dark extract",
+        "2 lbs Australian dark dry malt",
+        "4 oz roasted barley (crushed)",
+        "8 oz light crytal malt (crushed)",
+        "1 oz English fuggles pellets (alpha=4.5%)",
+        "1/2 oz English kent goldings pellets (alpha=4.3%)",
+        "English brewery liquid yeast (wyeast)"
+    ],
+    "name": "Melbourne Stout",
+    "name_raw": "Melbourne Stout",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "19"
+}

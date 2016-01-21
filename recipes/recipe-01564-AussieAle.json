@@ -1,0 +1,23 @@
+{
+    "bjcp": "1A",
+    "id": "1564",
+    "ingredients": [
+        "9 lbs 14.6 oz - Pale Malt (2 Row) UK (2.5 SRM) (Grain)",
+        "1 lbs 2.3 oz - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "7.1 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1.6 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "0.2 oz - Pride of Ringwood [10.0%] - First Wort (Hops)",
+        "9.2 oz - Cane (Beet) Sugar (0.0 SRM) (Grain)",
+        "0.2 oz - Pride of Ringwood [10.0%] - Boil 45 min (Hops)",
+        "1.1 oz - Pride of Ringwood [10.0%] - Boil 15 min (Hops)",
+        "0.6 oz - Pride of Ringwood [10.0%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "Aussie Ale",
+    "name_raw": "Aussie Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Lite American Lager",
+    "style_raw": "Lite American Lager",
+    "votes": 0
+}

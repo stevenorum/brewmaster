@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "951",
+    "ingredients": [
+        "8 lbs Pale Malt (2 Row) UK (3.0 SRM) 67.34 %",
+        "1 lbs Munich Malt (9.0 SRM) 8.42 %",
+        "1 lbs Vienna Malt (3.5 SRM) 8.42 %",
+        "12.0 oz Victory Malt (25.0 SRM) 6.31 %",
+        "8.0 oz Wheat Malt, Ger (2.0 SRM) 4.21 %",
+        "4.0 oz Cara-Pils/Dextrine (2.0 SRM) 2.10 %",
+        "4.0 oz Caramel/Crystal Malt - 10L (10.0 SRM) 2.10 %",
+        "2.0 oz Amber Malt (22.0 SRM) 1.09 %",
+        "0.60 oz Horizon [12.00 %] (60 min) 21.1 IBU",
+        "0.60 oz Horizon [12.00 %] (45 min) 19.4 IBU",
+        "1.00 oz Glacier [5.60 %] (10 min) 6.1 IBU",
+        "1.00 oz Glacier [5.60 %] (0 min)",
+        "1.00 oz Glacier [5.60 %] (Dry Hop 14 days)",
+        "1.00 tsp Yeast Nutrient (Primary 3.0 days) Misc",
+        "1 Pkg American Ale (Wyeast Labs #1056) [Starter 2000 ml]"
+    ],
+    "name": "Iceberg On The Horizon Pale Ale",
+    "name_raw": "Iceberg On The Horizon Pale Ale",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

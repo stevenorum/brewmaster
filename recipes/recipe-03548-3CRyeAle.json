@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "3548",
+    "ingredients": [
+        "8 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "1 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "14.0 oz - Rye, Flaked (2.0 SRM) (Grain)",
+        "8.0 oz - Honey Malt (25.0 SRM) (Grain)",
+        "8.0 oz - Victory Malt (25.0 SRM) (Grain)",
+        "0.4 oz - Centennial [10.0%] - First Wort (Hops)",
+        "0.4 oz - Columbus (Tomahawk) [14.0%] - First Wort (Hops)",
+        "0.4 oz - Centennial [10.0%] - Boil 10 min (Hops)",
+        "0.4 oz - Columbus (Tomahawk) [14.0%] - Boil 10 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Steep 1 min (Hops)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Steep 1 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "3 C Rye Ale",
+    "name_raw": "3 C Rye Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

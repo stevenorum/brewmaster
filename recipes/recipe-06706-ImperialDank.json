@@ -1,0 +1,26 @@
+{
+    "bjcp": "14B",
+    "id": "6706",
+    "ingredients": [
+        "24 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2.0 oz - Chinook [13.0%] - First Wort (Hops)",
+        "2 lbs - Cane (Beet) Sugar (0.0 SRM) (Grain)",
+        "2.0 oz - Summit [17.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Admiral [14.8%] - Boil 60 min (Hops)",
+        "1.0 oz - Chinook [13.0%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "3.0 oz - Centennial [9.7%] - Boil 15 min (Hops)",
+        "2.0 oz - Cascade [6.2%] - Steep 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "2.0 oz - Columbus [14.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Imperial Dank",
+    "name_raw": "Imperial Dank",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

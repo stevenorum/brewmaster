@@ -1,0 +1,27 @@
+{
+    "bjcp": "18E",
+    "id": "7740",
+    "ingredients": [
+        "15 lbs 12.4 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 1.0 oz - Caramunich Malt (56.0 SRM) (Grain)",
+        "7.5 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "5.3 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "4.3 oz - Special B Malt (180.0 SRM) (Grain)",
+        "3.2 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs 1.0 oz - Candi Sugar, Dark (275.0 SRM) (Grain)",
+        "4.3 oz - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "0.9 oz - Styrian Goldings [5.4%] - Boil 60 min (Hops)",
+        "0.2 oz - Hallertauer [4.8%] - Boil 15 min (Hops)",
+        "0.2 oz - Styrian Goldings [5.4%] - Boil 15 min (Hops)",
+        "0.2 oz - Hallertauer [4.8%] - Boil 1 min (Hops)",
+        "0.2 oz - Styrian Goldings [5.4%] - Boil 1 min (Hops)",
+        "0 pkgs - Abbey Ale (White Labs #WLP530) (Yeast)"
+    ],
+    "name": "Westvleteren 12 clone",
+    "name_raw": "Westvleteren 12 clone",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Dark Strong Ale",
+    "style_raw": "Belgian Dark Strong Ale",
+    "votes": 0
+}

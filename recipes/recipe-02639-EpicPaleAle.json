@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "2639",
+    "ingredients": [
+        "16 lbs - Brewers Malt 2-Row (Briess) (1.8 SRM) (Grain)",
+        "1 lbs 10.7 oz - Caramel Malt - 10L (Briess) (10.0 SRM) (Grain)",
+        "1 lbs 10.7 oz - Caramel Malt - 20L (Briess) (20.0 SRM) (Grain)",
+        "13.3 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "1.3 oz - Cascade [5.0%] - Boil 60 min (Hops)",
+        "1.3 oz - Cascade [5.0%] - Boil 30 min (Hops)",
+        "2.2 oz - Cascade [5.0%] - Boil 10 min (Hops)",
+        "2.5 oz - Cascade (Whirlpool 20 mins) [5.0%] - Boil 0 min (Hops)",
+        "2.5 oz - Cascade (Whirlpool another 20 mins) [5.0%] - Boil 0 min (Hops)",
+        "3 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)",
+        "1.7 oz - Cascade (Cold Crash 2nd Dry Hop) [5.0%] - Dry Hop 5 days (Hops)",
+        "1.7 oz - Cascade (Warm Dry Hop) [5.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Epic Pale Ale",
+    "name_raw": "Epic Pale Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

@@ -1,0 +1,27 @@
+{
+    "bjcp": "10A",
+    "id": "188",
+    "ingredients": [
+        "9.5 lbs. Klages 2-row",
+        "1.5 lbs. Crystal 40L",
+        "1 lb. Cara-Pils",
+        "1 lb. Red wheat malt",
+        "1.5 oz. Northern Brewers - 60 min.",
+        ".5 oz. Cascade - 60 min.",
+        ".5 oz. Northern Brewers - 30 min.",
+        ".25 oz. Cascade - 15 min.",
+        ".75 oz. Cascade - dry hop in primary",
+        "2 Teaspoons gypsum in mash water",
+        "2 TBS Dextrin powder in boil",
+        "1 Tsp. Irish Moss in boil",
+        "1/2 oz. Crushed coriander in boil (yeah, yeah)",
+        "Wyeast 1056 Chico Ale yeast"
+    ],
+    "name": "Pale Ale",
+    "name_raw": "Pale Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

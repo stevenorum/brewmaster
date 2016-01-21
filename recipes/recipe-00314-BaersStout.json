@@ -1,0 +1,22 @@
+{
+    "bjcp": "13A",
+    "id": "314",
+    "ingredients": [
+        "1/4 pound, flaked barley",
+        "1/4 pound, medium crystal malt",
+        "6 pounds, dark Australian malt extract",
+        "1/2 pound, dark Australian dry malt",
+        "1/4 pound, black patent malt",
+        "1/2 cup, molasses",
+        "2 ounces, Cascade hops (boil)",
+        "2/3 ounce, Northern Brewer hops (finish)",
+        "Wyeast British ale yeast"
+    ],
+    "name": "Baer's Stout",
+    "name_raw": "Baer's Stout",
+    "rating": "3.8",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "10"
+}

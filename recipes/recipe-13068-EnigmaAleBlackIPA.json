@@ -1,0 +1,24 @@
+{
+    "bjcp": "23A",
+    "id": "13068",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Carafa III (525.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "2.0 oz - Columbus (Tomahawk) [14.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Nugget [13.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Boil 0 min (Hops)",
+        "1.0 oz - Nugget [13.0%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale II (Wyeast Labs #1272) (Yeast)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Nugget [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Enigma Ale - Black IPA",
+    "name_raw": "Enigma Ale - Black IPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Specialty Beer",
+    "style_raw": "Specialty Beer",
+    "votes": 0
+}

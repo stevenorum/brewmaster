@@ -1,0 +1,30 @@
+{
+    "bjcp": "23A",
+    "id": "13074",
+    "ingredients": [
+        "10.4 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "9.4 oz - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "3 lbs 4.8 oz - Amber Liquid Extract (12.5 SRM) (Grain)",
+        "3 lbs 4.8 oz - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "0.5 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "0.3 oz - Cascade [5.5%] - Boil 20 min (Hops)",
+        "0.3 oz - Citra [12.0%] - Boil 20 min (Hops)",
+        "0.3 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "0.3 oz - Citra [12.0%] - Boil 15 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.3 oz - Cascade [5.5%] - Boil 10 min (Hops)",
+        "0.3 oz - Citra [12.0%] - Boil 10 min (Hops)",
+        "0.3 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "0.3 oz - Citra [12.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Nottingham Yeast (Lallemand #-) (Yeast)",
+        "2 lbs 1.4 oz - Honey (1.0 SRM) (Grain)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 12 days (Hops)"
+    ],
+    "name": "Custom Honey APA",
+    "name_raw": "Custom Honey APA",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Specialty Beer",
+    "style_raw": "Specialty Beer",
+    "votes": "1"
+}

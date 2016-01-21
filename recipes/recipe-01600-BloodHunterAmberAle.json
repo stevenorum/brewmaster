@@ -1,0 +1,21 @@
+{
+    "bjcp": "10B",
+    "id": "1600",
+    "ingredients": [
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "3 lbs - Amber Dry Extract (12.5 SRM) (Grain)",
+        "3 lbs - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "2.0 oz - Hersbrucker [4.3%] - Boil 45 min (Hops)",
+        "1.00 lbs - Honey (Boil 45 min) (Misc)",
+        "1.0 oz - Hersbrucker [4.3%] - Boil 30 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1 pkgs - Dry Ale Yeast (Nottingham #) (Yeast)"
+    ],
+    "name": "BloodHunter Amber Ale",
+    "name_raw": "BloodHunter Amber Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": 0
+}

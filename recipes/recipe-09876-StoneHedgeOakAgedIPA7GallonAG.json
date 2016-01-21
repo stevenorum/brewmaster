@@ -1,0 +1,30 @@
+{
+    "bjcp": "14B",
+    "id": "9876",
+    "ingredients": [
+        "15 lbs 12.9 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 5.1 oz - Vienna Malt (3.5 SRM) (Grain)",
+        "15.5 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "15.5 oz - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "0.6 oz - Nugget [13.0%] - First Wort (Hops)",
+        "0.6 oz - Summit [17.0%] - First Wort (Hops)",
+        "1.9 oz - Cascade [5.5%] - Steep 0 min (Hops)",
+        "1.9 oz - Centennial [10.0%] - Steep 0 min (Hops)",
+        "1.9 oz - Simcoe [13.0%] - Steep 0 min (Hops)",
+        "1.3 oz - Perle [8.0%] - Steep 1 min (Hops)",
+        "0.6 oz - Galaxy [14.0%] - Steep 60 min (Hops)",
+        "0.3 oz - Nelson Sauvin [12.0%] - Steep 60 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.3 oz - Cascade [5.5%] - Dry Hop 10 days (Hops)",
+        "1.3 oz - Simcoe [13.0%] - Dry Hop 10 days (Hops)",
+        "0.6 oz - Centennial [10.0%] - Dry Hop 10 days (Hops)",
+        "1.27 oz - Oak Chips (Secondary 8 weeks) (Misc)"
+    ],
+    "name": "StoneHedge, Oak Aged IPA (7-Gallon AG)",
+    "name_raw": "StoneHedge, Oak Aged IPA (7-Gallon AG)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

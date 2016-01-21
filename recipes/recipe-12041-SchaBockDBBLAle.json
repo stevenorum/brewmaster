@@ -1,0 +1,25 @@
+{
+    "bjcp": "3B",
+    "id": "12041",
+    "ingredients": [
+        "8 lbs - Mild Malt (4.0 SRM) (Grain)",
+        "8 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "5 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "3 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.8 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "2.3 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "1.7 oz - Hallertauer [4.8%] - Boil 20 min (Hops)",
+        "0.82 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.1 oz - Hallertauer [4.8%] - Boil 1 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "SchaBock DBBL Ale",
+    "name_raw": "SchaBock DBBL Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Oktoberfest/M??rzen",
+    "style_raw": "Oktoberfest/M\u00e4rzen",
+    "votes": 0
+}

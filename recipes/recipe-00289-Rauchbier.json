@@ -1,0 +1,21 @@
+{
+    "bjcp": "22A",
+    "id": "289",
+    "ingredients": [
+        "10 lbs. Belgian Pils malt",
+        "1 lb. smoked pale malt",
+        ".5 lb. 30L crystal malt",
+        "3/4 oz. Buillion hops (boiling)",
+        "3/4 oz. Hallertau hops (boiling)",
+        "3/4 oz. Hallertau hops (added at end of boil)",
+        "Whitbread dry ale yeast",
+        "3/4 cup corn sugar for priming"
+    ],
+    "name": "Rauchbier",
+    "name_raw": "Rauchbier",
+    "rating": "1.0",
+    "source": "beerrecipes.com",
+    "style": "Classic Rauchbier",
+    "style_raw": "Classic Rauchbier",
+    "votes": "4"
+}

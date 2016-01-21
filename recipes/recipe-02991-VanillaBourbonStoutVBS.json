@@ -1,0 +1,28 @@
+{
+    "bjcp": "13B",
+    "id": "2991",
+    "ingredients": [
+        "1 lbs - British Crystal Malt / ESB (3.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "4.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "8.0 oz - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "4.0 oz - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "4.0 oz - Molasses (80.0 SRM) (Grain)",
+        "5 lbs - Dark Dry Extract [Boil for 60 min] (17.5 SRM) (Grain)",
+        "1.5 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "0.5 oz - Northern Brewer [8.5%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Fuggles [4.5%] - Boil 5 min (Hops)",
+        "1 pkgs - London Ale III (Wyeast Labs #1318) (Yeast)",
+        "4.00 oz - Oak Chips (toasted bourbon) (Secondary 7 days) (Misc)",
+        "1.00 - Vanilla Bean (Secondary) (Secondary 0 min) (Misc)"
+    ],
+    "name": "Vanilla Bourbon Stout (VBS)",
+    "name_raw": "Vanilla Bourbon Stout (VBS)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Sweet Stout",
+    "style_raw": "Sweet Stout",
+    "votes": "1"
+}

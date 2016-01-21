@@ -1,0 +1,19 @@
+{
+    "bjcp": "10A",
+    "id": "111",
+    "ingredients": [
+        "3.3 pounds, Munton & Fison Old Ale extract (throw away yeast)",
+        "3 pounds, Laaglander light dry malt extract",
+        "1/2 pound, crushed crystal malt (40 L.)",
+        "1 ounce, Clusters pellets (60 minute boil)",
+        "1/2 ounce, Fuggles pellets (15 minute boil)",
+        "1 ounce, Goldings, Fuggles, Cascade, or Willamette whole hops"
+    ],
+    "name": "Al's Pale Ale",
+    "name_raw": "Al's Pale Ale",
+    "rating": "3.8",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "4"
+}

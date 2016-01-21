@@ -1,0 +1,33 @@
+{
+    "bjcp": "14B",
+    "id": "11663",
+    "ingredients": [
+        "5.55 gal - Sierra Nevada Torpedo Extra IPA (Water)",
+        "7.23 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "4.50 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "0.85 g - Salt (Mash 60 min) (Misc)",
+        "0.54 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "11 lbs 0.4 oz - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "14.1 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "7.1 oz - Pilsner (2 Row) Ger (1.4 SRM) (Grain)",
+        "3.00 - Defoamer (Boil 90 min) (Misc)",
+        "1.1 oz - Magnum [14.6%] - Boil 60 min (Hops)",
+        "0.5 oz - Magnum [14.6%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.21 g - Servomyces (Boil 10 min) (Misc)",
+        "3.00 g - Yeast Nutrient (Boil 10 min) (Misc)",
+        "1.1 oz - Crystal [5.2%] - Boil 5 min (Hops)",
+        "1.1 oz - Magnum [14.6%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "0.7 oz - Citra [12.1%] - Dry Hop 10 days (Hops)",
+        "0.7 oz - Crystal [5.3%] - Dry Hop 10 days (Hops)",
+        "0.7 oz - Magnum [14.7%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Sierra Nevada Torpedo Extra IPA 1,1",
+    "name_raw": "Sierra Nevada Torpedo Extra IPA 1,1",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

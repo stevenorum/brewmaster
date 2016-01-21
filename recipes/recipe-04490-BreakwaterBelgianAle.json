@@ -1,0 +1,25 @@
+{
+    "bjcp": "14B",
+    "id": "4490",
+    "ingredients": [
+        "8.0 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "3 lbs - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "1 lbs - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "0.5 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "0.2 oz - Chinook [13.0%] - Boil 45 min (Hops)",
+        "0.2 oz - Chinook [13.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Chinook [13.0%] - Boil 15 min (Hops)",
+        "3 lbs - Extra Light Dry Extract [Boil for 5 min] (3.0 SRM) (Grain)",
+        "0.5 oz - Chinook [13.0%] - Boil 2 min (Hops)",
+        "1 pkgs - Abbey Ale (White Labs #WLP530) (Yeast)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Breakwater Belgian Ale",
+    "name_raw": "Breakwater Belgian Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

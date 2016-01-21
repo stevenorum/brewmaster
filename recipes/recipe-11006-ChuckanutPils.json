@@ -1,0 +1,21 @@
+{
+    "bjcp": "2A",
+    "id": "11006",
+    "ingredients": [
+        "9 lbs - Pilsner (Weyermann) (1.7 SRM) (Grain)",
+        "5.4 oz - Carafoam (Weyermann) (2.0 SRM) (Grain)",
+        "4.0 oz - Acidulated (Weyermann) (1.8 SRM) (Grain)",
+        "0.9 oz - Tettnang (Tettnang Tettnager) [4.6%] - Boil 90 min (Hops)",
+        "0.9 oz - Tettnang (Tettnang Tettnager) [4.6%] - Boil 60 min (Hops)",
+        "0.9 oz - Tettnang (Tettnang Tettnager) [4.6%] - Boil 30 min (Hops)",
+        "0.9 oz - Tettnang (Tettnang Tettnager) [4.6%] - Steep 20 min (Hops)",
+        "2 pkgs - Bohemian Lager (Wyeast Labs #2124) (Yeast)"
+    ],
+    "name": "Chuckanut Pils",
+    "name_raw": "Chuckanut Pils",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "German Pilsner (Pils)",
+    "style_raw": "German Pilsner (Pils)",
+    "votes": "2"
+}

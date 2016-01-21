@@ -1,0 +1,25 @@
+{
+    "bjcp": "9D",
+    "id": "13452",
+    "ingredients": [
+        "11.36 gal - Dublin, Ireland (Water)",
+        "6 lbs 1.0 oz - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "4 lbs 10.1 oz - Munich Malt (7.6 SRM) (Grain)",
+        "4 lbs 3.0 oz - Vienna Malt (3.5 SRM) (Grain)",
+        "1 lbs 1.6 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "11.3 oz - Special B Malt (180.0 SRM) (Grain)",
+        "10.8 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "8.8 oz - Biscuit Malt (20.8 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [10.0%] - Boil 90 min (Hops)",
+        "0.5 oz - Hallertauer [4.8%] - Boil 30 min (Hops)",
+        "0.3 oz - Hallertauer [4.8%] - Boil 5 min (Hops)",
+        "1 pkgs - Irish Ale (Wyeast Labs #1084) (Yeast)"
+    ],
+    "name": "Irish Celt",
+    "name_raw": "Irish Celt",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Irish Red Ale",
+    "style_raw": "Irish Red Ale",
+    "votes": "1"
+}

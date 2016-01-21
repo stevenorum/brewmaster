@@ -1,0 +1,24 @@
+{
+    "bjcp": "13E",
+    "id": "2399",
+    "ingredients": [
+        "7 lbs - Pale Ale Malt, Northwestern (Great Western) (4.1 SRM) (Grain)",
+        "1 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Wheat - White Malt (Briess) (2.3 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "4.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "4.0 oz - Black Barley (Stout) (500.0 SRM) (Grain)",
+        "1.0 oz - Nugget [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Willamette [5.5%] - Steep 5 min (Hops)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "Kevin's Chocolate Stout",
+    "name_raw": "Kevin's Chocolate Stout",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Stout",
+    "style_raw": "American Stout",
+    "votes": "1"
+}

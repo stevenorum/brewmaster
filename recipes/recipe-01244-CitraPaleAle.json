@@ -1,0 +1,31 @@
+{
+    "bjcp": "14B",
+    "id": "1244",
+    "ingredients": [
+        "Extract",
+        "6.0 lbs. Pale malt extract",
+        "Grain",
+        "2.0 lbs. Marris Otter",
+        "1.0 lbs. Crystal 30",
+        "0.5 lbs. cara-pils",
+        "Hops",
+        "1.0 oz Simcoe 60 min",
+        "1.0 oz Simcoe 30 min",
+        "0.5 oz Citra 10 min",
+        "0.5 oz Citra 5 min",
+        "0.5 oz Amarillo 10 min",
+        "0.5 oz Amarillo 5 min",
+        "Dry Hop (14 days)",
+        "1.0 oz Citra",
+        "1.0 oz Amarillo",
+        "Yeast",
+        "White Labs California Ale (WLP001)"
+    ],
+    "name": "Citra Pale Ale",
+    "name_raw": "Citra Pale Ale",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "13"
+}

@@ -1,0 +1,23 @@
+{
+    "bjcp": "2A",
+    "id": "3309",
+    "ingredients": [
+        "12.00 gal - Ottawa (Water)",
+        "1.00 tbsp - PH 5.2 Stabilizer (Mash 60 min) (Misc)",
+        "20 lbs - Pilsner (Weyermann) (1.7 SRM) (Grain)",
+        "2 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Caramunich I (Weyermann) (51.0 SRM) (Grain)",
+        "1.8 oz - Perle [9.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Saaz [4.0%] - Boil 45 min (Hops)",
+        "1.0 oz - Hallertauer [4.8%] - Boil 45 min (Hops)",
+        "2.0 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Bohemian Lager (Wyeast Labs #2124) (Yeast)"
+    ],
+    "name": "Goto Lager (GTL)",
+    "name_raw": "Goto Lager (GTL)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "German Pilsner (Pils)",
+    "style_raw": "German Pilsner (Pils)",
+    "votes": "1"
+}

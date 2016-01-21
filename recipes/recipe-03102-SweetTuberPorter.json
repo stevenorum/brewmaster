@@ -1,0 +1,28 @@
+{
+    "bjcp": "12B",
+    "id": "3102",
+    "ingredients": [
+        "2 lbs - Sweet potato (3.0 SRM) (Grain)",
+        "1 lbs - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1 lbs - Pale Malt (6 Row) US (2.0 SRM) (Grain)",
+        "3 lbs 4.0 oz - Light Dry Extract (8.0 SRM) (Grain)",
+        "3 lbs - Amber Dry Extract (12.5 SRM) (Grain)",
+        "1 lbs - Dark Dry Extract (17.5 SRM) (Grain)",
+        "8.0 oz - Brown Sugar, Dark (50.0 SRM) (Grain)",
+        "1.0 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 20 min (Hops)",
+        "0.26 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.5 oz - Hallertauer [4.8%] - Boil 5 min (Hops)",
+        "0.11 oz - Cinnamon Stick (Boil 5 min) (Misc)",
+        "0.05 oz - allspice (Boil 5 min) (Misc)",
+        "0.05 oz - nutmeg (Boil 5 min) (Misc)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "Sweet Tuber Porter",
+    "name_raw": "Sweet Tuber Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

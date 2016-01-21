@@ -1,0 +1,28 @@
+{
+    "bjcp": "10C",
+    "id": "9164",
+    "ingredients": [
+        "20 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2 lbs - Victory Malt (25.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1.5 oz - Apollo [18.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Centennial [8.7%] - Boil 15 min (Hops)",
+        "0.5 oz - Chinook [12.1%] - Boil 15 min (Hops)",
+        "0.5 oz - Centennial [8.7%] - Boil 5 min (Hops)",
+        "0.5 oz - Chinook [12.1%] - Boil 5 min (Hops)",
+        "0.5 oz - Nugget [13.3%] - Boil 5 min (Hops)",
+        "1.0 oz - Chinook [12.1%] - Boil 0 min (Hops)",
+        "0.5 oz - Apollo [18.0%] - Boil 0 min (Hops)",
+        "0.5 oz - Nugget [13.3%] - Boil 0 min (Hops)",
+        "2 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "Battle Toad",
+    "name_raw": "Battle Toad",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "1"
+}

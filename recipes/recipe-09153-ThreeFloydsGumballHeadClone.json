@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "9153",
+    "ingredients": [
+        "6 lbs 8.0 oz - Red Wheat (3.5 SRM) (Grain)",
+        "5 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caravienne Malt (22.0 SRM) (Grain)",
+        "0.2 oz - Amarillo Gold [8.5%] - First Wort (Hops)",
+        "0.2 oz - Amarillo Gold [8.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 15 min (Hops)",
+        "1.2 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 1 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.5 oz - Amarillo Gold [8.5%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Three Floyds GumballHead Clone",
+    "name_raw": "Three Floyds GumballHead Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

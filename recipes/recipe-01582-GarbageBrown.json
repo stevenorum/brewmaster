@@ -1,0 +1,21 @@
+{
+    "bjcp": "10C",
+    "id": "1582",
+    "ingredients": [
+        "9 lbs - Brewers Malt 2-Row (Briess) (1.8 SRM) (Grain)",
+        "1 lbs - Caramel Malt - 60L (Briess) (60.0 SRM) (Grain)",
+        "1 lbs - Munich 10L Organic (Briess) (10.0 SRM) (Grain)",
+        "8.0 oz - Chocolate (Crisp) (630.0 SRM) (Grain)",
+        "0.5 oz - Chinook [11.4%] - Boil 60 min (Hops)",
+        "0.5 oz - Chinook [11.4%] - Boil 10 min (Hops)",
+        "1.0 oz - Chinook [11.4%] - Boil 0 min (Hops)",
+        "2 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "Garbage Brown",
+    "name_raw": "Garbage Brown",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": 0
+}

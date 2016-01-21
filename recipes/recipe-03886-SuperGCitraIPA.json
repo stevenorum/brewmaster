@@ -1,0 +1,28 @@
+{
+    "bjcp": "14B",
+    "id": "3886",
+    "ingredients": [
+        "11 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "0.2 oz - Super Galena [12.0%] - First Wort (Hops)",
+        "0.2 oz - Super Galena [12.0%] - Boil 60 min (Hops)",
+        "0.2 oz - Super Galena [12.0%] - Boil 50 min (Hops)",
+        "0.2 oz - Super Galena [12.0%] - Boil 40 min (Hops)",
+        "1.03 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Citra [13.4%] - Boil 15 min (Hops)",
+        "0.5 oz - Citra [13.4%] - Boil 7 min (Hops)",
+        "0.5 oz - Citra [13.4%] - Boil 5 min (Hops)",
+        "0.5 oz - Citra [13.4%] - Boil 1 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Super G Citra IPA",
+    "name_raw": "Super G Citra IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

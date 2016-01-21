@@ -1,0 +1,31 @@
+{
+    "bjcp": "14B",
+    "id": "1527",
+    "ingredients": [
+        "13lbs 12.5oz Pale Malt (2 Row) US (2.0 SRM)",
+        "12.3oz Cara-Pils/Dextrine (2.0 SRM)",
+        "12.3oz Caramel/Crystal Malt - 10L (10.0 SRM)",
+        "12.3oz\tMunich Malt (9.0 SRM)",
+        "6oz Honey Malt (25.0 SRM)",
+        "5.9oz White Wheat Malt (2.4 SRM)",
+        "0.9oz Nugget [13.0%] hops - Boil 60 min",
+        "0.9oz Citra [12.0%] hops - Boil 30 min",
+        "1oz Whirlfloc Tablet hops (Boil 15 min)",
+        "0.9oz Citra [12.0%] hops - Boil 15 min",
+        "0.9oz Citra [12.0%] hops - Boil 10 min",
+        "0.9oz Citra [12.0%] hops - Boil 5 min",
+        "1pkg California Ale yeast (White Labs #WLP001)",
+        "1.2oz Citra [12.0%] - Dry Hop 12 days",
+        "0.5oz Amarillo Gold [8.5%] - Dry Hop 12 days",
+        "0.7oz Citra [12.0%] - Dry Hop 9 days",
+        "0.9oz Amarillo Gold [8.5%] - Dry Hop 6 days",
+        "1.1oz Citra [12.0%] - Dry Hop 3 days"
+    ],
+    "name": "Citra Double IPA (clone)",
+    "name_raw": "Citra Double IPA (clone)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

@@ -1,0 +1,28 @@
+{
+    "bjcp": "14C",
+    "id": "1543",
+    "ingredients": [
+        "12 lbs 4.0 oz - Brewers Malt 2-Row (Briess) (1.8 SRM) (Grain)",
+        "1 lbs - Munich 10L (Briess) (10.0 SRM) (Grain)",
+        "12.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "5.0 oz - Caramel Malt - 40L (Briess) (40.0 SRM) (Grain)",
+        "1.5 oz - Chinook [12.0%] - Mash Hop (Hops)",
+        "3.0 oz - Nugget [11.6%] - First Wort (Hops)",
+        "1.0 oz - Chinook [12.0%] - First Wort (Hops)",
+        "3 lbs - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "1.0 oz - Simcoe [12.0%] - Boil 45 min (Hops)",
+        "2.0 oz - Centennial [10.4%] - Boil 5 min (Hops)",
+        "1.0 oz - Simcoe [12.0%] - Boil 5 min (Hops)",
+        "2 pkgs - SafAle US-56 (Fermentis #US-56) (Yeast)",
+        "3.2 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 3 days (Hops)",
+        "1.8 oz - Centennial [10.4%] - Dry Hop 3 days (Hops)",
+        "1.8 oz - Simcoe [12.0%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "lupus salictarius (60)",
+    "name_raw": "lupus salictarius (60)",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "bjcp": "14B",
+    "id": "8001",
+    "ingredients": [
+        "15 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1.0 oz - Nugget [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Nugget [13.0%] - Boil 30 min (Hops)",
+        "1.0 oz - Nugget [13.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Nugget bomb",
+    "name_raw": "Nugget bomb",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

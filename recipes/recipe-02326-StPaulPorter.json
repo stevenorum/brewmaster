@@ -1,0 +1,20 @@
+{
+    "bjcp": "12B",
+    "id": "2326",
+    "ingredients": [
+        "8 lbs 8.0 oz - Brewers Malt 2-Row (Briess) (1.8 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Wheat (Weyermann) (415.0 SRM) (Grain)",
+        "1.5 oz - Cluster [7.0%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.0 oz - Cascade [5.5%] - Boil 1 min (Hops)",
+        "1 pkgs - Ringwood Ale (Wyeast Labs #1187) (Yeast)"
+    ],
+    "name": "St Paul Porter",
+    "name_raw": "St Paul Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

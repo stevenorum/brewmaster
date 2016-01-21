@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "2262",
+    "ingredients": [
+        "12 lbs 12.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "12.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "4.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1.0 oz - Columbus (Tomahawk) [12.3%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.0 oz - Chinook [11.9%] - Boil 10 min (Hops)",
+        "1.0 oz - Willamette [4.7%] - Boil 5 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.2%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "0.5 oz - Amarillo Gold [8.2%] - Dry Hop 7 days (Hops)",
+        "0.5 oz - Chinook [11.9%] - Dry Hop 7 days (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [12.3%] - Dry Hop 7 days (Hops)",
+        "0.2 oz - Willamette [4.7%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Leftover APA",
+    "name_raw": "Leftover APA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

@@ -1,0 +1,27 @@
+{
+    "bjcp": "14B",
+    "id": "7894",
+    "ingredients": [
+        "11 lbs - Pale Ale Malt 2-Row (Briess) (3.5 SRM) (Grain)",
+        "2 lbs 8.0 oz - White Wheat Malt (2.4 SRM) (Grain)",
+        "12.0 oz - Caracrystal Wheat Malt (55.0 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "4.0 oz - Acidulated (Weyermann) (1.8 SRM) (Grain)",
+        "8.0 oz - Sugar, Table (Sucrose) (1.0 SRM) (Grain)",
+        "2.0 oz - Galena [12.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Galaxy [14.0%] - Boil 7 min (Hops)",
+        "1.2 oz - Zythos [10.0%] - Boil 7 min (Hops)",
+        "2.0 oz - Galaxy [14.0%] - Boil 2 min (Hops)",
+        "1.2 oz - Zythos [10.0%] - Boil 2 min (Hops)",
+        "1 pkgs - Conan ( #) (Yeast)",
+        "2.0 oz - Simcoe [13.0%] - Dry Hop 6 days (Hops)",
+        "4.0 oz - Galaxy [14.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Intergalactic IPA actual",
+    "name_raw": "Intergalactic IPA actual",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

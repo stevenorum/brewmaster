@@ -1,0 +1,20 @@
+{
+    "bjcp": "14C",
+    "id": "8003",
+    "ingredients": [
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "13 lbs 3.2 oz - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "3.0 oz - Nugget [14.8%] - Boil 90 min (Hops)",
+        "2.0 oz - Millenium [14.2%] - Boil 60 min (Hops)",
+        "1.0 oz - Warrior [15.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Warrior [15.0%] - Boil 15 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)"
+    ],
+    "name": "Jeff's Imperial India Pale ale",
+    "name_raw": "Jeff's Imperial India Pale ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

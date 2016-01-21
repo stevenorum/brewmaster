@@ -1,0 +1,25 @@
+{
+    "bjcp": "10B",
+    "id": "11832",
+    "ingredients": [
+        "8 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Biscuit Malt (23.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1 lbs - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Roasted Barley (200.0 SRM) (Grain)",
+        "1.0 oz - Citra [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Centennial [9.2%] - Boil 45 min (Hops)",
+        "1.0 oz - Chinook [11.1%] - Boil 15 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.0 oz - Cascade [7.3%] - Boil 5 min (Hops)",
+        "2 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "DAmp Ambre Ale",
+    "name_raw": "DAmp Ambre Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": 0
+}

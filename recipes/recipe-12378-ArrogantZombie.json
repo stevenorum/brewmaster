@@ -1,0 +1,29 @@
+{
+    "bjcp": "14B",
+    "id": "12378",
+    "ingredients": [
+        "12.00 gal - Chicago, IL (Water)",
+        "26 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "1 lbs - Caramunich Malt (56.0 SRM) (Grain)",
+        "1 lbs - Special B Malt (180.0 SRM) (Grain)",
+        "1.0 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 20 min (Hops)",
+        "2.0 oz - Chinook [13.0%] - Boil 20 min (Hops)",
+        "1.0 oz - Magnum [14.0%] - Boil 20 min (Hops)",
+        "2.0 oz - Chinook [13.0%] - Boil 1 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 1 min (Hops)",
+        "2 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "2 lbs - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "8.00 oz - Oak Chips (Secondary 7 days) (Misc)"
+    ],
+    "name": "Arrogant Zombie",
+    "name_raw": "Arrogant Zombie",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

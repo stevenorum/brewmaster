@@ -1,0 +1,31 @@
+{
+    "bjcp": "18D",
+    "id": "8027",
+    "ingredients": [
+        "10 lbs 5.8 oz - Pilsner (2 Row) UK (1.0 SRM) (Grain)",
+        "8.8 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "4.2 oz - Aromatic Malt (76.1 SRM) (Grain)",
+        "2.1 oz - Caramel/Crystal Malt - 60L (68.5 SRM) (Grain)",
+        "10.6 oz - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "10.6 oz - Cane (Beet) Sugar (0.0 SRM) (Grain)",
+        "1.1 oz - Styrian Goldings [5.2%] - Boil 90 min (Hops)",
+        "0.7 oz - Styrian Goldings [5.2%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Styrian Goldings [5.2%] - Boil 15 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.5 oz - Saaz [4.0%] - Boil 3 min (Hops)",
+        "1.00 tsp - Yeast Nutrient (Boil 3 min) (Misc)",
+        "1 pkgs - Belgian Golden Ale (White Labs #WLP570) (Yeast)",
+        "8.8 oz - Cane (Beet) Sugar - into secondary (0.0 SRM) (Grain)",
+        "7.9 oz - Cane (Beet) Sugar (0.0 SRM) (Grain)",
+        "1 pkgs - Belgian Golden Ale (White Labs #WLP570) (Yeast)"
+    ],
+    "name": "MG Belgian Gold",
+    "name_raw": "MG Belgian Gold",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Golden Strong Ale",
+    "style_raw": "Belgian Golden Strong Ale",
+    "votes": 0
+}

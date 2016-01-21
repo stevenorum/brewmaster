@@ -1,0 +1,23 @@
+{
+    "bjcp": "10C",
+    "id": "1150",
+    "ingredients": [
+        "10 # Pale Malt (2 row) US",
+        ".5 # Crystal Malt 80L",
+        ".5 # Chocolate Malt",
+        ".5 oz Nugget Hops 60 min",
+        ".5oz Nugget hops 45 min",
+        ".5oz Nugget hops 15 min",
+        ".5 oz Nugget hops 5 min",
+        "8 oz Malto dextrin 60 min",
+        "1 pk London Ale Yeast (White Labs #WLP013)",
+        "10 gallons Water"
+    ],
+    "name": "6 & 0 Brown Ale",
+    "name_raw": "6 & 0 Brown Ale",
+    "rating": "3.4",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "9"
+}

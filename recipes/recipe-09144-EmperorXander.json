@@ -1,0 +1,25 @@
+{
+    "bjcp": "14C",
+    "id": "9144",
+    "ingredients": [
+        "11 lbs 0.4 oz - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Munich Malt (9.0 SRM) (Grain)",
+        "12.3 oz - Caraaroma (130.0 SRM) (Grain)",
+        "10.6 oz - Rice, Flaked (1.0 SRM) (Grain)",
+        "2.1 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "0.4 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "0.4 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "0.4 oz - Amarillo Gold [8.5%] - Boil 0 min (Hops)",
+        "0.4 oz - Cascade [5.5%] - Boil 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.2 oz - Amarillo Gold [8.5%] - Dry Hop 10 days (Hops)",
+        "1.2 oz - Cascade [5.5%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Emperor Xander",
+    "name_raw": "Emperor Xander",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

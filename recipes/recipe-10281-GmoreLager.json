@@ -1,0 +1,22 @@
+{
+    "bjcp": "2C",
+    "id": "10281",
+    "ingredients": [
+        "7 lbs 14.2 oz - Lager Malt (2.0 SRM) (Grain)",
+        "6 lbs - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "2.1 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1.0 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "0.3 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.24 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.3 oz - Cluster [7.0%] - Boil 15 min (Hops)",
+        "0.2 oz - Saaz [4.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Czech Pilsner Lager (Wyeast Labs #2278) (Yeast)"
+    ],
+    "name": "Gmore Lager",
+    "name_raw": "Gmore Lager",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Classic American Pilsner",
+    "style_raw": "Classic American Pilsner",
+    "votes": 0
+}

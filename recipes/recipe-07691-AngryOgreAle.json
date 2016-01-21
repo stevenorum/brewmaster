@@ -1,0 +1,23 @@
+{
+    "bjcp": "14B",
+    "id": "7691",
+    "ingredients": [
+        "16 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Special B Malt (180.0 SRM) (Grain)",
+        "4.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Special Roast (50.0 SRM) (Grain)",
+        "2.0 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Chinook [13.0%] - Boil 45 min (Hops)",
+        "1.0 oz - Chinook [13.0%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale V (White Labs #WLP051) (Yeast)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Angry Ogre Ale",
+    "name_raw": "Angry Ogre Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

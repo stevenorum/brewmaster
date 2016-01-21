@@ -1,0 +1,26 @@
+{
+    "bjcp": "14C",
+    "id": "10510",
+    "ingredients": [
+        "11 lbs 0.4 oz - Pale Malt (Weyermann) (3.3 SRM) (Grain)",
+        "12.3 oz - Abbey Malt (Weyermann) (22.8 SRM) (Grain)",
+        "12.3 oz - Carapils k51D (2.0 SRM) (Grain)",
+        "8.8 oz - Dark Crystal Malt (152.3 SRM) (Grain)",
+        "8.8 oz - Muntons dry extract (4.1 SRM) (Grain)",
+        "1.8 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "0.9 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "0.9 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "0.26 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.9 oz - Goldings, East Kent [5.0%] - Boil 10 min (Hops)",
+        "0.9 oz - Saaz [4.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Cry Havoc (White Labs #WLP862) (Yeast)",
+        "1.8 oz - Saaz [4.0%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Imperial IPA",
+    "name_raw": "Imperial IPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

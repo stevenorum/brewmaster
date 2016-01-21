@@ -1,0 +1,29 @@
+{
+    "bjcp": "14C",
+    "id": "4845",
+    "ingredients": [
+        "13.1 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "12.9 oz - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "9 lbs 11.6 oz - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "3.8 oz - Wheat Liquid Extract (8.0 SRM) (Grain)",
+        "0.8 oz - Nugget [13.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Citra [12.0%] - Boil 30 min (Hops)",
+        "0.83 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.8 oz - Citra [12.0%] - Boil 15 min (Hops)",
+        "0.8 oz - Citra [12.0%] - Boil 10 min (Hops)",
+        "0.8 oz - Citra [12.0%] - Boil 5 min (Hops)",
+        "0 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 12 days (Hops)",
+        "0.4 oz - Amarillo Gold [8.5%] - Dry Hop 12 days (Hops)",
+        "0.6 oz - Citra [12.0%] - Dry Hop 9 days (Hops)",
+        "0.8 oz - Amarillo Gold [8.5%] - Dry Hop 6 days (Hops)",
+        "0.9 oz - Citra [12.0%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "JFree Citra IPA",
+    "name_raw": "JFree Citra IPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

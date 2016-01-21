@@ -1,0 +1,26 @@
+{
+    "bjcp": "10C",
+    "id": "12901",
+    "ingredients": [
+        "9 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "5.3 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "2.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [5.0%] - First Wort (Hops)",
+        "1.0 oz - Liberty [4.3%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Willamette [5.5%] - Boil 5 min (Hops)",
+        "0.8 oz - Liberty [4.3%] - Boil 0 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)"
+    ],
+    "name": "Moose Drool clone",
+    "name_raw": "Moose Drool clone",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": 0
+}

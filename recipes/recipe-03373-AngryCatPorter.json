@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "3373",
+    "ingredients": [
+        "7 lbs - Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "12.0 oz - Caramel Malt - 120L 6-Row (Briess) (120.0 SRM) (Grain)",
+        "12.0 oz - Caramel Malt - 80L 6-Row (Briess) (80.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "8.0 oz - Barley, Flaked (1.7 SRM) (Grain)",
+        "3.0 oz - Black Malt (550.0 SRM) (Grain)",
+        "1.5 oz - Roasted Barley (500.0 SRM) (Grain)",
+        "1.3 oz - Goldings, B.C. [3.2%] - Boil 60 min (Hops)",
+        "1.0 oz - Northern Brewer [8.6%] - Boil 60 min (Hops)",
+        "1.10 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "1.0 oz - Willamette [4.5%] - Steep 2 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)"
+    ],
+    "name": "Angry Cat Porter",
+    "name_raw": "Angry Cat Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

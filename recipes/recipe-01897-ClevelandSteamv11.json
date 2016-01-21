@@ -1,0 +1,22 @@
+{
+    "bjcp": "7B",
+    "id": "1897",
+    "ingredients": [
+        "8 lbs - Pale Malt - 2 Row (Schreier) (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1.6 oz - Chocolate Dark 6-Row (Briess) (420.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [8.6%] - Boil 45 min (Hops)",
+        "0.5 oz - Northern Brewer [10.0%] - Boil 15 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1 pkgs - California Lager (Wyeast Labs #2112) (Yeast)"
+    ],
+    "name": "Cleveland Steam v1.1",
+    "name_raw": "Cleveland Steam v1.1",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "California Common Beer",
+    "style_raw": "California Common Beer",
+    "votes": 0
+}

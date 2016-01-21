@@ -1,0 +1,27 @@
+{
+    "bjcp": "12B",
+    "id": "1836",
+    "ingredients": [
+        "16 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1 lbs - Carapils (Briess) (1.5 SRM) (Grain)",
+        "1 lbs - Chocolate (Briess) (350.0 SRM) (Grain)",
+        "1 lbs - Crystal Malt - 60L (Thomas Fawcett) (60.0 SRM) (Grain)",
+        "1 lbs - Munich (Cargill) (9.5 SRM) (Grain)",
+        "3.0 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "2.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Fuggles [4.5%] - Boil 15 min (Hops)",
+        "2.0 oz - Fuggles [4.5%] - Boil 0 min (Hops)",
+        "2.0 oz - Goldings, East Kent [5.0%] - Steep 0 min (Hops)",
+        "2 pkgs - British Ale (White Labs #WLP005) (Yeast)",
+        "8.00 oz - Oak Chips (Secondary 7 days) (Misc)"
+    ],
+    "name": "Santa's Spittoon Imperial Porter v1.1",
+    "name_raw": "Santa's Spittoon Imperial Porter v1.1",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

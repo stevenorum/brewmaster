@@ -1,0 +1,27 @@
+{
+    "bjcp": "13F",
+    "id": "7012",
+    "ingredients": [
+        "10 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "4 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "1 lbs - Caracrystal Wheat Malt (55.0 SRM) (Grain)",
+        "12.0 oz - Chocolate (Dingemans) (340.0 SRM) (Grain)",
+        "12.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "12.0 oz - Special B Malt (130.0 SRM) (Grain)",
+        "8.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "1.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "4.0 oz - Date Molasses (80.0 SRM) (Grain)",
+        "2.0 oz - Legacy [7.8%] - Boil 60 min (Hops)",
+        "1.5 oz - Legacy [7.8%] - Boil 30 min (Hops)",
+        "1 lbs - D-90 Candi Sugar [Boil for 10 min] (90.0 SRM) (Grain)",
+        "1 pkgs - Belgian Ale Yeast (Wyeast Labs #1214) (Yeast)"
+    ],
+    "name": "Belgian Imperial Stout",
+    "name_raw": "Belgian Imperial Stout",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": "1"
+}

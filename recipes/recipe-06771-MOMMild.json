@@ -1,0 +1,30 @@
+{
+    "bjcp": "11A",
+    "id": "6771",
+    "ingredients": [
+        "10.00 gal - Distilled Water (Water)",
+        "1.00 tsp - Calcium Chloride (Mash 90 min) (Misc)",
+        "0.50 tsp - Phosphoric Acid 10% (Mash 90 min) (Misc)",
+        "4 lbs 3.0 oz - Brewers Malt 2-Row (Briess) (1.8 SRM) (Grain)",
+        "1 lbs 13.9 oz - Munich 10L Organic (Briess) (10.0 SRM) (Grain)",
+        "10.0 oz - Wheat - White Malt (Briess) (2.3 SRM) (Grain)",
+        "8.5 oz - Chocolate (Crisp) (630.0 SRM) (Grain)",
+        "5.3 oz - Caramel Malt - 60L (Briess) (60.0 SRM) (Grain)",
+        "5.3 oz - Caramel Malt - 80L (Briess) (80.0 SRM) (Grain)",
+        "4.2 oz - Smoked Malt (9.0 SRM) (Grain)",
+        "3.5 oz - Black Malt - 2-Row (Briess) (500.0 SRM) (Grain)",
+        "1.4 oz - Carafa II (412.0 SRM) (Grain)",
+        "1.4 oz - Roasted Barley (Briess) (300.0 SRM) (Grain)",
+        "5.0 oz - Brown Sugar, Light (8.0 SRM) (Grain)",
+        "0.6 oz - Willamette [7.5%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "MOM Mild",
+    "name_raw": "MOM Mild",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Mild",
+    "style_raw": "Mild",
+    "votes": 0
+}

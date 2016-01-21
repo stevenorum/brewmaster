@@ -1,0 +1,24 @@
+{
+    "bjcp": "12A",
+    "id": "2675",
+    "ingredients": [
+        "16 lbs 8.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs 4.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.0 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "0.5 oz - Nugget [12.2%] - First Wort (Hops)",
+        "0.8 oz - Nugget [12.2%] - Boil 60 min (Hops)",
+        "0.55 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.8 oz - Fuggle [5.1%] - Boil 5 min (Hops)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 5 min (Hops)",
+        "4 pkgs - SafBrew Specialty Ale (DCL/Fermentis #T-58) (Yeast)"
+    ],
+    "name": "Moonpile's Modest Porter",
+    "name_raw": "Moonpile's Modest Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Brown Porter",
+    "style_raw": "Brown Porter",
+    "votes": 0
+}

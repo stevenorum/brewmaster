@@ -1,0 +1,21 @@
+{
+    "bjcp": "7C",
+    "id": "3483",
+    "ingredients": [
+        "5 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "3 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "8.0 oz - Caramunich Malt (56.0 SRM) (Grain)",
+        "2.0 oz - Black Barley (Stout) (500.0 SRM) (Grain)",
+        "0.5 oz - Cluster [7.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Cluster [7.5%] - Boil 45 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Ralph's Original Alt",
+    "name_raw": "Ralph's Original Alt",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "D??sseldorf Altbier",
+    "style_raw": "D\u00fcsseldorf Altbier",
+    "votes": 0
+}

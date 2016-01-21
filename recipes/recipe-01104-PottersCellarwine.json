@@ -1,0 +1,22 @@
+{
+    "bjcp": "19C",
+    "id": "1104",
+    "ingredients": [
+        "9.00 lb Amber Liquid Extract (12.5 SRM) Extract 64.3 %",
+        "3.00 lb Amber Liquid Extract (12.5 SRM) Extract 21.4 %",
+        "0.50 lb Chocolate Malt (350.0 SRM) Grain 7.1 %",
+        "0.50 lb Caramel/Crystal Malt -120L (120.0 SRM) Grain 3.6 %",
+        "2.00 oz Nugget [13.00%] (60 min) Hops 41.7 IBU",
+        "2.00 oz Amarillo Gold [8.50%] (30 min) Hops 20.9 IBU",
+        "2.00 oz Cascade [5.50%] (60 min) Hops 17.6 IBU",
+        "1.00 oz Cascade [5.50%] (15 min) Hops 4.4 IBU",
+        "2 Pkgs American Ale II (Wyeast Labs #1272)"
+    ],
+    "name": "Potter's Cellarwine",
+    "name_raw": "Potter's Cellarwine",
+    "rating": "4.7",
+    "source": "beerrecipes.com",
+    "style": "American Barleywine",
+    "style_raw": "American Barleywine",
+    "votes": "3"
+}

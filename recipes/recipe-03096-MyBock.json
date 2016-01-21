@@ -1,0 +1,18 @@
+{
+    "bjcp": "5A",
+    "id": "3096",
+    "ingredients": [
+        "20 lbs - Pilsener (2.0 SRM) (Grain)",
+        "9 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "1.6 oz - Magnum [11.0%] - Boil 60 min (Hops)",
+        "2.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "5 pkgs - SafLager West European Lager (DCL Yeast #S-23) (Yeast)"
+    ],
+    "name": "My Bock",
+    "name_raw": "My Bock",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Maibock/Helles Bock",
+    "style_raw": "Maibock/Helles Bock",
+    "votes": 0
+}

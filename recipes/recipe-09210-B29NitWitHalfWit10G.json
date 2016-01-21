@@ -1,0 +1,30 @@
+{
+    "bjcp": "16A",
+    "id": "9210",
+    "ingredients": [
+        "7.00 gal - Dimondale-Soft (Water)",
+        "7.00 gal - Dimondale-Well (Water)",
+        "8.00 ml - Lactic Acid (Mash 60 min) (Misc)",
+        "6.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "4.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "3.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "1 lbs - Rice Hulls (0.0 SRM) (Grain)",
+        "7 lbs - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "5 lbs - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Vienna Malt (3.5 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "1.0 oz - Fuggles [4.2%] - Boil 60 min (Hops)",
+        "1.0 oz - Styrian Goldings [3.8%] - Boil 5 min (Hops)",
+        "0.6 oz - Saaz [3.0%] - Boil 5 min (Hops)",
+        "2.00 g - Seeds of Paradise (Boil 5 min) (Misc)",
+        "3.0 oz - Marmalade [Boil for 5 min] (3.0 SRM) (Grain)",
+        "2 pkgs - Belgian Ale (White Labs #WLP550) (Yeast)"
+    ],
+    "name": "B29: Nit-Wit Half Wit(10G)",
+    "name_raw": "B29: Nit-Wit Half Wit(10G)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "1"
+}

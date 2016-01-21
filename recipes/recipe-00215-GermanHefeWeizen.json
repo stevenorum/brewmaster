@@ -1,0 +1,17 @@
+{
+    "bjcp": "15A",
+    "id": "215",
+    "ingredients": [
+        "15 lbs Ireks Wheat Malt",
+        "10.5 lbs DeWolf-Cosyns Pils Malt",
+        "2 oz 4.6% German Hallertauer Pellets (assume 25% utilization) 60 min",
+        "Weihenstephan Weizan Yeast (96? 69?)"
+    ],
+    "name": "German Hefe Weizen",
+    "name_raw": "German Hefe Weizen",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": "13"
+}

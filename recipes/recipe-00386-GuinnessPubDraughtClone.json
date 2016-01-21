@@ -1,0 +1,21 @@
+{
+    "bjcp": "13A",
+    "id": "386",
+    "ingredients": [
+        "6 lbs John Bull Pale Malt Extract",
+        "1 lb Flaked Barley",
+        "1/2 lb Roasted Barley",
+        "1/4 lb Black Patent",
+        "1 oz Northern Brewer whole hops (7.7% alpha)",
+        "1 tsp gypsum",
+        "Wyeast #1084 (Irish Ale)",
+        "1.5 cups Pale Dry Malt Extract for priming"
+    ],
+    "name": "Guinness Pub Draught Clone",
+    "name_raw": "Guinness Pub Draught Clone",
+    "rating": "4.6",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "10"
+}

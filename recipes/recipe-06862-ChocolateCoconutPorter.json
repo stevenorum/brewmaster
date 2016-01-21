@@ -1,0 +1,24 @@
+{
+    "bjcp": "12B",
+    "id": "6862",
+    "ingredients": [
+        "10.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "8 lbs - Pale Malt (2 Row) Bel (3.2 SRM) (Grain)",
+        "1 lbs - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "2.2 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)",
+        "4.00 oz - Cacao Nibs (Primary 7 days) (Misc)",
+        "1.00 lbs - Toasted Coconut (Secondary 7 days) (Misc)"
+    ],
+    "name": "Chocolate Coconut Porter",
+    "name_raw": "Chocolate Coconut Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

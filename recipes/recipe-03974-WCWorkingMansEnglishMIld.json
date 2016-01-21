@@ -1,0 +1,22 @@
+{
+    "bjcp": "11A",
+    "id": "3974",
+    "ingredients": [
+        "5 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - English roasted barley (3.0 SRM) (Grain)",
+        "8.0 oz - Pilsner (2 Row) UK (1.0 SRM) (Grain)",
+        "7.0 oz - Acid Malt (3.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "2 lbs - Amber Dry Extract (12.5 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)"
+    ],
+    "name": "WC Working Mans English MIld",
+    "name_raw": "WC Working Mans English MIld",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Mild",
+    "style_raw": "Mild",
+    "votes": "1"
+}

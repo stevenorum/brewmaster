@@ -1,0 +1,29 @@
+{
+    "bjcp": "14C",
+    "id": "8678",
+    "ingredients": [
+        "1.00 tbsp - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "16 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "3 lbs - Honey Malt (25.0 SRM) (Grain)",
+        "1 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [10.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Warrior [19.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Cascade [7.2%] - Boil 15 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Cascade [7.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Cascade [7.2%] - Boil 0 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 0 min (Hops)",
+        "2 pkgs - Nottingham Yeast (Lallemand #-) (Yeast)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 6 days (Hops)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 6 days (Hops)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 3 days (Hops)",
+        "1.0 oz - Citra [12.0%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "Hunny DIPA",
+    "name_raw": "Hunny DIPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

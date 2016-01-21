@@ -1,0 +1,29 @@
+{
+    "bjcp": "14A",
+    "id": "4722",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "1.0 oz - Nelson Sauvin [12.0%] - Mash Hop (Hops)",
+        "1.0 oz - Pacific Gem [13.2%] - Boil 60 min (Hops)",
+        "0.5 oz - Nelson Sauvin [12.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Nelson Sauvin [12.0%] - Boil 20 min (Hops)",
+        "1.20 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Pacifica [5.5%] - Boil 5 min (Hops)",
+        "1.0 oz - Motueka [7.0%] - Steep 20 min (Hops)",
+        "1.0 oz - Pacifica [5.5%] - Steep 20 min (Hops)",
+        "1 pkgs - London Ale Yeast (Wyeast Labs #1028) (Yeast)",
+        "1.0 oz - Nelson Sauvin [12.0%] - Dry Hop 10 days (Hops)",
+        "1.0 oz - Motueka [7.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Pacifica [5.5%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Hobbit Sauce",
+    "name_raw": "Hobbit Sauce",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "English IPA",
+    "style_raw": "English IPA",
+    "votes": "1"
+}

@@ -1,0 +1,22 @@
+{
+    "bjcp": "13B",
+    "id": "3084",
+    "ingredients": [
+        "8 lbs 8.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Caramel Malt - 80L 6-Row (Briess) (80.0 SRM) (Grain)",
+        "8.0 oz - Black Malt (Thomas Fawcett) (660.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (Simpsons) (430.0 SRM) (Grain)",
+        "8.0 oz - Roasted Barley (Thomas Fawcett) (609.0 SRM) (Grain)",
+        "1 lbs - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "0.8 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "0.8 oz - Styrian Goldings [5.4%] - Boil 60 min (Hops)",
+        "1 pkgs - Bedford British Ale (White Labs #WLP006) (Yeast)"
+    ],
+    "name": "Lancaster Milk Stout Clone",
+    "name_raw": "Lancaster Milk Stout Clone",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "Sweet Stout",
+    "style_raw": "Sweet Stout",
+    "votes": "2"
+}

@@ -1,0 +1,25 @@
+{
+    "bjcp": "16A",
+    "id": "2599",
+    "ingredients": [
+        "8 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "4 lbs - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "2 lbs - Barley, Flaked (1.7 SRM) (Grain)",
+        "1 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "2 lbs - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "2.0 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "2.0 oz - Saaz [4.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Willamette [5.5%] - Boil 60 min (Hops)",
+        "2.50 oz - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "1.00 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "0.50 oz - Orange Peel, Sweet (Boil 5 min) (Misc)"
+    ],
+    "name": "pattisons wheat version 1",
+    "name_raw": "pattisons wheat version 1",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "2"
+}

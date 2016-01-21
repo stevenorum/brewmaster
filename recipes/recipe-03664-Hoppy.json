@@ -1,0 +1,26 @@
+{
+    "bjcp": "10B",
+    "id": "3664",
+    "ingredients": [
+        "4 lbs 12.2 oz - Pale Malt (2 Row) Bel (3.0 SRM) (Grain)",
+        "4 lbs 12.2 oz - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1 lbs 1.4 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs 1.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "6.8 oz - Special B Malt (180.0 SRM) (Grain)",
+        "6.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1.5 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "0.1 oz - Chinook [12.0%] - Boil 60 min (Hops)",
+        "0.6 oz - Chinook [12.0%] - Boil 15 min (Hops)",
+        "0.7 oz - Simcoe [11.0%] - Boil 10 min (Hops)",
+        "0.8 oz - Nelson Sauvin [12.2%] - Boil 0 min (Hops)",
+        "0 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "4.4 oz - Nelson Sauvin [12.2%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "Hoppy",
+    "name_raw": "Hoppy",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": "1"
+}

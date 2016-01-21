@@ -1,0 +1,29 @@
+{
+    "bjcp": "14B",
+    "id": "2240",
+    "ingredients": [
+        "13 lbs 8.0 oz - Pale Ale Malt 2-Row (Briess) (3.5 SRM) (Grain)",
+        "12.1 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "12.0 oz - Caramunich II (Weyermann) (63.0 SRM) (Grain)",
+        "2.1 oz - Victory Malt (25.0 SRM) (Grain)",
+        "0.4 oz - Ahtanum [6.0%] - First Wort (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [14.0%] - First Wort (Hops)",
+        "0.5 oz - Ahtanum [6.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 60 min (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [14.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Ahtanum [6.0%] - Steep 5 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Steep 5 min (Hops)",
+        "1 pkgs - Thames Valley Ale (Wyeast Labs #1275) (Yeast)",
+        "2.0 oz - Simcoe [13.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Dibbs IPA Cigar City Jai Alai Clone",
+    "name_raw": "Dibbs IPA Cigar City Jai Alai Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

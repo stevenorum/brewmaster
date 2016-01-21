@@ -1,0 +1,27 @@
+{
+    "bjcp": "14B",
+    "id": "6059",
+    "ingredients": [
+        "12 lbs 12.0 oz - Pale Ale Malt 2-Row (Briess) (3.5 SRM) (Grain)",
+        "12.0 oz - Munich I (Weyermann) (7.1 SRM) (Grain)",
+        "1.4 oz - Centennial [9.7%] - Boil 30 min (Hops)",
+        "1.3 oz - Centennial [9.7%] - Boil 15 min (Hops)",
+        "1.0 oz - Cascade [5.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Amarillo Gold [9.2%] - Boil 10 min (Hops)",
+        "0.5 oz - Cascade [5.0%] - Boil 10 min (Hops)",
+        "0.5 oz - Amarillo Gold [9.2%] - Boil 5 min (Hops)",
+        "0.5 oz - Cascade [6.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Amarillo Gold [9.2%] - Boil 0 min (Hops)",
+        "1.0 oz - Cascade [6.0%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 3 days (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "American IPA v2",
+    "name_raw": "American IPA v2",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

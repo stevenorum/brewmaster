@@ -1,0 +1,31 @@
+{
+    "bjcp": "16B",
+    "id": "1883",
+    "ingredients": [
+        "4 lbs - Pilsen (Dingemans) (1.6 SRM) (Grain)",
+        "3 lbs - Pale Ale (Dingemans) (3.3 SRM) (Grain)",
+        "2 lbs - Maris Otter (Crisp) (4.0 SRM) (Grain)",
+        "7.0 oz - Caravienne Malt (Dingemans) (22.0 SRM) (Grain)",
+        "6.1 oz - Vienna Malt (Weyermann) (3.9 SRM) (Grain)",
+        "5.9 oz - Caramunich II (Weyermann) (46.0 SRM) (Grain)",
+        "1.9 oz - Aromatic Malt (Dingemans) (19.0 SRM) (Grain)",
+        "1.9 oz - Crystal, Medium (Simpsons) (55.0 SRM) (Grain)",
+        "1.9 oz - Special B (Dingemans) (147.0 SRM) (Grain)",
+        "0.5 oz - First Gold [9.5%] - Mash Hop (Hops)",
+        "1.0 oz - Hallertauer [3.8%] - First Wort (Hops)",
+        "0.5 oz - Hallertauer [3.8%] - Boil 45 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 13 min) (Misc)",
+        "0.5 oz - Styrian Goldings [4.6%] - Boil 10 min (Hops)",
+        "2.00 g - Wyeast Nutrient (Boil 10 min) (Misc)",
+        "1.00 - Wort Chiller (Boil 9 min) (Misc)",
+        "1.00 - Sanitize Spoon!! (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Ardennes (Wyeast Labs #3522) (Yeast)"
+    ],
+    "name": "Belgian Pale Ale v3",
+    "name_raw": "Belgian Pale Ale v3",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Pale Ale",
+    "style_raw": "Belgian Pale Ale",
+    "votes": "1"
+}

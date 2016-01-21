@@ -1,0 +1,25 @@
+{
+    "bjcp": "13B",
+    "id": "10073",
+    "ingredients": [
+        "6 lbs 8.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (375.0 SRM) (Grain)",
+        "8.0 oz - Barley, Flaked (1.7 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Coffee Malt (190.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "8.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "0.8 oz - Magnum [7.5%] - First Wort (Hops)",
+        "1 lbs - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 10 min (Hops)",
+        "1 pkgs - Irish Ale (Wyeast Labs #1084) (Yeast)"
+    ],
+    "name": "Left Handed Milk Stout",
+    "name_raw": "Left Handed Milk Stout",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Sweet Stout",
+    "style_raw": "Sweet Stout",
+    "votes": 0
+}

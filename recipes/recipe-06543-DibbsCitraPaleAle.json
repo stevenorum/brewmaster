@@ -1,0 +1,22 @@
+{
+    "bjcp": "10A",
+    "id": "6543",
+    "ingredients": [
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "0.8 oz - Magnum [14.0%] - First Wort (Hops)",
+        "6 lbs 9.6 oz - LME Golden Light (Briess) [Boil for 60 min] (4.0 SRM) (Grain)",
+        "1 lbs - Extra Light Dry Extract [Boil for 20 min] (3.0 SRM) (Grain)",
+        "1.0 oz - Citra [12.0%] - Steep 0 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Steep 10 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "0.5 oz - Citra [12.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Dibbs Citra Pale Ale",
+    "name_raw": "Dibbs Citra Pale Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

@@ -1,0 +1,23 @@
+{
+    "bjcp": "10B",
+    "id": "10115",
+    "ingredients": [
+        "3 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Special B Malt (180.0 SRM) (Grain)",
+        "1.0 oz - Chinook [11.1%] - Boil 90 min (Hops)",
+        "1.5 oz - Chinook [11.1%] - Boil 15 min (Hops)",
+        "1.0 oz - Chinook [11.1%] - Boil 10 min (Hops)",
+        "2.0 oz - Chinook [13.0%] - Steep 11 min (Hops)",
+        "1 pkgs - Dry English Ale (White Labs #WLP007) (Yeast)",
+        "6 lbs - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "1 lbs - Cane (Beet) Sugar (0.0 SRM) (Grain)",
+        "2.0 oz - Chinook [11.1%] - Dry Hop 6 days (Hops)"
+    ],
+    "name": "Arrogant Bastard Clone",
+    "name_raw": "Arrogant Bastard Clone",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": "1"
+}

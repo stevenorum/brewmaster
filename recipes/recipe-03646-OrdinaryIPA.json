@@ -1,0 +1,23 @@
+{
+    "bjcp": "8A",
+    "id": "3646",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "5 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1.0 oz - Brewer&#39;s Gold [8.0%] - Boil 60 min (Hops)",
+        "1.5 oz - Amarillo Gold [8.5%] - Boil 45 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 15 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 0 min (Hops)",
+        "1.0 oz - Liberty [4.3%] - Boil 0 min (Hops)",
+        "2 pkgs - Burton Ale (White Labs #WLP023) (Yeast)",
+        "2.0 oz - Amarillo Gold [8.5%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "Ordinary IPA",
+    "name_raw": "Ordinary IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Standard/Ordinary Bitter",
+    "style_raw": "Standard/Ordinary Bitter",
+    "votes": "1"
+}

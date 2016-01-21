@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "3549",
+    "ingredients": [
+        "9 lbs 3.2 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "1.0 oz - Cascade [6.0%] - First Wort (Hops)",
+        "0.1 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Galaxy [14.0%] - Boil 10 min (Hops)",
+        "1.0 oz - Galaxy [14.0%] - Boil 0 min (Hops)",
+        "1.0 oz - Cascade [6.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Galaxy [14.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Galascade American Pale Ale with Mash Out",
+    "name_raw": "Galascade American Pale Ale with Mash Out",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

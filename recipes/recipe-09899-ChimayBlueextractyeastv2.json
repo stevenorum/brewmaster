@@ -1,0 +1,26 @@
+{
+    "bjcp": "18E",
+    "id": "9899",
+    "ingredients": [
+        "8.0 oz - Caramunich Malt (56.0 SRM) (Grain)",
+        "6.0 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "4.0 oz - Special B Malt (180.0 SRM) (Grain)",
+        "2.5 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Candi Sugar, Dark [Boil for 90 min] (275.0 SRM) (Grain)",
+        "8 lbs 12.0 oz - Extra Light Dry Extract [Boil for 60 min] (3.0 SRM) (Grain)",
+        "0.7 oz - Magnum [14.0%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.5 oz - Hallertauer Hersbrucker [4.0%] - Boil 15 min (Hops)",
+        "0.12 tsp - Seeds of Paradise (Boil 15 min) (Misc)",
+        "0.2 oz - Hallertauer Hersbrucker [4.0%] - Boil 2 min (Hops)",
+        "0.12 tsp - Seeds of Paradise (Boil 2 min) (Misc)",
+        "1 pkgs - Belgian Ale (White Labs #WLP550) (Yeast)"
+    ],
+    "name": "Chimay Blue extract yeast v2",
+    "name_raw": "Chimay Blue extract yeast v2",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Dark Strong Ale",
+    "style_raw": "Belgian Dark Strong Ale",
+    "votes": "1"
+}

@@ -1,0 +1,24 @@
+{
+    "bjcp": "14C",
+    "id": "1922",
+    "ingredients": [
+        "12 lbs 2.0 oz - Pale Malt, Maris Otter (Thomas Fawcett) (3.0 SRM) (Grain)",
+        "1 lbs 4.5 oz - Crystal Malt - 60L (Thomas Fawcett) (60.9 SRM) (Grain)",
+        "15.3 oz - Caramalt (Thomas Fawcett) (15.0 SRM) (Grain)",
+        "15.3 oz - Munich (12.7 SRM) (Grain)",
+        "1.1 oz - Chocolate Malt (Thomas Fawcett) (598.0 SRM) (Grain)",
+        "0.8 oz - Chinook [13.0%] - First Wort (Hops)",
+        "0.50 tsp - Protafloc granulates (Boil 15 min) (Misc)",
+        "0.50 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "3.7 oz - Chinook [13.0%] - Boil 10 min (Hops)",
+        "2 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "2.8 oz - Amarillo Gold [8.5%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Henrik Imperial Amber",
+    "name_raw": "Henrik Imperial Amber",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

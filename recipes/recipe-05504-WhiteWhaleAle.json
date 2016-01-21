@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "5504",
+    "ingredients": [
+        "7 lbs 8.0 oz - White Wheat Malt (2.4 SRM) (Grain)",
+        "1 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Light Dry Extract (8.0 SRM) (Grain)",
+        "0.3 oz - Centennial [10.5%] - Boil 60 min (Hops)",
+        "0.3 oz - Citra [12.3%] - Boil 60 min (Hops)",
+        "0.3 oz - Centennial [10.0%] - Boil 25 min (Hops)",
+        "0.3 oz - Citra [12.3%] - Boil 25 min (Hops)",
+        "0.3 oz - Centennial [10.0%] - Boil 5 min (Hops)",
+        "0.3 oz - Citra [12.3%] - Boil 5 min (Hops)",
+        "1 pkgs - German Ale/Kolsch (White Labs #WLP029) (Yeast)"
+    ],
+    "name": "White Whale Ale",
+    "name_raw": "White Whale Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

@@ -1,0 +1,22 @@
+{
+    "bjcp": "19C",
+    "id": "403",
+    "ingredients": [
+        "3.3 pounds, American light malt extract syrup",
+        "3.3 pounds, Coopers bitter ale kit",
+        "3.3 pounds, Coopers Draught ale kit",
+        "1 pound, amber malt extract",
+        "3/4 pound, crystal malt",
+        "2 ounces, Northern Brewer hops (boil)",
+        "2 ounces, Willamette hops (finish)",
+        "2 teaspoons, gypsum",
+        "1 pack, MEV 031 high-temp ale yeast"
+    ],
+    "name": "Norman Conquest Strong Ale",
+    "name_raw": "Norman Conquest Strong Ale",
+    "rating": "3.3",
+    "source": "beerrecipes.com",
+    "style": "American Barleywine",
+    "style_raw": "American Barleywine",
+    "votes": "6"
+}

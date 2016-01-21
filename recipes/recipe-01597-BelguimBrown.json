@@ -1,0 +1,25 @@
+{
+    "bjcp": "18E",
+    "id": "1597",
+    "ingredients": [
+        "1 lbs - Lyles Golden Syrup (8.0 SRM) (Grain)",
+        "15 lbs - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "1 lbs - Special B Malt (180.0 SRM) (Grain)",
+        "2 lbs - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "1.0 oz - Bramling Cross [5.0%] - Boil 75 min (Hops)",
+        "1.0 oz - Bramling Cross [5.0%] - Boil 30 min (Hops)",
+        "1.0 oz - Bramling Cross [5.0%] - Boil 5 min (Hops)",
+        "1.00 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "1.00 oz - Crystalized Ginger (Boil 5 min) (Misc)",
+        "1 pkgs - Abbey Ale (White Labs #WLP530) (Yeast)",
+        "1 pkgs - Champagne Yeast (White Labs #WLP715) (Yeast)"
+    ],
+    "name": "Belguim Brown",
+    "name_raw": "Belguim Brown",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Dark Strong Ale",
+    "style_raw": "Belgian Dark Strong Ale",
+    "votes": 0
+}

@@ -1,0 +1,32 @@
+{
+    "bjcp": "13D",
+    "id": "3476",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "12.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Coffee Malt (150.6 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "8.0 oz - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "1.0 oz - Galena [12.5%] - Boil 60 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.0 oz - Crystal [3.5%] - Boil 5 min (Hops)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 5 min (Hops)",
+        "0.25 oz - Malto-Dextrine (Boil 5 min) (Misc)",
+        "8.00 oz - Cocoa Powder (Hersheys) (Boil 5 min) (Misc)",
+        "6.00 oz - Cocoa Nibs (Boil 0 min) (Misc)",
+        "1 pkgs - Irish Ale Yeast (White Labs #WLP004) (Yeast)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)",
+        "2.00 - Vanilla Bean (Secondary 0 min) (Misc)",
+        "4.00 oz - Cherry Extract (Bottling 0 min) (Misc)"
+    ],
+    "name": "Chocolate-Cherry Stout",
+    "name_raw": "Chocolate-Cherry Stout",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Foreign Extra Stout",
+    "style_raw": "Foreign Extra Stout",
+    "votes": "2"
+}

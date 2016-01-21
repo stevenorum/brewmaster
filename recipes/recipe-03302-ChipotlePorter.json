@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "3302",
+    "ingredients": [
+        "7 lbs 8.0 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "1 lbs - Barley, Flaked (1.7 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "0.5 oz - Challenger [7.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Fuggles [4.2%] - Boil 60 min (Hops)",
+        "0.5 oz - Willamette [4.8%] - Boil 60 min (Hops)",
+        "1 lbs - Steen&#39;s Pure Cane Syrup [Boil for 15 min] (275.0 SRM) (Grain)",
+        "1.00 - Wort Chiller (Boil 15 min) (Misc)",
+        "1.00 oz - Chipotle Peppers (Boil 5 min) (Misc)",
+        "6 pkgs - London Ale III (Wyeast Labs #1318) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)"
+    ],
+    "name": "Chipotle Porter",
+    "name_raw": "Chipotle Porter",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "2"
+}

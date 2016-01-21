@@ -1,0 +1,23 @@
+{
+    "bjcp": "19A",
+    "id": "10902",
+    "ingredients": [
+        "8.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1 lbs - Light Dry Extract (8.0 SRM) (Grain)",
+        "3 lbs 5.3 oz - Dark Liquid Extract (17.5 SRM) (Grain)",
+        "10.4 oz - Treacle (100.0 SRM) (Grain)",
+        "2.0 oz - Mt. Hood [6.0%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Tettnang [4.5%] - Boil 2 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "6 lbs - Amber Liquid Extract (12.5 SRM) (Grain)"
+    ],
+    "name": "Superior Treacle (Old Ale)",
+    "name_raw": "Superior Treacle (Old Ale)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Old Ale",
+    "style_raw": "Old Ale",
+    "votes": 0
+}

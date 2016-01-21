@@ -1,0 +1,30 @@
+{
+    "bjcp": "14B",
+    "id": "950",
+    "ingredients": [
+        "8 lbs Pale Malt (2 Row) UK (3.0 SRM) 53.33 %",
+        "2 lbs 8.0 oz Munich Malt (9.0 SRM) 16.67 %",
+        "2 lbs 8.0 oz Vienna Malt (3.5 SRM) 16.67 %",
+        "8.0 oz Cara-Pils/Dextrine (2.0 SRM) 3.33 %",
+        "8.0 oz Victory Malt (25.0 SRM) 3.33 %",
+        "4.0 oz Aromatic Malt (26.0 SRM) 1.67 %",
+        "4.0 oz Caramel/Crystal Malt - 20L (20.0 SRM) 1.67 %",
+        "4.0 oz Honey Malt (25.0 SRM) 1.67 %",
+        "4.0 oz Wheat Malt, Ger (2.0 SRM) 1.67 %",
+        "0.50 oz Horizon [12.00 %] (75 min) 15.8 IBU",
+        "0.50 oz Nugget [13.00 %] (60 min) 16.4 IBU",
+        "0.60 oz Amarillo Gold [9.80 %] (30 min) 11.4 IBU",
+        "1.00 oz Amarillo Gold [9.80 %] (10 min) 9.0 IBU",
+        "1.50 oz Amarillo Gold [9.80 %] (5 min) 7.4 IBU",
+        "2.00 oz Amarillo Gold [9.80 %] (0 min)",
+        "1.00 oz Amarillo Gold [9.80 %] (Dry Hop 14 days)",
+        "1 Pkgs American Ale II (Wyeast Labs #1272) [Starter 2000 ml]"
+    ],
+    "name": "Poobah's Amarillo IPA",
+    "name_raw": "Poobah's Amarillo IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

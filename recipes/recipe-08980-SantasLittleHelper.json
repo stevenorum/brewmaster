@@ -1,0 +1,29 @@
+{
+    "bjcp": "14B",
+    "id": "8980",
+    "ingredients": [
+        "10.00 gal - Beaverton OR (Water)",
+        "7.50 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "5.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "5.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "20 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "2.0 oz - Magnum [14.0%] - First Wort (Hops)",
+        "1.0 oz - Centennial [10.0%] - Boil 30 min (Hops)",
+        "2.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.0 oz - Simcoe [13.0%] - Steep 0 min (Hops)",
+        "1.0 oz - Centennial [10.0%] - Steep 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "2.0 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)",
+        "2.0 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Santa's Little Helper",
+    "name_raw": "Santa's Little Helper",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

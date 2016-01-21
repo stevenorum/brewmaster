@@ -1,0 +1,23 @@
+{
+    "bjcp": "18B",
+    "id": "3179",
+    "ingredients": [
+        "4 lbs 4.0 oz - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "14.0 oz - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "1.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "1 lbs - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "0.5 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "0.2 oz - Willamette [5.5%] - Boil 10 min (Hops)",
+        "0.3 oz - Saaz [3.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Trappist High Gravity (Wyeast Labs #3787) (Yeast)"
+    ],
+    "name": "NB Abbey clone",
+    "name_raw": "NB Abbey clone",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Dubbel",
+    "style_raw": "Belgian Dubbel",
+    "votes": 0
+}

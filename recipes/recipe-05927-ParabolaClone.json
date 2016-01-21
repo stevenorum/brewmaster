@@ -1,0 +1,28 @@
+{
+    "bjcp": "13F",
+    "id": "5927",
+    "ingredients": [
+        "32 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "8 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "2 lbs - Carafa I (337.0 SRM) (Grain)",
+        "2 lbs - Roasted Barley (300.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 15L (15.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1 lbs - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "5.0 oz - Columbus (Tomahawk) [14.0%] - Boil 60 min (Hops)",
+        "5.0 oz - Hallertauer [4.8%] - Boil 30 min (Hops)",
+        "2.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.00 lbs - Oak Chips (Secondary 7 days) (Misc)",
+        "12.00 oz - Bourbon (Secondary 2 weeks) (Misc)",
+        "12.00 oz - Bourbon - 2 (Bottling 0 min) (Misc)"
+    ],
+    "name": "Parabola Clone",
+    "name_raw": "Parabola Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": "1"
+}

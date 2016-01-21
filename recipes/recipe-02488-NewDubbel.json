@@ -1,0 +1,27 @@
+{
+    "bjcp": "18B",
+    "id": "2488",
+    "ingredients": [
+        "10 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "10 lbs - Pilsner (2 Row) UK (1.0 SRM) (Grain)",
+        "1 lbs 12.0 oz - Munich (Cargill) (9.5 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1 lbs - Special B Malt (180.0 SRM) (Grain)",
+        "8.0 oz - Wheat, Flaked (1.6 SRM) (Grain)",
+        "4.0 oz - Black Malt - 2-Row (Briess) (500.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "2 lbs 1.6 oz - Jaggery (3.0 SRM) (Grain)",
+        "2.0 oz - Cascade [6.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Hallertauer Mittelfrueh [4.0%] - Boil 30 min (Hops)",
+        "1.0 oz - Tettnang [4.5%] - Steep 0 min (Hops)",
+        "1 pkgs - Trappist High Gravity (Wyeast Labs #3787) (Yeast)",
+        "1 pkgs - Trappist High Gravity (Wyeast Labs #3787) (Yeast)"
+    ],
+    "name": "New Dubbel",
+    "name_raw": "New Dubbel",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Dubbel",
+    "style_raw": "Belgian Dubbel",
+    "votes": "1"
+}

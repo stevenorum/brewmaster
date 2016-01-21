@@ -1,0 +1,27 @@
+{
+    "bjcp": "14C",
+    "id": "2346",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "6.7 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "6.2 oz - Carafa III (Weyermann) (525.0 SRM) (Grain)",
+        "1.0 oz - Chinook [13.0%] - Boil 90 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 30 min (Hops)",
+        "1.0 oz - Centennial [9.2%] - Steep 30 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Steep 30 min (Hops)",
+        "1 pkgs - American Ale II (Wyeast Labs #1272) (Yeast)",
+        "1 lbs - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "1.0 oz - Citra [13.4%] - Dry Hop 7 days (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Black Hops 5 gal",
+    "name_raw": "Black Hops 5 gal",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

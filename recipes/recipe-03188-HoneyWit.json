@@ -1,0 +1,24 @@
+{
+    "bjcp": "16A",
+    "id": "3188",
+    "ingredients": [
+        "5 lbs 1.9 oz - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "4 lbs 9.9 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "2 lbs - Honey [Boil for 60 min] (1.0 SRM) (Grain)",
+        "0.8 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "0.8 oz - Hallertauer [4.8%] - Boil 15 min (Hops)",
+        "0.50 oz - Coriander Seed (Boil 15 min) (Misc)",
+        "0.50 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "0.50 oz - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "0.2 oz - Hallertauer [4.8%] - Boil 0 min (Hops)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)"
+    ],
+    "name": "Honey Wit",
+    "name_raw": "Honey Wit",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "2"
+}

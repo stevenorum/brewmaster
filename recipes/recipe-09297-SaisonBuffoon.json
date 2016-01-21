@@ -1,0 +1,29 @@
+{
+    "bjcp": "16C",
+    "id": "9297",
+    "ingredients": [
+        "8.45 gal - Distilled Water (Water)",
+        "3.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "2.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "8 lbs 13.1 oz - Lager Malt (1.5 SRM) (Grain)",
+        "14.1 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "10.6 oz - Oats, Malted (1.0 SRM) (Grain)",
+        "7.1 oz - Aromatic Malt (76.1 SRM) (Grain)",
+        "0.5 oz - Whitbread Golding Variety (WGV) [6.0%] - First Wort (Hops)",
+        "7.1 oz - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "0.7 oz - Goldings, East Kent [5.0%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "10.00 g - Ginger Root (Boil 12 min) (Misc)",
+        "1.2 oz - Goldings, East Kent [5.0%] - Boil 5 min (Hops)",
+        "6.00 g - Coriander Seed (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Style Saison Ale Yeast Blend (White Labs #WLP568) (Yeast)",
+        "8.00 l - Oxygen (Primary 1 min) (Misc)"
+    ],
+    "name": "Saison Buffoon",
+    "name_raw": "Saison Buffoon",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": "1"
+}

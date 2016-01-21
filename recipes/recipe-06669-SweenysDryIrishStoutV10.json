@@ -1,0 +1,21 @@
+{
+    "bjcp": "13A",
+    "id": "6669",
+    "ingredients": [
+        "5.00 gal - Dublin, Ireland (Water)",
+        "10.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "5 lbs 8.0 oz - Pale Malt (2 Row) UK (2.5 SRM) (Grain)",
+        "2 lbs 4.0 oz - Barley, Flaked (1.7 SRM) (Grain)",
+        "1 lbs - Black Barley (Stout) (500.0 SRM) (Grain)",
+        "2.0 oz - Goldings, East Kent [5.0%] - First Wort (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1 pkgs - Irish Ale (Wyeast Labs #1084) (Yeast)"
+    ],
+    "name": "Sweeny's Dry Irish Stout V1.0",
+    "name_raw": "Sweeny's Dry Irish Stout V1.0",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": 0
+}

@@ -1,0 +1,21 @@
+{
+    "bjcp": "22A",
+    "id": "6379",
+    "ingredients": [
+        "11 lbs 8.0 oz - Smoked Malt (9.0 SRM) (Grain)",
+        "8.0 oz - Carafa II (412.0 SRM) (Grain)",
+        "8.0 oz - Carafoam (2.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "1.0 oz - Hallertauer Mittelfrueh [4.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Hallertauer Mittelfrueh [4.0%] - Boil 30 min (Hops)",
+        "1.0 oz - Hallertauer Mittelfrueh [4.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Munich Lager (Wyeast Labs #2308) (Yeast)"
+    ],
+    "name": "Smoking Joe",
+    "name_raw": "Smoking Joe",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Classic Rauchbier",
+    "style_raw": "Classic Rauchbier",
+    "votes": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "bjcp": "10B",
+    "id": "7501",
+    "ingredients": [
+        "11 lbs 0.4 oz - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "8.8 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1.5 oz - Cascade [4.5%] - First Wort (Hops)",
+        "0.5 oz - Goldings, East Kent [5.0%] - First Wort (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "0.2 oz - Cascade [4.8%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Liberty [ish] FWH Cascade",
+    "name_raw": "Liberty [ish] FWH Cascade",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": "1"
+}

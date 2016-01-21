@@ -1,0 +1,28 @@
+{
+    "bjcp": "14B",
+    "id": "10832",
+    "ingredients": [
+        "1 lbs - Rice Hulls (Briess) (0.0 SRM) (Grain)",
+        "11 lbs 8.0 oz - Pale Malt, Maris Otter (Thomas Fawcett) (3.0 SRM) (Grain)",
+        "2 lbs - Caramel Malt - 60L (Briess) (60.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "8.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "1.0 oz - Willamette [5.5%] - First Wort (Hops)",
+        "0.5 oz - Cascade [5.5%] - First Wort (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Boil 40 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 40 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 20 min (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Boil 20 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 20 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1 pkgs - London Ale (White Labs #WLP013) (Yeast)",
+        "1 pkgs - London Ale (White Labs #WLP013) (Yeast)"
+    ],
+    "name": "British American IPA",
+    "name_raw": "British American IPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

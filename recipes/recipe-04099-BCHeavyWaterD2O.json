@@ -1,0 +1,25 @@
+{
+    "bjcp": "11A",
+    "id": "4099",
+    "ingredients": [
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2 lbs - Muntons Extra Light DME Unhopped (3.0 SRM) (Grain)",
+        "7 lbs - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "1.0 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Tettnang [4.5%] - Boil 15 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 2 min (Hops)",
+        "1 pkgs - German Ale/Kolsch (White Labs #WLP029) (Yeast)",
+        "1.5 oz - Amarillo Gold [8.5%] - Dry Hop 21 days (Hops)",
+        "1.5 oz - Tettnang [4.5%] - Dry Hop 21 days (Hops)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 21 days (Hops)"
+    ],
+    "name": "BC Heavy Water D2O",
+    "name_raw": "BC Heavy Water D2O",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Mild",
+    "style_raw": "Mild",
+    "votes": 0
+}

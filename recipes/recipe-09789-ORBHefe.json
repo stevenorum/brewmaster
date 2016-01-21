@@ -1,0 +1,20 @@
+{
+    "bjcp": "15A",
+    "id": "9789",
+    "ingredients": [
+        "28 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "18 lbs - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "10 lbs - Wheat_Unmalted (2.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "3.0 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Goldings, East Kent [5.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Weihenstephan Weizen (Wyeast Labs #3068) (Yeast)"
+    ],
+    "name": "ORB Hefe",
+    "name_raw": "ORB Hefe",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": 0
+}

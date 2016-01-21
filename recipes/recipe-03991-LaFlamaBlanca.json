@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "3991",
+    "ingredients": [
+        "13 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Honey Malt (25.0 SRM) (Grain)",
+        "1.0 oz - Chinook [13.0%] - Mash Hop (Hops)",
+        "1.0 oz - Warrior [15.0%] - Boil 90 min (Hops)",
+        "0.5 oz - Chinook [13.0%] - Boil 90 min (Hops)",
+        "0.8 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "0.8 oz - Simcoe [13.0%] - Boil 45 min (Hops)",
+        "0.8 oz - Columbus (Tomahawk) [14.0%] - Boil 30 min (Hops)",
+        "2.0 oz - Centennial [10.0%] - Boil 0 min (Hops)",
+        "0.8 oz - Simcoe [13.0%] - Boil 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "2 lbs - Honey (1.0 SRM) (Grain)",
+        "2.0 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 0 days (Hops)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 0 days (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "La Flama Blanca",
+    "name_raw": "La Flama Blanca",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

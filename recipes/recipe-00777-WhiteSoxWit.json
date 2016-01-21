@@ -1,0 +1,21 @@
+{
+    "bjcp": "16A",
+    "id": "777",
+    "ingredients": [
+        "1000 grams Pilsner malt",
+        "900 grams Wheat malt",
+        "120 grams Flaked oats",
+        "13 grams Saaz @ 3.6% (90 min)",
+        "5 grams Saaz @ 3.6% (15 min)",
+        "8 grams dried Curacao orange peel (15 min)",
+        "12 grams ground Coriander",
+        "Hoegaarden culture"
+    ],
+    "name": "White Sox Wit",
+    "name_raw": "White Sox Wit",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "1"
+}

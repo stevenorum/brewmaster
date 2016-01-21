@@ -1,0 +1,28 @@
+{
+    "bjcp": "14B",
+    "id": "5482",
+    "ingredients": [
+        "7 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "1 lbs - Vienna Malt (3.5 SRM) (Grain)",
+        "12.0 oz - Caramel Malt - 20L (Briess) (20.0 SRM) (Grain)",
+        "0.5 oz - Centennial [11.9%] - Boil 60 min (Hops)",
+        "0.2 oz - Citra [13.9%] - Boil 15 min (Hops)",
+        "0.2 oz - Summit [17.0%] - Boil 15 min (Hops)",
+        "0.5 oz - Citra [13.9%] - Boil 10 min (Hops)",
+        "0.5 oz - Summit [15.8%] - Boil 10 min (Hops)",
+        "0.5 oz - Citra [13.9%] - Boil 5 min (Hops)",
+        "0.5 oz - Summit [15.8%] - Boil 5 min (Hops)",
+        "0.5 oz - Citra [13.9%] - Boil 0 min (Hops)",
+        "0.5 oz - Summit [15.8%] - Boil 0 min (Hops)",
+        "1 pkgs - Kolsch Yeast (Wyeast Labs #2565) (Yeast)",
+        "1.0 oz - Rakau [11.4%] - Dry Hop 12 days (Hops)"
+    ],
+    "name": "Hoppy Easterbeer",
+    "name_raw": "Hoppy Easterbeer",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

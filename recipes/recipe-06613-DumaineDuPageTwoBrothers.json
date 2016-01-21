@@ -1,0 +1,25 @@
+{
+    "bjcp": "16C",
+    "id": "6613",
+    "ingredients": [
+        "10.00 gal - Dimondale-Well (Water)",
+        "11 lbs 8.0 oz - Vienna Malt (Briess) (3.5 SRM) (Grain)",
+        "8 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "1 lbs - Carawheat (Weyermann) (50.0 SRM) (Grain)",
+        "8.0 oz - Caramunich I (Weyermann) (51.0 SRM) (Grain)",
+        "8.0 oz - Melanoiden Malt (20.0 SRM) (Grain)",
+        "0.5 oz - Northern Brewer [9.0%] - Boil 60 min (Hops)",
+        "1.5 oz - Mt. Hood [6.5%] - Boil 25 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.5 oz - Mt. Hood [6.5%] - Boil 10 min (Hops)",
+        "1 pkgs - Belgian Saison I Ale (White Labs #WLP565) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)"
+    ],
+    "name": "Dumaine DuPage, Two Brothers",
+    "name_raw": "Dumaine DuPage, Two Brothers",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": "1"
+}

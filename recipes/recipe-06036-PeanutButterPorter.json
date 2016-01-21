@@ -1,0 +1,27 @@
+{
+    "bjcp": "12B",
+    "id": "6036",
+    "ingredients": [
+        "14 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Amber Malt (22.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs 4.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1.0 oz - Magnum [14.0%] - Boil 90 min (Hops)",
+        "0.5 oz - Fuggles [4.5%] - Boil 10 min (Hops)",
+        "0.5 oz - Williamette [5.5%] - Boil 10 min (Hops)",
+        "24.00 oz - PB2 Peanut Butter (Boil 5 min) (Misc)",
+        "0.5 oz - Fuggles [4.5%] - Steep 0 min (Hops)",
+        "0.5 oz - Williamette [5.5%] - Steep 0 min (Hops)",
+        "1 pkgs - Thames Valley Ale (Wyeast Labs #1275) (Yeast)"
+    ],
+    "name": "Peanut Butter Porter",
+    "name_raw": "Peanut Butter Porter",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

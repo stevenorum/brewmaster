@@ -1,0 +1,21 @@
+{
+    "bjcp": "15A",
+    "id": "1882",
+    "ingredients": [
+        "6 lbs - Pilsner (Weyermann) (2.4 SRM) (Grain)",
+        "4 lbs - Wheat Malt, Pale (Weyermann) (2.4 SRM) (Grain)",
+        "4.0 oz - Munich II (Weyermann) (10.0 SRM) (Grain)",
+        "0.7 oz - Hallertauer [6.4%] - First Wort (Hops)",
+        "2.41 g - Wyeast Nutrient (Boil 10 min) (Misc)",
+        "0.80 - Wort Chiller (Boil 9 min) (Misc)",
+        "1.00 - Sanitize Spoon!! (Boil 5 min) (Misc)",
+        "1 pkgs - Weihenstephan Weizen (Wyeast Labs #3068) (Yeast)"
+    ],
+    "name": "Hefeweizen v3",
+    "name_raw": "Hefeweizen v3",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": "2"
+}

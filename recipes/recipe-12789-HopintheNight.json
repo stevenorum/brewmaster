@@ -1,0 +1,30 @@
+{
+    "bjcp": "14B",
+    "id": "12789",
+    "ingredients": [
+        "12.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "12.0 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "8.0 oz - Pale Chocolate Malt (250.0 SRM) (Grain)",
+        "4.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Wheat Malt (400.0 SRM) (Grain)",
+        "4.0 oz - Oats, Toasted (10.0 SRM) (Grain)",
+        "2.6 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "7 lbs - Pilsner Liquid Extract (3.5 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [9.4%] - Boil 60 min (Hops)",
+        "1.0 oz - Nugget [12.2%] - Boil 45 min (Hops)",
+        "1.0 oz - Centennial [9.2%] - Boil 30 min (Hops)",
+        "1 lbs - Candi Syrup, Dark Belgian [Boil for 20 min] (80.0 SRM) (Grain)",
+        "1.0 oz - Amarillo Gold [8.2%] - Boil 15 min (Hops)",
+        "1.0 oz - Cascade [5.0%] - Boil 1 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)",
+        "1.0 oz - Citra [12.3%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Hop in the Night",
+    "name_raw": "Hop in the Night",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

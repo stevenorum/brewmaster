@@ -1,0 +1,23 @@
+{
+    "bjcp": "16A",
+    "id": "8008",
+    "ingredients": [
+        "50 lbs - Pale Malt, 2 row (Gambrinus) (2.0 SRM) (Grain)",
+        "5 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "3 lbs 8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "2 lbs - Peat Smoked Malt (2.8 SRM) (Grain)",
+        "1 lbs - Chocolate Malt (450.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "4.0 oz - Northern Brewer [7.0%] - Boil 80 min (Hops)",
+        "3.0 oz - Northern Brewer [7.0%] - Boil 40 min (Hops)",
+        "4.0 oz - Tettnang [4.5%] - Boil 10 min (Hops)",
+        "2 pkgs - Scottish Ale (Wyeast Labs #1728) (Yeast)"
+    ],
+    "name": "Adambier - HOTD clone",
+    "name_raw": "Adambier - HOTD clone",
+    "rating": "2.5",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "2"
+}

@@ -1,0 +1,31 @@
+{
+    "bjcp": "14C",
+    "id": "11544",
+    "ingredients": [
+        "6.00 gal - JAX JEA Tap Water (Water)",
+        "12.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "16 lbs 14.4 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.5 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "5.8 oz - Victory Malt (25.0 SRM) (Grain)",
+        "2.5 oz - Simcoe [13.0%] - First Wort (Hops)",
+        "5.00 g - Gypsum (Calcium Sulfate) (Boil 90 min) (Misc)",
+        "5.0 oz - Hop Shot [5.0%] - Boil 45 min (Hops)",
+        "1.20 - Whirlfloc Tablet (Boil 12 min) (Misc)",
+        "1.0 oz - Cascade [5.5%] - Boil 12 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Boil 12 min (Hops)",
+        "0.5 oz - Chinook [13.0%] - Boil 12 min (Hops)",
+        "1.5 oz - Simcoe [13.0%] - Boil 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.8 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)",
+        "0.8 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)",
+        "0.5 oz - Chinook [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Lagunitas Hop Stoopid clone",
+    "name_raw": "Lagunitas Hop Stoopid clone",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

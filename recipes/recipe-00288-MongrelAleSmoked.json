@@ -1,0 +1,24 @@
+{
+    "bjcp": "22A",
+    "id": "288",
+    "ingredients": [
+        "1 lb smoked crystal (60 L)",
+        "1/2 lb smoked pale English 2-row",
+        "1 lb Munich malt",
+        "3 lbs amber M&F dried malt extract",
+        "2 lbs light M&F dried malt extract",
+        "1/2 oz. Galena pellets (alpha = 12.0; 60 min.)",
+        "1/2 oz. Hallertauer pellets (alpha = 4.5; 15 min.)",
+        "1/2 teaspoon, Irish Moss (15 min.)",
+        "1/2 oz. Hallertauer pellets (alpha = 4.5; 1 min.)",
+        "Wyeast 1007: German Ale",
+        "Heavy handed 3/4 cup corn sugar (priming)"
+    ],
+    "name": "Mongrel Ale (Smoked)",
+    "name_raw": "Mongrel Ale (Smoked)",
+    "rating": "3.3",
+    "source": "beerrecipes.com",
+    "style": "Classic Rauchbier",
+    "style_raw": "Classic Rauchbier",
+    "votes": "15"
+}

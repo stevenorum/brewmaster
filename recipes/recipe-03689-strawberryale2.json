@@ -1,0 +1,22 @@
+{
+    "bjcp": "3A",
+    "id": "3689",
+    "ingredients": [
+        "1 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "1.0 oz - Caravienne Malt (22.0 SRM) (Grain)",
+        "6 lbs - Pale Liquid Extract (6.0 SRM) (Grain)",
+        "8.0 oz - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "0.5 oz - Perle [7.4%] - Boil 60 min (Hops)",
+        "4.00 oz - Strawberry extract (Boil 0 min) (Misc)",
+        "1.0 oz - Cascade [5.5%] - Boil 0 min (Hops)",
+        "2 pkgs - California Ale (White Labs #WLP001) (Yeast)"
+    ],
+    "name": "strawberry ale2",
+    "name_raw": "strawberry ale2",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Vienna Lager",
+    "style_raw": "Vienna Lager",
+    "votes": "1"
+}

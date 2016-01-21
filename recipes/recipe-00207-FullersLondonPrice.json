@@ -1,0 +1,22 @@
+{
+    "bjcp": "8A",
+    "id": "207",
+    "ingredients": [
+        "Pale malt: 2750gm (65%)",
+        "Crystal malt: 430gm (10%)",
+        "Flaked maize: 430gm (10%)",
+        "Invert cane sugar: 640gm (15%)",
+        "Target hops: 20gm (start of boil)",
+        "Challenger hops: 20gm (start of boil)",
+        "Northdown hops: 9gm (last 15min)",
+        "Irish moss: 1tsp (last 15-30min)",
+        "ale yeast"
+    ],
+    "name": "Fullers London Price",
+    "name_raw": "Fullers London Price",
+    "rating": "3.1",
+    "source": "beerrecipes.com",
+    "style": "Standard/Ordinary Bitter",
+    "style_raw": "Standard/Ordinary Bitter",
+    "votes": "13"
+}

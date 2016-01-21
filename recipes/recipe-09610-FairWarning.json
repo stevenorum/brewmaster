@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "9610",
+    "ingredients": [
+        "6.60 gal - Distilled Water (Water)",
+        "6.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "5.02 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "1.00 ml - Phosphoric Acid (Mash 0 min) (Misc)",
+        "8 lbs 13.1 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "14.1 oz - Caragold (5.1 SRM) (Grain)",
+        "10.6 oz - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "0.7 oz - Cascade [5.5%] - First Wort (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.7 oz - Centennial [10.0%] - Boil 5 min (Hops)",
+        "1.1 oz - Citra [12.0%] - Steep 30 min (Hops)",
+        "1 pkgs - Cry Havoc (White Labs #WLP862) (Yeast)",
+        "8.00 l - Oxygen (Primary 1 min) (Misc)",
+        "1.4 oz - Citra [12.0%] - Dry Hop 6 days (Hops)",
+        "1.1 oz - Centennial [10.0%] - Dry Hop 6 days (Hops)"
+    ],
+    "name": "Fair Warning",
+    "name_raw": "Fair Warning",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

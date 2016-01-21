@@ -1,0 +1,27 @@
+{
+    "bjcp": "19A",
+    "id": "724",
+    "ingredients": [
+        "7.0 # British pale 2-row malt",
+        "1.0 # Vienna malt",
+        "1.0 # Munich malt",
+        "0.5 # 80L Crystal malt",
+        "1.0 # 120L Crystal malt",
+        "0.25 # Chocolate malt",
+        "0.5 # Dark brown cane sugar",
+        "0.5 oz. Northern Brewer pellets (AA=7.1) at 60 min. (IBU=15)",
+        "0.5 oz. Northern Brewer pellets (AA=7.1) at 30 min. (IBU=8)",
+        "1.0 oz. Fuggles plugs (AA=4.2) at 30 min. (IBU=10)",
+        "0.5 oz. Fuggles plugs (AA=4.2) at 5 min. (IBU=2)",
+        "0.5 oz. Fuggles plugs (AA=4.2) dry hopped (IBU=0)",
+        "Wyeast 1338 European Ale yeast (1-2 pint starter)",
+        "0.5 c. Corn sugar for bottling"
+    ],
+    "name": "Old Man Pyle",
+    "name_raw": "Old Man Pyle",
+    "rating": "4.9",
+    "source": "beerrecipes.com",
+    "style": "Old Ale",
+    "style_raw": "Old Ale",
+    "votes": "7"
+}

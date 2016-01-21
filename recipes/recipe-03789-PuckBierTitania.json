@@ -1,0 +1,24 @@
+{
+    "bjcp": "18C",
+    "id": "3789",
+    "ingredients": [
+        "33 lbs 13.5 oz - WE Pilsen (1.8 SRM) (Grain)",
+        "6 lbs 13.3 oz - WE Trigo (2.2 SRM) (Grain)",
+        "1 lbs 8.7 oz - WE Munich 25 (12.2 SRM) (Grain)",
+        "1 lbs 3.4 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "0.9 oz - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "1.5 oz - Galena [12.5%] - Boil 60 min (Hops)",
+        "1.1 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "21.00 g - Coriander Seed (Boil 5 min) (Misc)",
+        "21.00 g - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "3 pkgs - SafBrew Ale (DCL/Fermentis #S-33) (Yeast)",
+        "3 pkgs - SafBrew Specialty Ale (DCL/Fermentis #T-58) (Yeast)"
+    ],
+    "name": "PuckBier - Titania",
+    "name_raw": "PuckBier - Titania",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Tripel",
+    "style_raw": "Belgian Tripel",
+    "votes": "1"
+}

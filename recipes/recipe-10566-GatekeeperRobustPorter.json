@@ -1,0 +1,31 @@
+{
+    "bjcp": "12B",
+    "id": "10566",
+    "ingredients": [
+        "6 lbs 14.8 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "2 lbs 4.9 oz - Golden Promise Malt (2.5 SRM) (Grain)",
+        "2 lbs 4.9 oz - Mild Malt (4.0 SRM) (Grain)",
+        "1 lbs 2.5 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "6.8 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.6 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "3.5 oz - Caramel/Crystal Malt - 105L (105.0 SRM) (Grain)",
+        "3.5 oz - Special B Malt (180.0 SRM) (Grain)",
+        "2.3 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "2.3 oz - Black Malt, debittered (500.0 SRM) (Grain)",
+        "2.3 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "2.3 oz - Special Roast, Briess (50.0 SRM) (Grain)",
+        "1.2 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1.2 oz - Fuggle [4.5%] - Boil 25 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.50 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "1.2 oz - Fuggle [4.5%] - Boil 5 min (Hops)",
+        "1 pkgs - London Ale III (Wyeast Labs #1318) (Yeast)"
+    ],
+    "name": "Gatekeeper Robust Porter",
+    "name_raw": "Gatekeeper Robust Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

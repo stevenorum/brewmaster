@@ -1,0 +1,22 @@
+{
+    "bjcp": "16A",
+    "id": "6789",
+    "ingredients": [
+        "1 lbs 1.6 oz - Wheat, Torrified (1.8 SRM) (Grain)",
+        "2 lbs 3.3 oz - Light Dry Extract (4.1 SRM) (Grain)",
+        "2 lbs 3.3 oz - Wheat Dry Extract (4.1 SRM) (Grain)",
+        "1 lbs 1.6 oz - Extra Light Dry Extract (2.5 SRM) (Grain)",
+        "1.1 oz - Goldings, East Kent [6.2%] - Boil 60 min (Hops)",
+        "0.4 oz - Saaz [3.2%] - Boil 5 min (Hops)",
+        "30.00 g - Orange Peel (Boil 5 min) (Misc)",
+        "15.00 g - Coriander Seed (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)"
+    ],
+    "name": "Witveiss",
+    "name_raw": "Witveiss",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": 0
+}

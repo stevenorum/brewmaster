@@ -1,0 +1,23 @@
+{
+    "bjcp": "6C",
+    "id": "757",
+    "ingredients": [
+        "7.5 lb Belgian Pils Malt",
+        "1 lb Wheat Malt",
+        ".25 lb 40L Crystal",
+        "1.5 oz Tettnanger (aa = 5.5%) 60 min",
+        ".25 oz Tettnanger 20 min",
+        ".25 oz Saaz (aa = 2.8%) 20 min",
+        ".25 oz Tettnanger 5 min",
+        ".25 oz Saaz 5 min",
+        "1 tsp Irish Moss",
+        "1.5 qt Wyeast Kolsch yeast starter"
+    ],
+    "name": "Kolsch",
+    "name_raw": "Kolsch",
+    "rating": "3.3",
+    "source": "beerrecipes.com",
+    "style": "K??lsch",
+    "style_raw": "K\u00f6lsch",
+    "votes": "17"
+}

@@ -1,0 +1,25 @@
+{
+    "bjcp": "7B",
+    "id": "8695",
+    "ingredients": [
+        "7.93 gal - Distilled Water (Water)",
+        "8.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "3.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "8 lbs 13.1 oz - Lager Malt (1.5 SRM) (Grain)",
+        "12.3 oz - Crystal Dark - 150 (75.0 SRM) (Grain)",
+        "10.6 oz - Biscuit Malt (25.4 SRM) (Grain)",
+        "0.9 oz - Perle [10.0%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.4 oz - Hallertauer Mittelfrueh [4.0%] - Boil 5 min (Hops)",
+        "2.1 oz - Hallertauer Mittelfrueh [4.0%] - Steep 60 min (Hops)",
+        "1 pkgs - West Coast Ale Yeast (Lallemand #BRY97) (Yeast)",
+        "8.00 l - Oxygen (Primary 1 min) (Misc)"
+    ],
+    "name": "Able Goodbarley",
+    "name_raw": "Able Goodbarley",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "California Common Beer",
+    "style_raw": "California Common Beer",
+    "votes": "1"
+}

@@ -1,0 +1,21 @@
+{
+    "bjcp": "10C",
+    "id": "771",
+    "ingredients": [
+        "9lbs 2-Row (Old)",
+        ".75lb Crystal Malt(40L)",
+        ".6lb Belgian Choc Malt",
+        ".5tsp Gypsum (Adjusting mash ph)",
+        "1 oz Northern Brewer (Alpha=10.0) 60 min boil",
+        ".5 oz Cascade 15 min boil",
+        ".25 oz Cascade Dryhop (upon transfer to secondary)",
+        "Wyeast 1028"
+    ],
+    "name": "All Grain American Brown",
+    "name_raw": "All Grain American Brown",
+    "rating": "4.4",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "13"
+}

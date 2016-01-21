@@ -1,0 +1,21 @@
+{
+    "bjcp": "3A",
+    "id": "10148",
+    "ingredients": [
+        "16 lbs - Vienna Malt (Weyermann) (3.0 SRM) (Grain)",
+        "2 lbs - Carahell (Weyermann) (13.0 SRM) (Grain)",
+        "2 lbs - Melanoidin (Weyermann) (30.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel Malt - 20L (Briess) (20.0 SRM) (Grain)",
+        "1 lbs - Cara 45 (Dingemans) (47.0 SRM) (Grain)",
+        "0.5 oz - Magnum [13.1%] - Boil 60 min (Hops)",
+        "2.0 oz - Hallertauer Hersbrucker [3.5%] - Boil 30 min (Hops)",
+        "1 pkgs - German Bock Lager (White Labs #WLP833) (Yeast)"
+    ],
+    "name": "Vienna Lager (W.E.B.)",
+    "name_raw": "Vienna Lager (W.E.B.)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Vienna Lager",
+    "style_raw": "Vienna Lager",
+    "votes": 0
+}

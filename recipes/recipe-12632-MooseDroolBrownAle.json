@@ -1,0 +1,21 @@
+{
+    "bjcp": "10C",
+    "id": "12632",
+    "ingredients": [
+        "10 lbs - Pale Ale Malt, Northwestern (Great Western) (3.0 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Golding US Pellet Type 90 [5.0%] - Boil 60 min (Hops)",
+        "1.0 oz - Hallertauer Pellet Type 90 [3.9%] - Boil 25 min (Hops)",
+        "1.0 oz - Williamette Pellet Type 90 [4.8%] - Boil 5 min (Hops)",
+        "1 pkgs - London Ale Yeast (Wyeast Labs #1028) (Yeast)"
+    ],
+    "name": "Moose Drool Brown Ale",
+    "name_raw": "Moose Drool Brown Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "1"
+}

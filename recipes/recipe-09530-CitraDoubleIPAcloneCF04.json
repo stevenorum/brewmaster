@@ -1,0 +1,31 @@
+{
+    "bjcp": "14C",
+    "id": "9530",
+    "ingredients": [
+        "11 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs - Munich Malt - 11L (10.0 SRM) (Grain)",
+        "1 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1 lbs - Honey Malt (25.0 SRM) (Grain)",
+        "1 lbs - White Wheat Malt 3.2L (2.4 SRM) (Grain)",
+        "0.8 oz - Nugget [14.7%] - Boil 60 min (Hops)",
+        "1.0 oz - Citra [13.4%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Citra [13.4%] - Boil 15 min (Hops)",
+        "1.0 oz - Citra [13.4%] - Boil 10 min (Hops)",
+        "1.0 oz - Citra [13.4%] - Boil 5 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "1.0 oz - Citra [13.4%] - Dry Hop 12 days (Hops)",
+        "0.5 oz - Amarillo Gold [8.7%] - Dry Hop 12 days (Hops)",
+        "0.8 oz - Citra [13.4%] - Dry Hop 9 days (Hops)",
+        "1.0 oz - Amarillo Gold [8.7%] - Dry Hop 6 days (Hops)",
+        "0.8 oz - Citra [13.4%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "Citra Double IPA (clone) - CF04",
+    "name_raw": "Citra Double IPA (clone) - CF04",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

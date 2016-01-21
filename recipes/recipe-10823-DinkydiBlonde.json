@@ -1,0 +1,28 @@
+{
+    "bjcp": "6B",
+    "id": "10823",
+    "ingredients": [
+        "9 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "3.2 oz - Honey Malt (25.0 SRM) (Grain)",
+        "0.2 oz - Pacifica [5.5%] - First Wort (Hops)",
+        "0.1 oz - Galaxy [14.0%] - First Wort (Hops)",
+        "0.1 oz - Nelson Sauvin [12.0%] - First Wort (Hops)",
+        "1.0 oz - Wakatu [7.0%] - Boil 5 min (Hops)",
+        "0.8 oz - Pacifica [5.5%] - Boil 5 min (Hops)",
+        "0.4 oz - Galaxy [14.0%] - Boil 5 min (Hops)",
+        "0.4 oz - Nelson Sauvin [12.0%] - Boil 5 min (Hops)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)",
+        "1.4 oz - Galaxy [14.0%] - Dry Hop 7 days (Hops)",
+        "0.5 oz - Nelson Sauvin [12.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Dinky-di Blonde",
+    "name_raw": "Dinky-di Blonde",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Blonde Ale",
+    "style_raw": "Blonde Ale",
+    "votes": "1"
+}

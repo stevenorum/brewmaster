@@ -1,0 +1,25 @@
+{
+    "bjcp": "12C",
+    "id": "3732",
+    "ingredients": [
+        "16 lbs - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [7.0%] - Boil 90 min (Hops)",
+        "1.5 oz - Williamette [5.5%] - Boil 45 min (Hops)",
+        "1.0 oz - Fuggles [4.5%] - Boil 20 min (Hops)",
+        "2.00 tbsp - Cayenne Pepper (Boil 5 min) (Misc)",
+        "1.00 - Cocoa, Dark (Boil 5 min) (Misc)",
+        "1.0 oz - Fuggles [4.5%] - Boil 2 min (Hops)",
+        "1 pkgs - Irish Ale (Wyeast Labs #1084) (Yeast)",
+        "1.00 - Raspberry Extract (Primary 7 days) (Misc)"
+    ],
+    "name": "Kazahk Imperial stout",
+    "name_raw": "Kazahk Imperial stout",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": "1"
+}

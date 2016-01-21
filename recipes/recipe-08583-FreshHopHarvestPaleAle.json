@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "8583",
+    "ingredients": [
+        "5.00 gal - Washington, DC (Water)",
+        "11 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1.0 oz - Nugget [13.0%] - Boil 75 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.00 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "2.0 oz - Columbus (Tomahawk) [14.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "Fresh Hop Harvest Pale Ale",
+    "name_raw": "Fresh Hop Harvest Pale Ale",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

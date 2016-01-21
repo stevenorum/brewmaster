@@ -1,0 +1,21 @@
+{
+    "bjcp": "16E",
+    "id": "1916",
+    "ingredients": [
+        "7 lbs 8.0 oz - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Amber Malt (22.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "8.0 oz - Pale Chocolate (200.0 SRM) (Grain)",
+        "1 lbs - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "1.5 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "1 pkgs - Belgian Ardennes (Wyeast Labs #3522) (Yeast)"
+    ],
+    "name": "Belgian Double Brown",
+    "name_raw": "Belgian Double Brown",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Specialty Ale",
+    "style_raw": "Belgian Specialty Ale",
+    "votes": "1"
+}

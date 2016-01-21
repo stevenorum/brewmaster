@@ -1,0 +1,23 @@
+{
+    "bjcp": "1A",
+    "id": "4410",
+    "ingredients": [
+        "5 lbs 12.0 oz - Pale Malt (2 Row) Bel (3.0 SRM) (Grain)",
+        "3 lbs 8.0 oz - Wheat, Flaked (2.0 SRM) (Grain)",
+        "3 lbs - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "5 lbs 8.0 oz - Wheat Liquid Extract (8.0 SRM) (Grain)",
+        "3.0 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Goldings, East Kent [5.0%] - Boil 10 min (Hops)",
+        "2.00 oz - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "0.50 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Wheat Yeast (Wyeast Labs #3942) (Yeast)",
+        "2.0 oz - Goldings, East Kent [5.0%] - Dry Hop 6 days (Hops)"
+    ],
+    "name": "White Orca Ale Clone",
+    "name_raw": "White Orca Ale Clone",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Lite American Lager",
+    "style_raw": "Lite American Lager",
+    "votes": 0
+}

@@ -1,0 +1,25 @@
+{
+    "bjcp": "14B",
+    "id": "134",
+    "ingredients": [
+        "2 row american *breiss* base malt, target OG 1.063 (total)",
+        "CaraVienna (DeWolf-Cosyns) 12% of grist",
+        "Munich (DeWolf-Cosyns) 6% of grist",
+        "Aromatic (DeWolf-Cosyns) 4% of grist",
+        "Biscuit (DeWolf-Cosyns)",
+        "Gypsum in mash",
+        "US Whole Perle, ~8% alpha in Kettle-60 min",
+        "Goldings Pellets ~5% 30 min",
+        "Goldings Pellets 10 and 2 min",
+        "Saazer Whole Plugs ~3% 2 min",
+        "Saazer Whole Plugs ~3% dry hopped",
+        "Dominion ale yeast"
+    ],
+    "name": "Pale Ale",
+    "name_raw": "Pale Ale",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "7"
+}

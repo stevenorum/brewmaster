@@ -1,0 +1,22 @@
+{
+    "bjcp": "10A",
+    "id": "12930",
+    "ingredients": [
+        "18 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Vienna Malt (3.5 SRM) (Grain)",
+        "1.0 oz - Belma [11.3%] - First Wort (Hops)",
+        "1.0 oz - Galaxy [13.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Mosaic [12.7%] - Boil 15 min (Hops)",
+        "1.0 oz - Galaxy [13.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Mosaic [12.7%] - Boil 5 min (Hops)",
+        "1.0 oz - Belma [11.3%] - Boil 1 min (Hops)",
+        "2 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Pale Rain",
+    "name_raw": "Pale Rain",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

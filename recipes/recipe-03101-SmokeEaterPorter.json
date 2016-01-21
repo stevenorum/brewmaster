@@ -1,0 +1,24 @@
+{
+    "bjcp": "12B",
+    "id": "3101",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "1 lbs - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs - Coffee Malt (150.0 SRM) (Grain)",
+        "8.0 oz - Carafoam (2.0 SRM) (Grain)",
+        "2.5 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Fuggles [4.5%] - Boil 20 min (Hops)",
+        "0.26 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1 pkgs - British Ale (Wyeast Labs #1098) (Yeast)",
+        "4.00 - Ancho chile (Secondary 5 days) (Misc)",
+        "1.00 g - espresso (Secondary 2 days) (Misc)"
+    ],
+    "name": "Smoke Eater Porter",
+    "name_raw": "Smoke Eater Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

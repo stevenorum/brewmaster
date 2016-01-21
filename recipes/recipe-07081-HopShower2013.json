@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "7081",
+    "ingredients": [
+        "9 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "6.1 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "4.0 oz - Carared (20.0 SRM) (Grain)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 75 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 10 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 10 min (Hops)",
+        "1.0 oz - Centennial [10.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 5 min (Hops)",
+        "1.0 oz - Citra [12.0%] - Boil 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Hop Shower 2013",
+    "name_raw": "Hop Shower 2013",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

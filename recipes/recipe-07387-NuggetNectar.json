@@ -1,0 +1,32 @@
+{
+    "bjcp": "14B",
+    "id": "7387",
+    "ingredients": [
+        "1.00 tbsp - A PH 5.2 Stabilizer (Mash 60 min) (Misc)",
+        "8 lbs 8.0 oz - Vienna (DURST MALZ) (7.0 SRM) (Grain)",
+        "7 lbs 8.0 oz - Pilsner (DURST MALZ) (7.0 SRM) (Grain)",
+        "8.0 oz - Caramel Malt - 60L (Briess) (60.0 SRM) (Grain)",
+        "1.2 oz - Nugget [13.0%] - Boil 90 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 20 min (Hops)",
+        "1.00 - A Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.00 - A Chiller Coil (Boil 15 min) (Misc)",
+        "1.00 - A Wort Pump (Boil 15 min) (Misc)",
+        "0.8 oz - Palisade [7.5%] - Boil 10 min (Hops)",
+        "0.50 tsp - A Yeast Nutrient (Boil 10 min) (Misc)",
+        "1.5 oz - Simcoe [11.9%] - Boil 1 min (Hops)",
+        "1.0 oz - Nugget [13.0%] - Boil 1 min (Hops)",
+        "0.5 oz - Columbus (Tomahawk) [14.0%] - Boil 1 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Nugget [13.0%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Simcoe [11.9%] - Dry Hop 7 days (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)",
+        "0.50 tsp - A Gelatin (Secondary 5 hours) (Misc)"
+    ],
+    "name": "Nugget Nectar",
+    "name_raw": "Nugget Nectar",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "4"
+}

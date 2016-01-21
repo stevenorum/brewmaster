@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "3564",
+    "ingredients": [
+        "7 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1.0 oz - Cascade [5.5%] - First Wort (Hops)",
+        "12.0 oz - Turbinado (10.0 SRM) (Grain)",
+        "1.05 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.0 oz - Apollo [17.0%] - Boil 6 min (Hops)",
+        "1.0 oz - Calypso [14.3%] - Boil 3 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 0 min (Hops)",
+        "1 pkgs - Burton Ale (White Labs #WLP023) (Yeast)"
+    ],
+    "name": "MYPA",
+    "name_raw": "MYPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

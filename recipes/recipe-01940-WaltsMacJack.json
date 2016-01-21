@@ -1,0 +1,22 @@
+{
+    "bjcp": "10B",
+    "id": "1940",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "1 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "12.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "0.5 oz - Galena Pellet Type 90 [13.0%] - Boil 60 min (Hops)",
+        "1.00 oz - Orange Peel, Sweet (Boil 30 min) (Misc)",
+        "1.0 oz - Goldings U S Whole Leaf [4.4%] - Boil 25 min (Hops)",
+        "1 pkgs - London ESB Ale (Wyeast Labs #1968) (Yeast)",
+        "1.0 oz - Cascade Pellet Type 90 [4.7%] - Dry Hop 10 days (Hops)"
+    ],
+    "name": "Walt's Mac& Jack",
+    "name_raw": "Walt's Mac& Jack",
+    "rating": "4.7",
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": "3"
+}

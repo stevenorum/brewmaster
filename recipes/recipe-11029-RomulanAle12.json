@@ -1,0 +1,22 @@
+{
+    "bjcp": "15A",
+    "id": "11029",
+    "ingredients": [
+        "5 lbs - Pilsner (2 Row) UK (1.0 SRM) (Grain)",
+        "5 lbs - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "1 lbs - Purple Rice (1.0 SRM) (Grain)",
+        "1 lbs - Rice, Flaked (1.0 SRM) (Grain)",
+        "0.5 oz - Perle [8.0%] - Boil 60 min (Hops)",
+        "2.00 tbsp - Lavender Flowers (Boil 5 min) (Misc)",
+        "1 pkgs - Hefeweizen Ale (White Labs #WLP300) (Yeast)",
+        "1 lbs - Blackberry Honey (1.0 SRM) (Grain)",
+        "16.00 oz - Blackberry Extract (Secondary 5 min) (Misc)"
+    ],
+    "name": "Romulan Ale 1.2",
+    "name_raw": "Romulan Ale 1.2",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": "1"
+}

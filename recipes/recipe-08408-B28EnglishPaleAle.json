@@ -1,0 +1,28 @@
+{
+    "bjcp": "11A",
+    "id": "8408",
+    "ingredients": [
+        "10.00 gal - Dimondale-Soft (Water)",
+        "10.00 gal - Dimondale-Well (Water)",
+        "6.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "6.00 ml - Lactic Acid (Mash 60 min) (Misc)",
+        "4.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "3.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "17 lbs - Pale Malt, Maris Otter (Thomas Fawcett) (3.0 SRM) (Grain)",
+        "1 lbs - Chocolate Malt (Thomas Fawcett) (508.0 SRM) (Grain)",
+        "8.0 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "8.0 oz - Crystal Extra Dark - 120L (Crisp) (120.0 SRM) (Grain)",
+        "2.1 oz - Goldings, East Kent [5.8%] - Boil 60 min (Hops)",
+        "0.5 oz - Goldings, East Kent [5.8%] - Boil 30 min (Hops)",
+        "2.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.7 oz - Goldings, East Kent [5.8%] - Boil 1 min (Hops)",
+        "2 pkgs - Dry English Ale (White Labs #WLP007) (Yeast)"
+    ],
+    "name": "B28: English Pale Ale",
+    "name_raw": "B28: English Pale Ale",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Mild",
+    "style_raw": "Mild",
+    "votes": "1"
+}

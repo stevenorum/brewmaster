@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "9654",
+    "ingredients": [
+        "7 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Victory Malt (25.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "0.2 oz - Falconers Blend [11.4%] - First Wort (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Simcoe [13.0%] - Boil 10 min (Hops)",
+        "1.5 oz - Mosaic [12.7%] - Boil 5 min (Hops)",
+        "1.5 oz - Mosaic [12.7%] - Steep 0 min (Hops)",
+        "1.0 oz - Mosaic [12.7%] - Steep 5 min (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Steep 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "Mosaic Session IPA",
+    "name_raw": "Mosaic Session IPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

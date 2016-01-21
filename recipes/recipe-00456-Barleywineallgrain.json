@@ -1,0 +1,24 @@
+{
+    "bjcp": "19C",
+    "id": "456",
+    "ingredients": [
+        "10lbs DWC(DeWolf-Cosyns Belgian) Pilsener malt",
+        "8 lbs DWC Pale malt",
+        "1.5lbs DWC CaraVienne malt",
+        "0.1lbs Roasted Barley",
+        "0.5lbs DWC (Belgian) Munich malt",
+        "2 oz Northern Brewer pellets (9%) 60 min",
+        "1 oz BC Kent Goldings plugs (5%) 30 min",
+        "1/2oz BC Kent Goldings plug (5%) 15 min",
+        "1/2oz BC Kent Goldings plug (5%) 5 min",
+        "1/2oz Fuggles plug (4.3%) 5 min",
+        "London ale yeast"
+    ],
+    "name": "Barleywine (all grain)",
+    "name_raw": "Barleywine (all grain)",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Barleywine",
+    "style_raw": "American Barleywine",
+    "votes": "2"
+}

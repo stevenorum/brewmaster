@@ -1,0 +1,28 @@
+{
+    "bjcp": "10A",
+    "id": "9024",
+    "ingredients": [
+        "5.50 gal - Washington, DC (Water)",
+        "7 lbs - Pale Malt, Golden Promise (Thomas Fawcett) (3.0 SRM) (Grain)",
+        "12.0 oz - Honey Malt (18.0 SRM) (Grain)",
+        "8.0 oz - Rye Malt (Briess) (3.7 SRM) (Grain)",
+        "4.0 oz - Caramel Malt - 80L 6-Row (Briess) (80.0 SRM) (Grain)",
+        "1.0 oz - Cascade [5.5%] - First Wort (Hops)",
+        "0.5 oz - Citra [12.0%] - Boil 20 min (Hops)",
+        "1.10 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1.10 tsp - Yeast Nutrient (Boil 15 min) (Misc)",
+        "0.5 oz - Citra [12.0%] - Boil 10 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "0.5 oz - Citra [12.0%] - Boil 5 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 1 min (Hops)",
+        "0.5 oz - Citra [12.0%] - Boil 1 min (Hops)",
+        "1 pkgs - WY1764-Rogue Pacman ( #) (Yeast)"
+    ],
+    "name": "Session Citrus Rye Pale Ale",
+    "name_raw": "Session Citrus Rye Pale Ale",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

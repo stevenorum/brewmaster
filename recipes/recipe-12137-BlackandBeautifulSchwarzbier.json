@@ -1,0 +1,25 @@
+{
+    "bjcp": "4C",
+    "id": "12137",
+    "ingredients": [
+        "6 lbs - Munich Malt (9.0 SRM) (Grain)",
+        "4 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 45L (45.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "4.0 oz - Carafa I (337.0 SRM) (Grain)",
+        "4.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "2.0 oz - Hallertauer [3.0%] - First Wort (Hops)",
+        "1.0 oz - Hallertauer [3.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Hallertauer [3.0%] - Boil 20 min (Hops)",
+        "0.50 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Hallertauer [3.0%] - Boil 1 min (Hops)",
+        "2 pkgs - SafLager West European Lager (DCL Yeast #S-23) (Yeast)"
+    ],
+    "name": "Black and Beautiful Schwarzbier",
+    "name_raw": "Black and Beautiful Schwarzbier",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Schwarzbier (Black Beer)",
+    "style_raw": "Schwarzbier (Black Beer)",
+    "votes": 0
+}

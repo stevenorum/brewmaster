@@ -1,0 +1,31 @@
+{
+    "bjcp": "23A",
+    "id": "12736",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.8 oz - Crystal Dark - 77L (Crisp) (75.0 SRM) (Grain)",
+        "8.8 oz - Melanoidin (Weyermann) (30.0 SRM) (Grain)",
+        "3.0 oz - Amarillo Gold [8.5%] - Mash Hop (Hops)",
+        "3.5 oz - Columbus (Tomahawk) [14.0%] - Boil 90 min (Hops)",
+        "12.0 oz - Corn Sugar (Dextrose) [Boil for 90 min] (0.0 SRM) (Grain)",
+        "0.8 oz - Columbus (Tomahawk) [14.0%] - Boil 45 min (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Boil 30 min (Hops)",
+        "2.5 oz - Simcoe [13.0%] - Steep 0 min (Hops)",
+        "1.0 oz - Centennial [10.0%] - Steep 0 min (Hops)",
+        "2 pkgs - English Ale (White Labs #WLP002) (Yeast)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 14 days (Hops)",
+        "1.0 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 14 days (Hops)",
+        "1.0 oz - Simcoe [13.0%] - Dry Hop 14 days (Hops)",
+        "0.2 oz - Centennial [10.0%] - Dry Hop 5 days (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 5 days (Hops)",
+        "0.2 oz - Simcoe [13.0%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Hoppy Clown",
+    "name_raw": "Hoppy Clown",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Specialty Beer",
+    "style_raw": "Specialty Beer",
+    "votes": "1"
+}

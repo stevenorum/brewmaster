@@ -1,0 +1,24 @@
+{
+    "bjcp": "14C",
+    "id": "11666",
+    "ingredients": [
+        "3 lbs 4.9 oz - Pale Malt, Maris Otter (5.0 SRM) (Grain)",
+        "7.1 oz - Wheat Malt, Ger (3.0 SRM) (Grain)",
+        "1.8 oz - Caramel/Crystal Malt -150L (150.0 SRM) (Grain)",
+        "0.4 oz - Cascade [8.0%] - First Wort (Hops)",
+        "0.3 oz - Columbus (Tomahawk) [15.7%] - Boil 60 min (Hops)",
+        "0.2 oz - Bobek [4.2%] - Boil 60 min (Hops)",
+        "0.4 oz - Cascade [8.0%] - Boil 5 min (Hops)",
+        "0.2 oz - Bobek [4.2%] - Boil 5 min (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [15.7%] - Boil 5 min (Hops)",
+        "0.4 oz - Cascade [8.0%] - Dry Hop 7 days (Hops)",
+        "0.4 oz - Columbus (Tomahawk) [14.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Obsession Fruit",
+    "name_raw": "Obsession Fruit",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

@@ -1,0 +1,23 @@
+{
+    "bjcp": "14B",
+    "id": "148",
+    "ingredients": [
+        "10# 2 row pale malt",
+        "2# 2 row vienna malt",
+        "1.5 # 40L crystal",
+        "1.5 # 80L crystal",
+        "1 # Wheat",
+        "1 ounce Chinook (13% alpha, boil)",
+        "1/2 ounce Northern Brewer (7.6% alpha, flavor)",
+        "1/2 ounce Cascade (homegrown, finish)",
+        "1/2 ounce Northern Brewer (finish)",
+        "Burton ale yeast, then Bohemian Lager"
+    ],
+    "name": "Celebration IPA",
+    "name_raw": "Celebration IPA",
+    "rating": "2.9",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "10"
+}

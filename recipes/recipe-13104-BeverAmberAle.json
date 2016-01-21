@@ -1,0 +1,24 @@
+{
+    "bjcp": "10B",
+    "id": "13104",
+    "ingredients": [
+        "15 lbs 6.9 oz - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "2 lbs 3.3 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "2 lbs 3.3 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Melanoiden Malt (20.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Amber Malt (22.0 SRM) (Grain)",
+        "0.7 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "1.1 oz - Chinook [13.0%] - Boil 15 min (Hops)",
+        "1.1 oz - Chinook [13.0%] - Boil 10 min (Hops)",
+        "1.4 oz - Chinook [13.0%] - Boil 5 min (Hops)",
+        "3.2 oz - Chinook [13.0%] - Boil 0 min (Hops)",
+        "2 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Bever Amber Ale",
+    "name_raw": "Bever Amber Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Amber Ale",
+    "style_raw": "American Amber Ale",
+    "votes": 0
+}

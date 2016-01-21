@@ -1,0 +1,33 @@
+{
+    "bjcp": "21A",
+    "id": "2084",
+    "ingredients": [
+        "7 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "3 lbs 4.8 oz - Munich II (Weyermann) (8.5 SRM) (Grain)",
+        "8.8 oz - Aromatic Malt (Dingemans) (19.0 SRM) (Grain)",
+        "8.6 oz - Melanoidin (Weyermann) (30.0 SRM) (Grain)",
+        "8.0 oz - Cara 45 (Dingemans) (47.0 SRM) (Grain)",
+        "1.9 oz - Vienna Malt (Weyermann) (3.9 SRM) (Grain)",
+        "1.9 oz - Wheat Malt, Pale (Weyermann) (2.4 SRM) (Grain)",
+        "6.1 oz - Brown Sugar, Light (8.0 SRM) (Grain)",
+        "1.9 oz - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "4.00 lbs - Pumpkin Meat (Boil 90 min) (Misc)",
+        "0.9 oz - Centennial [10.0%] - Boil 90 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1.81 g - Wyeast Nutrient (Boil 10 min) (Misc)",
+        "0.80 oz - Ginger Root (Boil 5 min) (Misc)",
+        "1.00 tbsp - Cinnamon (Boil 5 min) (Misc)",
+        "0.25 tsp - Allspice (Boil 5 min) (Misc)",
+        "0.25 tsp - Clove (Boil 5 min) (Misc)",
+        "0.25 tsp - Nutmeg (Boil 5 min) (Misc)",
+        "1 pkgs - Dry English Ale (White Labs #WLP007) (Yeast)",
+        "3.00 tsp - Vanillia Extract (Secondary 5 min) (Misc)"
+    ],
+    "name": "SofaKing Pumpkin Ale",
+    "name_raw": "SofaKing Pumpkin Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Spice, Herb, or Vegetable Beer",
+    "style_raw": "Spice, Herb, or Vegetable Beer",
+    "votes": 0
+}

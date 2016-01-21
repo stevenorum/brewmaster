@@ -1,0 +1,23 @@
+{
+    "bjcp": "6D",
+    "id": "10122",
+    "ingredients": [
+        "5 lbs - Red Wheat Malt (3.2 SRM) (Grain)",
+        "4 lbs - Rahr 2-Row (1.7 SRM) (Grain)",
+        "1 lbs - Caravienne Malt (22.0 SRM) (Grain)",
+        "0.2 oz - Amarillo Gold [8.5%] - First Wort (Hops)",
+        "0.2 oz - Amarillo Gold [8.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 15 min (Hops)",
+        "1.2 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "1.0 oz - Amarillo Gold [8.5%] - Boil 0 min (Hops)",
+        "2 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "0.9 oz - Amarillo Gold [8.5%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Amarillo Wheat",
+    "name_raw": "Amarillo Wheat",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Wheat or Rye Beer",
+    "style_raw": "American Wheat or Rye Beer",
+    "votes": 0
+}

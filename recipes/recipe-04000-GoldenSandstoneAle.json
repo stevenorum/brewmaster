@@ -1,0 +1,22 @@
+{
+    "bjcp": "6B",
+    "id": "4000",
+    "ingredients": [
+        "6 lbs 7.7 oz - Pilsner Malt (Weyermann&reg;) - G5001AMELB (2.0 SRM) (Grain)",
+        "2 lbs 2.6 oz - Munich I Malt (Weyermann&reg;) - G5005AMELB (7.4 SRM) (Grain)",
+        "2 lbs 2.6 oz - Wheat Malt Pale (Weyermann&reg;) - G5032AMELB (2.0 SRM) (Grain)",
+        "10.8 oz - Caramunich&reg; I Malt (Weyermann&reg;) - G5011AMELB (45.7 SRM) (Grain)",
+        "0.4 oz - Amarillo - AMAUSAPEL90 [9.2%] - Boil 60 min (Hops)",
+        "1.27 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.9 oz - Amarillo - AMAUSAPEL90 [9.2%] - Boil 15 min (Hops)",
+        "0.9 oz - Amarillo - AMAUSAPEL90 [9.2%] - Boil 5 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)"
+    ],
+    "name": "Golden Sandstone Ale",
+    "name_raw": "Golden Sandstone Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Blonde Ale",
+    "style_raw": "Blonde Ale",
+    "votes": 0
+}

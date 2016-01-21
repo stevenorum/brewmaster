@@ -1,0 +1,27 @@
+{
+    "bjcp": "5C",
+    "id": "9316",
+    "ingredients": [
+        "5 lbs 8.2 oz - DMG Pilsner (2.0 SRM) (Grain)",
+        "5 lbs 8.2 oz - Munich II (Weyermann) (8.5 SRM) (Grain)",
+        "1 lbs 1.6 oz - DMG Lys Karamel (63.5 SRM) (Grain)",
+        "8.8 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "3.5 oz - Cara Hell (12.7 SRM) (Grain)",
+        "5.3 oz - Treacle (100.0 SRM) (Grain)",
+        "0.2 oz - Agnus [12.5%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.8 oz - Hallertau Hersbrucker [3.8%] - Boil 10 min (Hops)",
+        "1.1 oz - Saaz [4.2%] - Boil 5 min (Hops)",
+        "10.00 g - Coriander Seed Light (Boil 5 min) (Misc)",
+        "1 pkgs - German Bock Lager (White Labs #WLP833) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)",
+        "1.1 oz - Cascade [7.0%] - Dry Hop 6 days (Hops)"
+    ],
+    "name": "DoppelBock 3",
+    "name_raw": "DoppelBock 3",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Doppelbock",
+    "style_raw": "Doppelbock",
+    "votes": 0
+}

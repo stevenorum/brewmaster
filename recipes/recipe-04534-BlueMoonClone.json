@@ -1,0 +1,24 @@
+{
+    "bjcp": "16A",
+    "id": "4534",
+    "ingredients": [
+        "5 lbs - Pale Malt - 2 Row (Cargill) (2.0 SRM) (Grain)",
+        "4 lbs 8.0 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "8.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "8.0 oz - Oats, Flaked (Briess) (1.4 SRM) (Grain)",
+        "1.0 oz - Hallertauer [4.8%] - Boil 60 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.50 oz - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "0.50 oz - Orange Peel, Sweet (Boil 5 min) (Misc)",
+        "0.25 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "Blue Moon Clone",
+    "name_raw": "Blue Moon Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "1"
+}

@@ -1,0 +1,22 @@
+{
+    "bjcp": "14B",
+    "id": "12888",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "1 lbs - Vienna Malt (3.5 SRM) (Grain)",
+        "1.0 oz - Belma [11.3%] - First Wort (Hops)",
+        "1.0 oz - Galaxy [13.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Pacific Jade [14.2%] - Boil 4 min (Hops)",
+        "1.0 oz - Motueka [7.5%] - Boil 2 min (Hops)",
+        "1.0 oz - Galaxy [13.0%] - Boil 1 min (Hops)",
+        "2 pkgs - San Diego Super yeast (White Labs WLP 090 #) (Yeast)"
+    ],
+    "name": "Double Edged IPA",
+    "name_raw": "Double Edged IPA",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

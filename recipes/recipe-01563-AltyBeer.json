@@ -1,0 +1,20 @@
+{
+    "bjcp": "7A",
+    "id": "1563",
+    "ingredients": [
+        "6 lbs - Munich Malt (7.0 SRM) (Grain)",
+        "4 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Aromatic Malt (4.5 SRM) (Grain)",
+        "2.1 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.5 oz - Tettnang [4.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Tettnang [4.5%] - Boil 30 min (Hops)",
+        "1 pkgs - German Ale/Kolsch (White Labs #WLP029) (Yeast)"
+    ],
+    "name": "Alty Beer",
+    "name_raw": "Alty Beer",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Northern German Altbier",
+    "style_raw": "Northern German Altbier",
+    "votes": 0
+}

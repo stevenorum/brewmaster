@@ -1,0 +1,28 @@
+{
+    "bjcp": "14B",
+    "id": "5928",
+    "ingredients": [
+        "5 lbs - Pale Malt, 2 Row (3.0 SRM) (Grain)",
+        "5 lbs - White Wheat (2.0 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "1 lbs - Wheat, Flaked (1.6 SRM) (Grain)",
+        "12.0 oz - Munich (Dingemans) (5.5 SRM) (Grain)",
+        "1.0 oz - Summit [14.2%] - Mash Hop (Hops)",
+        "1.0 oz - Citra [14.1%] - Boil 60 min (Hops)",
+        "0.5 oz - Cascade [3.7%] - Boil 30 min (Hops)",
+        "0.5 oz - Summit [14.2%] - Boil 15 min (Hops)",
+        "0.50 oz - Coriander Seed (Boil 5 min) (Misc)",
+        "0.50 oz - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "0.50 oz - Orange Peel, Sweet (Boil 5 min) (Misc)",
+        "1.0 oz - Citra [14.1%] - Steep 60 min (Hops)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)",
+        "1.0 oz - Summit [15.5%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "Hoppy Kitty White IPA",
+    "name_raw": "Hoppy Kitty White IPA",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

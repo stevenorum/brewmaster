@@ -1,0 +1,23 @@
+{
+    "bjcp": "14B",
+    "id": "7234",
+    "ingredients": [
+        "10 lbs 8.0 oz - Pale Malt (6 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 4.0 oz - Maize, Flaked (Thomas Fawcett) (2.0 SRM) (Grain)",
+        "1 lbs 14.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "9.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "2.0 oz - Cluster [7.5%] - Boil 60 min (Hops)",
+        "0.8 oz - Brewer&#39;s Gold [9.4%] - Boil 25 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1.0 oz - Goldings, East Kent [5.0%] - Boil 3 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Goldings, East Kent [6.6%] - Dry Hop 365 days (Hops)"
+    ],
+    "name": "Ballantine IPA V.1 (1950's)",
+    "name_raw": "Ballantine IPA V.1 (1950's)",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

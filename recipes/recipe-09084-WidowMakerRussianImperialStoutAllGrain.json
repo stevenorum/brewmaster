@@ -1,0 +1,33 @@
+{
+    "bjcp": "13F",
+    "id": "9084",
+    "ingredients": [
+        "11 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Acid Malt (3.0 SRM) (Grain)",
+        "1 lbs - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "12.0 oz - Black Barley (Stout) (500.0 SRM) (Grain)",
+        "12.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "12.0 oz - Wheat, Roasted (425.0 SRM) (Grain)",
+        "8.0 oz - Biscuit Malt (23.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "8.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "8.0 oz - Rye, Flaked (2.0 SRM) (Grain)",
+        "1 lbs - Brown Sugar, Dark (50.0 SRM) (Grain)",
+        "8.0 oz - Milk Sugar (Lactose) (0.0 SRM) (Grain)",
+        "0.5 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Chinook [13.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Fuggles [4.5%] - Boil 15 min (Hops)",
+        "0.5 oz - Goldings, East Kent [5.0%] - Boil 5 min (Hops)",
+        "1 pkgs - Irish Ale Yeast (White Labs #WLP004) (Yeast)",
+        "0.5 oz - Goldings, East Kent [5.0%] - Dry Hop 6 days (Hops)"
+    ],
+    "name": "Widow Maker Russian Imperial Stout All Grain",
+    "name_raw": "Widow Maker Russian Imperial Stout All Grain",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": "2"
+}

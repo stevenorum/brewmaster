@@ -1,0 +1,21 @@
+{
+    "bjcp": "16C",
+    "id": "5201",
+    "ingredients": [
+        "1 lbs - Aromatic Malt (26.0 SRM) (Grain)",
+        "8.0 oz - Caravienne Malt (22.0 SRM) (Grain)",
+        "1 lbs - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "6 lbs 9.6 oz - Pale Liquid Extract (8.0 SRM) (Grain)",
+        "1 lbs - Candi Sugar, Amber (75.0 SRM) (Grain)",
+        "1.5 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1.5 oz - Goldings, East Kent [5.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Belgian Golden Ale (White Labs #WLP570) (Yeast)"
+    ],
+    "name": "Glassblower Saison",
+    "name_raw": "Glassblower Saison",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": 0
+}

@@ -1,0 +1,24 @@
+{
+    "bjcp": "10A",
+    "id": "7730",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "1 lbs - Honey Malt (25.0 SRM) (Grain)",
+        "0.5 oz - Simcoe [11.8%] - Boil 60 min (Hops)",
+        "0.5 oz - Simcoe [11.8%] - Boil 30 min (Hops)",
+        "0.5 oz - Simcoe [11.6%] - Boil 20 min (Hops)",
+        "0.28 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "1.0 oz - Simcoe [11.6%] - Steep 0 min (Hops)",
+        "0.5 oz - Simcoe [11.6%] - Boil 0 min (Hops)",
+        "1 pkgs - Safale American (DCL/Fermentis #US-05) (Yeast)",
+        "2.0 oz - Simcoe [11.6%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "No Slack Pale Ale",
+    "name_raw": "No Slack Pale Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

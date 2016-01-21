@@ -1,0 +1,22 @@
+{
+    "bjcp": "3B",
+    "id": "4060",
+    "ingredients": [
+        "5 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "5 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "1 lbs - Vienna Malt (3.5 SRM) (Grain)",
+        "3.2 oz - Carafa III (525.0 SRM) (Grain)",
+        "0.9 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "1.2 oz - Hallertauer Pellet Type 90 [3.9%] - Boil 15 min (Hops)",
+        "1 pkgs - California Lager (Wyeast Labs #2112) (Yeast)"
+    ],
+    "name": "Sam Adams Octoberfest Clone",
+    "name_raw": "Sam Adams Octoberfest Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Oktoberfest/M??rzen",
+    "style_raw": "Oktoberfest/M\u00e4rzen",
+    "votes": "2"
+}

@@ -1,0 +1,24 @@
+{
+    "bjcp": "16C",
+    "id": "3551",
+    "ingredients": [
+        "7 lbs 8.0 oz - Pilsen (Dingemans) (1.6 SRM) (Grain)",
+        "2 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "1 lbs - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "1 lbs - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "1.0 oz - Willamette [5.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Saaz [4.0%] - Boil 15 min (Hops)",
+        "1.0 oz - Saaz [4.0%] - Boil 5 min (Hops)",
+        "1 pkgs - American Farmhouse Blend (White Labs #WLP670) (Yeast)",
+        "1 pkgs - Belgian Saison I Ale (White Labs #WLP565) (Yeast)",
+        "1 pkgs - Brettanomyces Bruxellensis (White Labs #WLP650) (Yeast)",
+        "1 pkgs - Brettanomyces Claussenii (White Labs #WLP645) (Yeast)"
+    ],
+    "name": "2 Bretts Saison",
+    "name_raw": "2 Bretts Saison",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": "2"
+}

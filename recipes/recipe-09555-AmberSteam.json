@@ -1,0 +1,25 @@
+{
+    "bjcp": "7B",
+    "id": "9555",
+    "ingredients": [
+        "5.00 gal - Deionized Water (Water)",
+        "2.00 g - Calcium Sulfate (Gypsum) (Mash 60 min) (Misc)",
+        "2.00 g - Chalk (Mash 60 min) (Misc)",
+        "1.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "5 lbs - Pale Ale Malt, US (Briess) (3.5 SRM) (Grain)",
+        "6.0 oz - Caramel 80L (80.0 SRM) (Grain)",
+        "2.0 oz - Chocolate Malt (US) (350.0 SRM) (Grain)",
+        "0.2 oz - Northern Brewer [10.6%] - Boil 60 min (Hops)",
+        "0.2 oz - Northern Brewer [10.6%] - Boil 30 min (Hops)",
+        "0.25 - Whirlfloc Tablet (Boil 10 min) (Misc)",
+        "0.6 oz - Northern Brewer [10.6%] - Boil 5 min (Hops)",
+        "1 pkgs - San Francisco Lager (White Labs #WLP810) (Yeast)"
+    ],
+    "name": "Amber Steam",
+    "name_raw": "Amber Steam",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "California Common Beer",
+    "style_raw": "California Common Beer",
+    "votes": "1"
+}

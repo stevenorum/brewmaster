@@ -1,0 +1,24 @@
+{
+    "bjcp": "16C",
+    "id": "3200",
+    "ingredients": [
+        "9 lbs - Pilsner (2 Row) MFB (2.0 SRM) (Grain)",
+        "7 lbs 8.0 oz - Special Aromatic (4.2 SRM) (Grain)",
+        "3 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "4.0 oz - Caramel Vienna MFB - 20L (20.0 SRM) (Grain)",
+        "1.8 oz - Willamette 2010 pellet [3.9%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.0 oz - Hallertauer Mittelfrueh 2011 [2.9%] - Boil 15 min (Hops)",
+        "1.2 oz - Goldings, East Kent [4.2%] - Boil 15 min (Hops)",
+        "2.0 oz - Hallertauer Mittelfrueh 2011 [2.9%] - Boil 0 min (Hops)",
+        "1.2 oz - Goldings, East Kent [4.2%] - Boil 0 min (Hops)",
+        "1 pkgs - Farmhouse Ale (Wyeast Labs #3726) (Yeast)"
+    ],
+    "name": "Urban Farmhouse",
+    "name_raw": "Urban Farmhouse",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": 0
+}

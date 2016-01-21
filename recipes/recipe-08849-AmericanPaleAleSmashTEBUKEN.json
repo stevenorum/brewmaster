@@ -1,0 +1,29 @@
+{
+    "bjcp": "10A",
+    "id": "8849",
+    "ingredients": [
+        "3.70 gal - Tebuken Amber beers water (Water)",
+        "2.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "2.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "1.00 g - Baking Soda (Mash 60 min) (Misc)",
+        "1.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "11 lbs 0.4 oz - Pale Ale malt (2.0 SRM) (Grain)",
+        "7.1 oz - Acid Malt (3.0 SRM) (Grain)",
+        "0.7 oz - Toasted Malt (350.0 SRM) (Grain)",
+        "0.9 oz - Cascade [7.1%] - Boil 60 min (Hops)",
+        "0.5 oz - Cascade [7.1%] - Boil 35 min (Hops)",
+        "0.5 oz - Cascade [7.1%] - Boil 20 min (Hops)",
+        "2.00 g - Irish Moss (Boil 10 min) (Misc)",
+        "0.5 oz - Cascade [7.1%] - Boil 10 min (Hops)",
+        "1.1 oz - Cascade [7.1%] - Boil 1 min (Hops)",
+        "2 pkgs - Windsor Yeast (Lallemand #-) (Yeast)",
+        "2.00 g - Gelatin (Secondary 5 hours) (Misc)"
+    ],
+    "name": "American Pale Ale(Smash) TEBUKEN",
+    "name_raw": "American Pale Ale(Smash) TEBUKEN",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

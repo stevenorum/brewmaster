@@ -1,0 +1,30 @@
+{
+    "bjcp": "14C",
+    "id": "6640",
+    "ingredients": [
+        "15.00 gal - New York, NY (Water)",
+        "26 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Acid Malt (3.0 SRM) (Grain)",
+        "1 lbs - CaraHell (3.0 SRM) (Grain)",
+        "1 lbs - Carafoam (2.0 SRM) (Grain)",
+        "1 lbs - Caramel Malt - 40L (Briess) (40.0 SRM) (Grain)",
+        "1 lbs - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "4.0 oz - Roasted Barley (300.0 SRM) (Grain)",
+        "3 lbs - Brown Sugar, Light (8.0 SRM) (Grain)",
+        "2.0 oz - Goldings, East Kent [5.0%] - Boil 90 min (Hops)",
+        "3.0 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1.8 oz - HomeGrown [13.0%] - Boil 60 min (Hops)",
+        "0.8 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "2.0 oz - Simcoe [13.0%] - Boil 30 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.5 oz - Cascade [5.5%] - Boil 10 min (Hops)",
+        "1 pkgs - Northwest Ale (Wyeast Labs #1332) (Yeast)"
+    ],
+    "name": "Hop Hammer Red-1",
+    "name_raw": "Hop Hammer Red-1",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": 0
+}

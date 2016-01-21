@@ -1,0 +1,22 @@
+{
+    "bjcp": "10A",
+    "id": "5211",
+    "ingredients": [
+        "8 lbs 7.6 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 5.7 oz - Caraamber (30.0 SRM) (Grain)",
+        "2 lbs 5.7 oz - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "9.7 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "0.9 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "0.9 oz - Centennial [10.0%] - Boil 45 min (Hops)",
+        "1.20 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "4.00 lbs - Corn Sugar (Boil 0 min) (Misc)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "JPA 1.0",
+    "name_raw": "JPA 1.0",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

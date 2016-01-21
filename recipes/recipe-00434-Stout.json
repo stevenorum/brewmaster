@@ -1,0 +1,22 @@
+{
+    "bjcp": "13A",
+    "id": "434",
+    "ingredients": [
+        "6 lbs dark malt extract",
+        "0.5 lbs roasted barley",
+        "0.5 lbs crystal",
+        "0.5 lbs chocolate malt",
+        "0.33 lbs flaked barley",
+        "1.0 oz bittering hops (Nugget or Eroica)",
+        "1.0 tsp CaC03 (calcium carbonate) to reduce malt acidity",
+        "7-14 grams Ale yeast (Edme, muntons, london)",
+        "3/4 cup Corn suger for priming"
+    ],
+    "name": "Stout",
+    "name_raw": "Stout",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "2"
+}

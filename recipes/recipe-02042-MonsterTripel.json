@@ -1,0 +1,24 @@
+{
+    "bjcp": "18C",
+    "id": "2042",
+    "ingredients": [
+        "8 lbs 6.0 oz - Pilsner (Muntons) (1.7 SRM) (Grain)",
+        "3 lbs 15.5 oz - Pale Malt (Muntons) (3.0 SRM) (Grain)",
+        "12.4 oz - Cara-Pils/Dextrine (2.5 SRM) (Grain)",
+        "12.4 oz - Rye Malt (4.7 SRM) (Grain)",
+        "2 lbs 3.3 oz - Sugar, Table (Sucrose) (1.0 SRM) (Grain)",
+        "1.3 oz - Goldings, East Kent 4,5% [4.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Hallertauer, Northern Brewer [9.8%] - Boil 60 min (Hops)",
+        "0.27 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "2.32 g - Wyeast Beer Nutrient Blend (Boil 10 min) (Misc)",
+        "0.7 oz - Saaz [3.9%] - Boil 1 min (Hops)",
+        "1 pkgs - Abbey Ale (White Labs #WLP530) (Yeast)"
+    ],
+    "name": "Monster Tripel",
+    "name_raw": "Monster Tripel",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Tripel",
+    "style_raw": "Belgian Tripel",
+    "votes": "3"
+}

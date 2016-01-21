@@ -1,0 +1,23 @@
+{
+    "bjcp": "9E",
+    "id": "5457",
+    "ingredients": [
+        "15.00 gal - Millstadt, IL (Water)",
+        "51 lbs - Pale Malt - 2 Row (Cargill) (2.0 SRM) (Grain)",
+        "3 lbs - Crystal 40, 2-Row, (Great Western) (40.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Aromatic Malt (Briess) (20.0 SRM) (Grain)",
+        "12.0 oz - Peated Malt (Simpsons) (2.5 SRM) (Grain)",
+        "12.0 oz - Special B Malt (180.0 SRM) (Grain)",
+        "6.1 oz - Black Barley (Briess) (500.0 SRM) (Grain)",
+        "3.0 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.75 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "8 pkgs - Edinburgh Ale (White Labs #WLP028) (Yeast)"
+    ],
+    "name": "Millstadt Scotch Ale",
+    "name_raw": "Millstadt Scotch Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Strong Scotch Ale",
+    "style_raw": "Strong Scotch Ale",
+    "votes": "1"
+}

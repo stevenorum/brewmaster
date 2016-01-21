@@ -1,0 +1,28 @@
+{
+    "bjcp": "14A",
+    "id": "11069",
+    "ingredients": [
+        "10.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "7 lbs 11.5 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Munich (Dingemans) (10.2 SRM) (Grain)",
+        "1 lbs 1.6 oz - Pilsen (Dingemans) (1.6 SRM) (Grain)",
+        "1 lbs 1.6 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "3.5 oz - Extra Light Dry Extract (3.0 SRM) (Grain)",
+        "1.8 oz - Aurora (Super Styrian Aurora) [9.3%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.1 oz - Wai-iti [3.0%] - Boil 5 min (Hops)",
+        "1.11 tsp - Yeast Nutrient (Boil 3 days) (Misc)",
+        "1.8 oz - Wai-iti [3.0%] - Boil 1 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "0.4 oz - Wai-iti [3.0%] - Dry Hop 5 days (Hops)",
+        "0.30 oz - Beer Brite (Secondary 1 days) (Misc)"
+    ],
+    "name": "Wai-iti IPA",
+    "name_raw": "Wai-iti IPA",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "English IPA",
+    "style_raw": "English IPA",
+    "votes": "1"
+}

@@ -1,0 +1,23 @@
+{
+    "bjcp": "12B",
+    "id": "1246",
+    "ingredients": [
+        "9.00 lb Pale Malt (2 Row) US (2.0 SRM) Grain 60.00 %",
+        "3.00 lb Mild Malt (4.0 SRM) Grain 20.00 %",
+        "1.00 lb Black (Patent) Malt (500.0 SRM) Grain 6.67 %",
+        "1.00 lb Caramel/Crystal Malt - 10L (10.0 SRM) Grain 6.67 %",
+        "0.50 lb Chocolate Malt (350.0 SRM) Grain 3.33 %",
+        "0.50 lb Munich Malt - 10L (10.0 SRM) Grain 3.33 %",
+        "2.00 oz Fuggles [4.50 %] (60 min) Hops 23.7 IBU",
+        "0.25 tsp Irish Moss (Boil 10.0 min) Misc",
+        "10.00 gm Gypsum (Calcium Sulfate) (Mash 60.0 min) Misc",
+        "1 Pkgs English Ale (White Labs #WLP002) Yeast-Ale"
+    ],
+    "name": "I Walk the Line Porter",
+    "name_raw": "I Walk the Line Porter",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "5"
+}

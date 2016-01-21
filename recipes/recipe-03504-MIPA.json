@@ -1,0 +1,25 @@
+{
+    "bjcp": "14B",
+    "id": "3504",
+    "ingredients": [
+        "26 lbs - Pale Malt (2 Row) Bel (3.0 SRM) (Grain)",
+        "1 lbs 12.4 oz - Caramel/Crystal Malt - 57L (57.0 SRM) (Grain)",
+        "1 lbs 6.5 oz - Victory Malt (25.0 SRM) (Grain)",
+        "1.6 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Magnum [14.0%] - First Wort (Hops)",
+        "1.00 oz - Irish Moss (Boil 15 min) (Misc)",
+        "3.3 oz - Magnum [14.0%] - Boil 10 min (Hops)",
+        "2.2 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "2.2 oz - Magnum [14.0%] - Boil 5 min (Hops)",
+        "2 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 5 days (Hops)",
+        "1.0 oz - Citra [11.1%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "MIPA",
+    "name_raw": "MIPA",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": 0
+}

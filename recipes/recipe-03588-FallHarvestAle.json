@@ -1,0 +1,23 @@
+{
+    "bjcp": "10C",
+    "id": "3588",
+    "ingredients": [
+        "7 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "3 lbs - Caramel Malt - 40L (Briess) (40.0 SRM) (Grain)",
+        "1 lbs - Brown Malt (65.0 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (Briess) (1.4 SRM) (Grain)",
+        "1 lbs - Special Roast (Briess) (50.0 SRM) (Grain)",
+        "8.6 oz - Carafa Special II (Weyermann) (400.0 SRM) (Grain)",
+        "0.6 oz - Centennial [9.7%] - First Wort (Hops)",
+        "0.5 oz - Centennial [9.7%] - Boil 18 min (Hops)",
+        "0.4 oz - Willamette [5.5%] - Boil 7 min (Hops)",
+        "1 pkgs - Whitbread Ale (Wyeast Labs #1099) (Yeast)"
+    ],
+    "name": "Fall Harvest Ale",
+    "name_raw": "Fall Harvest Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "1"
+}

@@ -1,0 +1,28 @@
+{
+    "bjcp": "14B",
+    "id": "1192",
+    "ingredients": [
+        "4lbs Golden Dry DME (Dry Malt Extract)",
+        "2lbs Amber Light DME",
+        "1lbs Vienna Malt (Steeped 30 mins at 155)",
+        ".5lbs Crystal 20L",
+        ".5lbs Crystal 40L",
+        ".5oz Columbus 8aau @ 60 min",
+        ".5oz Citra 5aau @ 40 min",
+        ".5oz Centennial 5aau @ 20 min",
+        ".5oz Citra 5aau @ 10 min",
+        ".5oz Cascade 3aau @ 5 min",
+        ".5oz Citra 5aau @ 0 min",
+        ".5oz Cascade Dry Hopped in Secondary",
+        ".5oz Citra Dry Hopped in Secondary",
+        "Should equal 62 IBU's but I am using educated guestimation.",
+        "I used US-05 but that will be up to your preference. I am going to experiment with other Yeast."
+    ],
+    "name": "4C's IPA",
+    "name_raw": "4C's IPA",
+    "rating": "3.4",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "11"
+}

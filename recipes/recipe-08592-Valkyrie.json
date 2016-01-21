@@ -1,0 +1,30 @@
+{
+    "bjcp": "10A",
+    "id": "8592",
+    "ingredients": [
+        "8.19 gal - Thomas Franssons IPA-profil (Water)",
+        "7.47 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "2.77 g - Chalk (Mash 60 min) (Misc)",
+        "1.79 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "1.44 g - Baking Soda (Mash 60 min) (Misc)",
+        "0.86 g - Salt (Mash 60 min) (Misc)",
+        "0.17 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "8 lbs 13.1 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs 12.2 oz - Cara Pale (4.1 SRM) (Grain)",
+        "0.2 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "0.2 oz - Simcoe [13.0%] - Boil 60 min (Hops)",
+        "4.23 g - MM Klar (Boil 10 min) (Misc)",
+        "0.9 oz - Chinook [13.0%] - Boil 10 min (Hops)",
+        "0.9 oz - Simcoe [13.0%] - Boil 10 min (Hops)",
+        "2.5 oz - Chinook [13.0%] - Boil 0 min (Hops)",
+        "2.5 oz - Simcoe [13.0%] - Boil 0 min (Hops)",
+        "2 pkgs - Northwest Ale (Wyeast Labs #1332) (Yeast)"
+    ],
+    "name": "Valkyrie",
+    "name_raw": "Valkyrie",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

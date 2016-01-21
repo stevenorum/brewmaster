@@ -1,0 +1,31 @@
+{
+    "bjcp": "23A",
+    "id": "12744",
+    "ingredients": [
+        "10 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Munich (Cargill) (9.5 SRM) (Grain)",
+        "1 lbs 8.0 oz - Vienna Malt (Briess) (3.5 SRM) (Grain)",
+        "1 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "12.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "5.9 oz - Carafa III (525.0 SRM) (Grain)",
+        "5.9 oz - De-Bittered Black Malt (Dingemans) (550.0 SRM) (Grain)",
+        "1.0 oz - Bravo [15.1%] - First Wort (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 30 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "0.5 oz - Centennial [10.0%] - Steep 0 min (Hops)",
+        "0.5 oz - Mt. Hood [6.0%] - Steep 15 min (Hops)",
+        "0.5 oz - Mt. Hood [6.0%] - Steep 0 min (Hops)",
+        "0.5 oz - Simcoe [13.0%] - Steep 15 min (Hops)",
+        "3 pkgs - British Ale (White Labs #WLP005) (Yeast)",
+        "1.0 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)",
+        "1.0 oz - Centennial [10.0%] - Dry Hop 0 days (Hops)"
+    ],
+    "name": "OctoInk II",
+    "name_raw": "OctoInk II",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Specialty Beer",
+    "style_raw": "Specialty Beer",
+    "votes": "1"
+}

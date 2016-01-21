@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "8240",
+    "ingredients": [
+        "9 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "8.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "6.4 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.7 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "0.2 oz - Fuggles [4.5%] - Boil 60 min (Hops)",
+        "0.4 oz - Goldings, East Kent [5.0%] - Boil 15 min (Hops)",
+        "1 pkgs - Dry English Ale (White Labs #WLP007) (Yeast)",
+        "14.9 oz - Molasses (80.0 SRM) (Grain)",
+        "4.00 oz - Oak Chips (Secondary 7 days) (Misc)",
+        "1.00 mg - vanilla Beans (Secondary 0 days) (Misc)"
+    ],
+    "name": "Vanilla Bourbon Porter",
+    "name_raw": "Vanilla Bourbon Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

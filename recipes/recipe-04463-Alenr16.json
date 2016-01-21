@@ -1,0 +1,27 @@
+{
+    "bjcp": "11C",
+    "id": "4463",
+    "ingredients": [
+        "3 lbs 8.3 oz - Pale ale Malt (3.3 SRM) (Grain)",
+        "2 lbs 2.1 oz - Municher Malt (9.0 SRM) (Grain)",
+        "2 lbs 2.1 oz - Pilsner Malt(2 Row) Denmark (2.0 SRM) (Grain)",
+        "1 lbs 1.1 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "11.3 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "5.6 oz - Caraaroma (Weyermann) (178.0 SRM) (Grain)",
+        "0.4 oz - Cascade [5.5%] - Mash Hop (Hops)",
+        "11.3 oz - Candi Sugar, Clear (0.5 SRM) (Grain)",
+        "0.8 oz - Challenger [7.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Challenger [7.5%] - Boil 15 min (Hops)",
+        "10.00 g - Irish Moss (Boil 10 min) (Misc)",
+        "0.00 mg - Add Chiller (Boil 10 min) (Misc)",
+        "0.5 oz - Challenger [7.5%] - Steep 5 min (Hops)",
+        "0 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)"
+    ],
+    "name": "Ale nr. 16",
+    "name_raw": "Ale nr. 16",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Northern English Brown Ale",
+    "style_raw": "Northern English Brown Ale",
+    "votes": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "bjcp": "10A",
+    "id": "1994",
+    "ingredients": [
+        "20 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4.0 oz - Liberty [4.3%] - Boil 60 min (Hops)",
+        "0.8 oz - Hallertauer Hersbrucker [4.0%] - Boil 15 min (Hops)",
+        "0.8 oz - Hallertauer Hersbrucker [4.0%] - Boil 5 min (Hops)",
+        "2 pkgs - Nottingham Yeast (Lallemand #-) (Yeast)",
+        "1.0 oz - Hallertauer Hersbrucker [4.0%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Samuel Adams Boston Lager Clone",
+    "name_raw": "Samuel Adams Boston Lager Clone",
+    "rating": "4.4",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "8"
+}

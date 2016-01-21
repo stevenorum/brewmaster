@@ -1,0 +1,30 @@
+{
+    "bjcp": "16C",
+    "id": "12622",
+    "ingredients": [
+        "15.00 gal - Davis, CA R.O. water (Water)",
+        "10.00 ml - Lactic Acid (Mash 60 min) (Misc)",
+        "15 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs - Vienna Malt (4.0 SRM) (Grain)",
+        "2 lbs - Wheat, Flaked (1.6 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 10L (10.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs - Sugar, Table (Sucrose) (1.0 SRM) (Grain)",
+        "3.0 oz - Williamette [5.0%] - Boil 100 min (Hops)",
+        "0.05 oz - Irish Moss (Boil 15 min) (Misc)",
+        "1.0 oz - Goldings, East Kent [4.8%] - Boil 5 min (Hops)",
+        "0.50 g - Ginger Root (Boil 0 min) (Misc)",
+        "15.00 - Black Peppercorns (Boil 0 min) (Misc)",
+        "0.20 g - Anise, Star (Boil 0 min) (Misc)",
+        "1 pkgs - Belgian Saison I Ale (White Labs #WLP565) (Yeast)",
+        "2 lbs - Honey (1.0 SRM) (Grain)",
+        "0.5 oz - Goldings, East Kent [4.8%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "Saison de la Place",
+    "name_raw": "Saison de la Place",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": 0
+}

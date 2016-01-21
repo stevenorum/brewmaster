@@ -1,0 +1,21 @@
+{
+    "bjcp": "12B",
+    "id": "310",
+    "ingredients": [
+        "1 can, Munton & Fison dark hopped extract",
+        "1/2 can, Edme bitters kit",
+        "1 stick, brewers licorice",
+        "1/2 pound, toasted barley",
+        "1 pound, flaked barley",
+        "2 ounces, Cascade hops pellets",
+        "1 ounce, Northern Brewer hops pellets",
+        "Edme ale yeast"
+    ],
+    "name": "Porter",
+    "name_raw": "Porter",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "11"
+}

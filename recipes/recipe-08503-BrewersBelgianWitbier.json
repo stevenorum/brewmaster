@@ -1,0 +1,23 @@
+{
+    "bjcp": "16A",
+    "id": "8503",
+    "ingredients": [
+        "5 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4 lbs 10.1 oz - White Wheat Malt (2.4 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.8 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "8.8 oz - Oats, Flaked (1.0 SRM) (Grain)",
+        "1.2 oz - Hallertauer [4.1%] - Boil 60 min (Hops)",
+        "2.20 oz - Orange Peel, Sweet (Boil 10 min) (Misc)",
+        "1.10 oz - Orange Peel, Bitter (Boil 10 min) (Misc)",
+        "0.42 oz - Coriander Seed (Boil 10 min) (Misc)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)"
+    ],
+    "name": "Brewers Belgian Witbier",
+    "name_raw": "Brewers Belgian Witbier",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": 0
+}

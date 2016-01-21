@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "9517",
+    "ingredients": [
+        "10 lbs - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "1 lbs - Caramel Wheat Malt (54.0 SRM) (Grain)",
+        "1 lbs - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1.0 oz - Chinook [12.1%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.5 oz - Goldings, East Kent [7.2%] - Boil 15 min (Hops)",
+        "0.5 oz - Goldings, East Kent [7.2%] - Boil 5 min (Hops)",
+        "8.0 oz - Corn Sugar (Dextrose) [Boil for 5 min] (0.0 SRM) (Grain)",
+        "1 pkgs - Scottish Ale (Wyeast Labs #1728) (Yeast)",
+        "300.00 ml - Maker&#39;s Mark (Secondary 28 days) (Misc)",
+        "2.00 oz - Oak Chips (Secondary 28 days) (Misc)"
+    ],
+    "name": "Bourbon Barrel Porter",
+    "name_raw": "Bourbon Barrel Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": 0
+}

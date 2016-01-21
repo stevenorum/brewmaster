@@ -1,0 +1,26 @@
+{
+    "bjcp": "13F",
+    "id": "10071",
+    "ingredients": [
+        "5.00 gal - Deionized Water (Water)",
+        "5.00 g - Chalk (Mash 60 min) (Misc)",
+        "2.00 g - Calcium Sulfate (Gypsum) (Mash 60 min) (Misc)",
+        "1.50 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "10 lbs - Pale Ale Malt, US (Briess) (3.5 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (US) (350.0 SRM) (Grain)",
+        "8.0 oz - Pale Chocolate (UK) (225.0 SRM) (Grain)",
+        "6.0 oz - Special B (114.0 SRM) (Grain)",
+        "0.7 oz - Galena [12.5%] - Boil 60 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 20 min (Hops)",
+        "0.25 - Whirlfloc Tablet (Boil 10 min) (Misc)",
+        "1 pkgs - English Ale (White Labs #WLP002) (Yeast)"
+    ],
+    "name": "Chocolate Stout",
+    "name_raw": "Chocolate Stout",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Russian Imperial Stout",
+    "style_raw": "Russian Imperial Stout",
+    "votes": 0
+}

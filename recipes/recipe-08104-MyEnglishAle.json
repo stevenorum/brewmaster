@@ -1,0 +1,20 @@
+{
+    "bjcp": "11C",
+    "id": "8104",
+    "ingredients": [
+        "9 lbs - Pale Malt (2 Row) UK (3.0 SRM) (Grain)",
+        "13.0 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "5.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.5 oz - Goldings, East Kent [5.0%] - Boil 2 min (Hops)",
+        "1 pkgs - British Ale Yeast (Wyeast Labs #1098) (Yeast)"
+    ],
+    "name": "My English Ale",
+    "name_raw": "My English Ale",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Northern English Brown Ale",
+    "style_raw": "Northern English Brown Ale",
+    "votes": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "bjcp": "18C",
+    "id": "3349",
+    "ingredients": [
+        "17 lbs 10.2 oz - Pilsner (2 Row) Bel (2.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Aromatic Malt (26.0 SRM) (Grain)",
+        "1.8 oz - Styrian Goldings [5.4%] - First Wort (Hops)",
+        "2 lbs 3.3 oz - Sugar, Table (Sucrose) (1.0 SRM) (Grain)",
+        "0.9 oz - Styrian Goldings [5.4%] - Boil 10 min (Hops)",
+        "0.9 oz - Styrian Goldings [5.4%] - Boil 0 min (Hops)",
+        "1 pkgs - Belgian Abbey II (Wyeast Labs #1762) (Yeast)"
+    ],
+    "name": "The Tripel with Harry (Belgian Abbey II)",
+    "name_raw": "The Tripel with Harry (Belgian Abbey II)",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Tripel",
+    "style_raw": "Belgian Tripel",
+    "votes": "2"
+}

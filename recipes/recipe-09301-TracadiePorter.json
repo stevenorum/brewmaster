@@ -1,0 +1,21 @@
+{
+    "bjcp": "12B",
+    "id": "9301",
+    "ingredients": [
+        "5 lbs 15.2 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs 6.0 oz - Brown Malt (65.0 SRM) (Grain)",
+        "9.5 oz - Black Barley (Stout) (500.0 SRM) (Grain)",
+        "0.7 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.7 oz - Fuggles [4.5%] - Boil 30 min (Hops)",
+        "0.4 oz - Fuggles [4.5%] - Boil 15 min (Hops)",
+        "0.4 oz - Goldings, B.C. [5.0%] - Boil 5 min (Hops)",
+        "1 pkgs - British Ale Yeast (Wyeast Labs #1098) (Yeast)"
+    ],
+    "name": "Tracadie Porter",
+    "name_raw": "Tracadie Porter",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "1"
+}

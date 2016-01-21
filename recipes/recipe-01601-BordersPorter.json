@@ -1,0 +1,23 @@
+{
+    "bjcp": "12C",
+    "id": "1601",
+    "ingredients": [
+        "17 lbs - Pale Malt (Weyermann) (3.3 SRM) (Grain)",
+        "10.0 oz - Briess Carmel Malt 20L (21.0 SRM) (Grain)",
+        "10.0 oz - Briess Carmel Malt 80L (81.0 SRM) (Grain)",
+        "5.0 oz - Munich Malt (9.0 SRM) (Grain)",
+        "5.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "5.0 oz - Chocolate Malt (450.0 SRM) (Grain)",
+        "8.0 oz - Molasses (80.0 SRM) (Grain)",
+        "2.8 oz - Saazer [4.6%] - Boil 90 min (Hops)",
+        "0.8 oz - Saazer [4.6%] - Boil 5 min (Hops)",
+        "1 pkgs - Windsor Yeast (Lallemand #-) (Yeast)"
+    ],
+    "name": "Borders Porter",
+    "name_raw": "Borders Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": 0
+}

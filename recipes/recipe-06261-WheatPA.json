@@ -1,0 +1,26 @@
+{
+    "bjcp": "14B",
+    "id": "6261",
+    "ingredients": [
+        "8.0 oz - Rice Hulls (0.0 SRM) (Grain)",
+        "6 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "3 lbs - White Wheat Malt (2.4 SRM) (Grain)",
+        "2 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Wheat, Flaked (1.6 SRM) (Grain)",
+        "0.5 oz - Citra [14.1%] - Boil 60 min (Hops)",
+        "1.0 oz - Cascade [6.8%] - Boil 20 min (Hops)",
+        "1.0 oz - Centennial [6.9%] - Boil 20 min (Hops)",
+        "0.5 oz - Citra [14.1%] - Boil 10 min (Hops)",
+        "1.00 oz - Orange Peel, Bitter (Boil 10 min) (Misc)",
+        "1.00 tbsp - Coriander Seed (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Witbier (Wyeast Labs #3944) (Yeast)",
+        "1.0 oz - Citra [11.0%] - Dry Hop 3 days (Hops)"
+    ],
+    "name": "WheatPA",
+    "name_raw": "WheatPA",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "1"
+}

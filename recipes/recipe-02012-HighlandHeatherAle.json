@@ -1,0 +1,27 @@
+{
+    "bjcp": "9E",
+    "id": "2012",
+    "ingredients": [
+        "9 lbs - Golden Promise (Simpsons) (2.0 SRM) (Grain)",
+        "3 lbs - Crystal, Medium (Simpsons) (55.0 SRM) (Grain)",
+        "1 lbs - Peated Malt (Simpsons) (2.5 SRM) (Grain)",
+        "8.0 oz - Acidulated (Weyermann) (1.8 SRM) (Grain)",
+        "2.00 oz - Heather (Mash 0 min) (Misc)",
+        "2.00 oz - Heather (Boil 60 min) (Misc)",
+        "2.00 oz - Meadowsweet (Boil 30 min) (Misc)",
+        "2.00 oz - Heather (Boil 5 min) (Misc)",
+        "1.00 oz - Gale, Sweet (Boil 5 min) (Misc)",
+        "2.00 oz - Meadowsweet (Boil 0 min) (Misc)",
+        "1 pkgs - London Ale III (Wyeast Labs #1318) (Yeast)",
+        "1 pkgs - Scottish Ale (Wyeast Labs #1728) (Yeast)",
+        "3 lbs 8.0 oz - Honey (1.0 SRM) (Grain)",
+        "2.00 cup - Heather (Secondary 15 min) (Misc)"
+    ],
+    "name": "Highland Heather Ale",
+    "name_raw": "Highland Heather Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Strong Scotch Ale",
+    "style_raw": "Strong Scotch Ale",
+    "votes": 0
+}

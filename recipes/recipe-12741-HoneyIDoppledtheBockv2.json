@@ -1,0 +1,21 @@
+{
+    "bjcp": "5C",
+    "id": "12741",
+    "ingredients": [
+        "4 lbs - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "6 lbs - Vienna Malt (3.5 SRM) (Grain)",
+        "4.0 oz - Carafa II (412.0 SRM) (Grain)",
+        "10 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1.0 oz - Northern Brewer [10.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Hallertauer [4.8%] - Boil 15 min (Hops)",
+        "1 pkgs - Bohemian Lager (Wyeast Labs #2124) (Yeast)",
+        "2 lbs - Honey (1.0 SRM) (Grain)"
+    ],
+    "name": "Honey I Doppled the Bock v2",
+    "name_raw": "Honey I Doppled the Bock v2",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Doppelbock",
+    "style_raw": "Doppelbock",
+    "votes": "3"
+}

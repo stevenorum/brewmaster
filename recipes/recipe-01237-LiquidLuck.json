@@ -1,0 +1,26 @@
+{
+    "bjcp": "18C",
+    "id": "1237",
+    "ingredients": [
+        "11# Belgian Pale Ale malt",
+        "0.5# Belgian Biscuit malt",
+        "0.5# Belgian Special B malt",
+        "0.5# Dark Candi syrup (D)",
+        "0.5# Amber Candi syrup (AM)",
+        "1.5 oz whole Tettnanger hops (5.3%AA) bittering",
+        "0.5 oz whole Glacier hops (5.7%AA) flavoring",
+        "1.0 oz whole Glacier hops (5.7%AA) aroma",
+        "1 tsp Irish Moss",
+        "0.125 tsp potassium bisulfite",
+        "2.4g gypsum",
+        "2.0g calcium chloride",
+        "White Labs WLP 575 Belgian Ale Blend (1 qt starter)"
+    ],
+    "name": "Liquid Luck",
+    "name_raw": "Liquid Luck",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Tripel",
+    "style_raw": "Belgian Tripel",
+    "votes": "2"
+}

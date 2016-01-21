@@ -1,0 +1,23 @@
+{
+    "bjcp": "12C",
+    "id": "10974",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "8.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "1 lbs - Pilsner Liquid Extract (3.5 SRM) (Grain)",
+        "2 lbs - Candi Sugar, Dark (275.0 SRM) (Grain)",
+        "0.5 oz - Hallertauer Tradition [7.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "0.30 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "3 pkgs - Saflager Lager (DCL/Fermentis #W-34/70) (Yeast)",
+        "0.60 tsp - Amylase Enzyme (Primary 3 days) (Misc)",
+        "4.00 oz - Oak Chips (Secondary 7 days) (Misc)"
+    ],
+    "name": "Toms Baltic Porter",
+    "name_raw": "Toms Baltic Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Baltic Porter",
+    "style_raw": "Baltic Porter",
+    "votes": 0
+}

@@ -1,0 +1,21 @@
+{
+    "bjcp": "16E",
+    "id": "5911",
+    "ingredients": [
+        "28 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4 lbs - Munich Malt - 20L (20.0 SRM) (Grain)",
+        "2 lbs - Special B Malt (180.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "3.0 oz - Centennial [10.0%] - Boil 60 min (Hops)",
+        "1 pkgs - American Farmhouse Blend (White Labs #WLP670) (Yeast)",
+        "1 pkgs - Belgian Ardennes (Wyeast Labs #3522) (Yeast)",
+        "1 pkgs - Forbidden Fruit (Wyeast Labs #3463) (Yeast)"
+    ],
+    "name": "Three-Way",
+    "name_raw": "Three-Way",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Belgian Specialty Ale",
+    "style_raw": "Belgian Specialty Ale",
+    "votes": 0
+}

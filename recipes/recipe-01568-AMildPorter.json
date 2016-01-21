@@ -1,0 +1,23 @@
+{
+    "bjcp": "12A",
+    "id": "1568",
+    "ingredients": [
+        "10.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 30L (30.0 SRM) (Grain)",
+        "4.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "4.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "3 lbs - Amber Liquid Extract (12.5 SRM) (Grain)",
+        "3 lbs - Dark Liquid Extract (17.5 SRM) (Grain)",
+        "1.5 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "1.0 oz - Cascade [5.5%] - Boil 15 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1 pkgs - British Ale (Wyeast Labs #1098) (Yeast)"
+    ],
+    "name": "A Mild Porter",
+    "name_raw": "A Mild Porter",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Brown Porter",
+    "style_raw": "Brown Porter",
+    "votes": 0
+}

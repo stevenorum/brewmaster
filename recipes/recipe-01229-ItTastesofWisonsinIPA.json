@@ -1,0 +1,27 @@
+{
+    "bjcp": "14B",
+    "id": "1229",
+    "ingredients": [
+        "9.00 lb Munich Malt - 10L (10.0 SRM) Grain 56.25 %",
+        "3.00 lb Pale Malt (2 Row) US (2.0 SRM) Grain 18.75 %",
+        "1.00 lb Cara-Pils/Dextrine (2.0 SRM) Grain 6.25 %",
+        "1.00 lb Caramel/Crystal Malt - 40L (40.0 SRM) Grain 6.25 %",
+        "1.00 lb Caramel/Crystal Malt - 80L (80.0 SRM) Grain 6.25 %",
+        "1.00 lb Pale Malt (2 Row) US (2.0 SRM) Grain 6.25 %",
+        "1.50 oz Columbus (Tomahawk) [14.00 %] (60 min) Hops 42.4 IBU",
+        "0.50 oz Columbus (Tomahawk) [14.00 %] (Dry Hop 3 days) Hops -",
+        "0.25 oz Cascade [5.50 %] (15 min) Hops 1.4 IBU",
+        "0.50 oz Columbus (Tomahawk) [14.00 %] (15 min) Hops 7.0 IBU",
+        "0.50 oz Columbus (Tomahawk) [14.00 %] (0 min) Hops -",
+        "1.00 tsp Irish Moss (Boil 15.0 min) Misc",
+        "3.00 oz Oak Chips (Secondary 7.0 days) Misc",
+        "1 Pkgs American Ale (Wyeast Labs #1056) Yeast-Ale"
+    ],
+    "name": "It Tastes of Wisonsin IPA",
+    "name_raw": "It Tastes of Wisonsin IPA",
+    "rating": "4.2",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "5"
+}

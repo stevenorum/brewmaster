@@ -1,0 +1,22 @@
+{
+    "bjcp": "12B",
+    "id": "467",
+    "ingredients": [
+        "3.3lbs M&F Dark Extract",
+        "4.0lbs Alexander's Pale Extract",
+        "0.5lb M&F Dark DME",
+        "1.0lb Crystal Malt (90L)",
+        "0.5lb Black Patent",
+        "0.5lb Dark Roast",
+        "1 oz. Willamette (Alpha=4.2) 60 min Boil",
+        "1 oz. Willamette (Alpha=4.2) 2 min Boil/Steep",
+        "Wyeast 1028"
+    ],
+    "name": "Extract Porter",
+    "name_raw": "Extract Porter",
+    "rating": "3.3",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "10"
+}

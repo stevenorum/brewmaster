@@ -1,0 +1,26 @@
+{
+    "bjcp": "12A",
+    "id": "9376",
+    "ingredients": [
+        "8 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Biscuit Malt (23.0 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "7.0 oz - Black (Patent) Malt (500.0 SRM) (Grain)",
+        "7.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "7.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "3.0 oz - Home Roasted (180.0 SRM) (Grain)",
+        "1.5 oz - Kent Goldings UK [8.1%] - Boil 60 min (Hops)",
+        "1.5 oz - Fuggles [5.3%] - Boil 15 min (Hops)",
+        "0.25 tsp - Irish Moss (Boil 5 min) (Misc)",
+        "0.5 oz - Fuggles [5.3%] - Boil 5 min (Hops)",
+        "0.5 oz - Kent Goldings [8.1%] - Boil 5 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "Artists Porter Ale",
+    "name_raw": "Artists Porter Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Brown Porter",
+    "style_raw": "Brown Porter",
+    "votes": 0
+}

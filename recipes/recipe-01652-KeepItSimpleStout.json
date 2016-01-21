@@ -1,0 +1,22 @@
+{
+    "bjcp": "13A",
+    "id": "1652",
+    "ingredients": [
+        "7 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Barley, Flaked (2.0 SRM) (Grain)",
+        "1 lbs - Black Barley (Stout) (675.0 SRM) (Grain)",
+        "4.0 oz - Special Roast (50.0 SRM) (Grain)",
+        "1.0 oz - Goldings, East Kent [5.1%] - Boil 60 min (Hops)",
+        "1.0 oz - Goldings, East Kent [5.1%] - Boil 30 min (Hops)",
+        "1.0 oz - Fuggles [4.4%] - Boil 20 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "1 pkgs - Irish Ale (White Labs #WLP004) (Yeast)"
+    ],
+    "name": "Keep It Simple Stout",
+    "name_raw": "Keep It Simple Stout",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": 0
+}

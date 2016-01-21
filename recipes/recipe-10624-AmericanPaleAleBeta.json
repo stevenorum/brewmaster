@@ -1,0 +1,25 @@
+{
+    "bjcp": "10A",
+    "id": "10624",
+    "ingredients": [
+        "12 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "8.0 oz - Victory Malt (25.0 SRM) (Grain)",
+        "0.3 oz - Columbus/Tomahawk/Zeus (CTZ) [15.2%] - Boil 60 min (Hops)",
+        "0.5 oz - Ahtanum [4.0%] - Boil 30 min (Hops)",
+        "0.5 oz - Centennial [10.3%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Ahtanum [4.0%] - Boil 5 min (Hops)",
+        "0.5 oz - Centennial [10.3%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "1.0 oz - Ahtanum [4.0%] - Dry Hop 5 days (Hops)",
+        "1.0 oz - Centennial [10.3%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "American Pale Ale Beta",
+    "name_raw": "American Pale Ale Beta",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}

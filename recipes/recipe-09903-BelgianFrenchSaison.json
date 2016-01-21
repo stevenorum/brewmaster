@@ -1,0 +1,24 @@
+{
+    "bjcp": "16C",
+    "id": "9903",
+    "ingredients": [
+        "9 lbs - Pilsner (2 Row) Ger (2.0 SRM) (Grain)",
+        "1 lbs - Caramel/Crystal Malt - 20L (20.0 SRM) (Grain)",
+        "1 lbs - Munich 10L (Briess) (10.0 SRM) (Grain)",
+        "4.0 oz - Carapils (Briess) (1.5 SRM) (Grain)",
+        "0.9 oz - Hallertauer [4.8%] - First Wort (Hops)",
+        "1.00 tsp - Ginger Root (Boil 15 min) (Misc)",
+        "1.0 oz - Strisslespalt [4.0%] - Boil 15 min (Hops)",
+        "2.00 tsp - Cardamom (Boil 15 min) (Misc)",
+        "2.00 tsp - Coriander Seed (Boil 15 min) (Misc)",
+        "1.00 oz - Orange Peel, Bitter (Boil 15 min) (Misc)",
+        "1 pkgs - Belgian Style Saison Ale Yeast Blend (White Labs #WLP568) (Yeast)"
+    ],
+    "name": "Belgian French Saison",
+    "name_raw": "Belgian French Saison",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "Saison",
+    "style_raw": "Saison",
+    "votes": 0
+}

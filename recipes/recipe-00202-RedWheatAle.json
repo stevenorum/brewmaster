@@ -1,0 +1,21 @@
+{
+    "bjcp": "15A",
+    "id": "202",
+    "ingredients": [
+        "3 pounds, pale malt",
+        "3 pounds, wheat malt",
+        "4 ounces, medium crystal (~40L)",
+        "1 ounce, chocolate malt",
+        "1/3 ounce, Chinook Pellets for 45 minutes (4 HBU)",
+        "1/2 ounce, Cascade Pellets for 20 (2.5 HBU)",
+        "1/2 ounce, Tettnanger Pellets for 10 minutes",
+        "Whitbread ale yeast"
+    ],
+    "name": "Red Wheat Ale",
+    "name_raw": "Red Wheat Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Weizen/Weissbier",
+    "style_raw": "Weizen/Weissbier",
+    "votes": "1"
+}

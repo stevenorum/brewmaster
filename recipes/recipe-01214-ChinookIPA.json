@@ -1,0 +1,20 @@
+{
+    "bjcp": "14B",
+    "id": "1214",
+    "ingredients": [
+        "Pale Ale Malt (~1.8L) 5 Pounds",
+        "Pale Ale Malt (~3.5L) 5 Pounds",
+        "Crystal 20 1 Pound",
+        "Chinook Leaf Hops (60 Min.) 1.25 Oz.",
+        "Chinook Leaf Hops (30 Min.) 1 Oz.",
+        "Chinook Leaf Hops (Flameout) 1 Oz.",
+        "Wyeast 1272 liquid yeast 1 Packet"
+    ],
+    "name": "Chinook IPA",
+    "name_raw": "Chinook IPA",
+    "rating": "2.8",
+    "source": "beerrecipes.com",
+    "style": "American IPA",
+    "style_raw": "American IPA",
+    "votes": "4"
+}

@@ -1,0 +1,23 @@
+{
+    "bjcp": "14A",
+    "id": "13567",
+    "ingredients": [
+        "8.8 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "4 lbs 6.5 oz - Amber Liquid Extract (17.3 SRM) (Grain)",
+        "4 lbs 6.5 oz - Light Liquid Extract (2.7 SRM) (Grain)",
+        "1 lbs 1.6 oz - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "1.8 oz - Northern Brewer [8.5%] - Boil 60 min (Hops)",
+        "1.8 oz - Cascade [5.5%] - Boil 30 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "3.00 tbsp - Cardamom (Boil 5 min) (Misc)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)",
+        "1.8 oz - Hallertau [2.2%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Chris' Old Ale",
+    "name_raw": "Chris' Old Ale",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "English IPA",
+    "style_raw": "English IPA",
+    "votes": 0
+}

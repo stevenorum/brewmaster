@@ -1,0 +1,23 @@
+{
+    "bjcp": "13A",
+    "id": "477",
+    "ingredients": [
+        "3.3 # amber NW extract",
+        "6.6 # dark extract",
+        "1 # crystal",
+        "1 # roasted barley",
+        "0.4 # chocolate malt",
+        "0.5 # black patent",
+        "2 oz brewers gold 15.2 (60 minute boil)",
+        "1 oz cluster 7.3 (60 minute boil)",
+        "0.5 willamette (10 minute boil)",
+        "1 oz cascades (10 minute boil)"
+    ],
+    "name": "Stout",
+    "name_raw": "Stout",
+    "rating": "3.3",
+    "source": "beerrecipes.com",
+    "style": "Dry Stout",
+    "style_raw": "Dry Stout",
+    "votes": "12"
+}

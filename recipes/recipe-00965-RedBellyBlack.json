@@ -1,0 +1,25 @@
+{
+    "bjcp": "12B",
+    "id": "965",
+    "ingredients": [
+        "Pale Ale Malt 3.5kg",
+        "Munich Malt 400g",
+        "Wheat Malt 200g",
+        "Roasted Wheat 200g",
+        "Chocolate Malt 300g",
+        "Dark Crystal Malt 200g",
+        "Rolled Oats 100g",
+        "Black Strap Mollasses 250 ml",
+        "Liquorice Root 250ml",
+        "Cascade Hops 40g",
+        "Pride of Ringwood Hops 25g",
+        "London Ale Yeast"
+    ],
+    "name": "Red Belly Black",
+    "name_raw": "Red Belly Black",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "2"
+}

@@ -1,0 +1,27 @@
+{
+    "bjcp": "10A",
+    "id": "6484",
+    "ingredients": [
+        "16 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4 lbs - Rye Malt (4.7 SRM) (Grain)",
+        "2 lbs - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel/Crystal Malt - 80L (80.0 SRM) (Grain)",
+        "1 lbs - Aromatic Malt (26.0 SRM) (Grain)",
+        "2.0 oz - Perle [8.0%] - Boil 60 min (Hops)",
+        "2.0 oz - Amarillo Gold [8.5%] - Boil 30 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.0 oz - Amarillo Gold [8.5%] - Boil 15 min (Hops)",
+        "2.0 oz - Amarillo Gold [8.5%] - Boil 5 min (Hops)",
+        "2.0 oz - Amarillo Gold [8.5%] - Steep 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)",
+        "6.0 oz - Amarillo Gold [8.5%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Ryesing Sun",
+    "name_raw": "Ryesing Sun",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

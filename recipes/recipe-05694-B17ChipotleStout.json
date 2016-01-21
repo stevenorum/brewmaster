@@ -1,0 +1,27 @@
+{
+    "bjcp": "13E",
+    "id": "5694",
+    "ingredients": [
+        "12 lbs - Pale Ale Malt 2-Row (Briess) (3.5 SRM) (Grain)",
+        "1 lbs 8.0 oz - Caramel Malt - 40L (Briess) (40.0 SRM) (Grain)",
+        "1 lbs 8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "1 lbs - Oats, Flaked (1.0 SRM) (Grain)",
+        "1 lbs - Roasted Barley (Briess) (300.0 SRM) (Grain)",
+        "1.0 oz - Magnum [14.7%] - Boil 60 min (Hops)",
+        "2.00 tsp - Irish Moss (Boil 15 min) (Misc)",
+        "0.5 oz - Cascade [6.2%] - Boil 15 min (Hops)",
+        "4.50 oz - Cocoa Powder (Boil 5 min) (Misc)",
+        "2.00 - Vanilla Bean (Boil 5 min) (Misc)",
+        "0.5 oz - Cascade [6.2%] - Boil 5 min (Hops)",
+        "2.00 - Cinnamon Stick (Boil 5 min) (Misc)",
+        "2.00 - Morita Chipotle Powder (Boil 5 min) (Misc)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)"
+    ],
+    "name": "B17: Chipotle Stout",
+    "name_raw": "B17: Chipotle Stout",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Stout",
+    "style_raw": "American Stout",
+    "votes": "1"
+}

@@ -1,0 +1,22 @@
+{
+    "bjcp": "6D",
+    "id": "6920",
+    "ingredients": [
+        "5 lbs - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "4 lbs 8.0 oz - Wheat Malt, Ger (2.0 SRM) (Grain)",
+        "8.0 oz - Munich Malt - 10L (10.0 SRM) (Grain)",
+        "4.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "0.5 oz - Warrior [15.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 5 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 1 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 1 min (Hops)",
+        "2 pkgs - German Ale (Wyeast Labs #1007) (Yeast)"
+    ],
+    "name": "American Hefe",
+    "name_raw": "American Hefe",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Wheat or Rye Beer",
+    "style_raw": "American Wheat or Rye Beer",
+    "votes": 0
+}

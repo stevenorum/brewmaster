@@ -1,0 +1,26 @@
+{
+    "bjcp": "12B",
+    "id": "350",
+    "ingredients": [
+        "8 pounds, 2-row Klage malt",
+        "1 pound, crystal malt (90 Lovibond)",
+        "1 pound, dextrin malt",
+        "1/2 pound, chocolate malt",
+        "1/2 pound, black malt",
+        "1/2 teaspoon, gypsum",
+        "lactic acid to adjust mash water to pH 5.2",
+        "1-1/3 ounces, Northern Brewer hop pellets (8.5% pellets)",
+        "1/2 ounce, Fuggle hop pellets (3.7% alpha)",
+        "1 teaspoon, Irish Moss",
+        "1 teaspoon, gelatin finings",
+        "3/4 cup, corn sugar (priming)",
+        "Ale yeast (High Temp. Ale Yeast)"
+    ],
+    "name": "Brewhaus Porter",
+    "name_raw": "Brewhaus Porter",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Robust Porter",
+    "style_raw": "Robust Porter",
+    "votes": "4"
+}

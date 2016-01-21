@@ -1,0 +1,22 @@
+{
+    "bjcp": "10A",
+    "id": "13252",
+    "ingredients": [
+        "6 lbs 9.8 oz - Pilsner (2 Row) Ger (2.1 SRM) (Grain)",
+        "2 lbs 3.3 oz - Munich Malt (5.5 SRM) (Grain)",
+        "10.6 oz - Caramunich Malt (34.0 SRM) (Grain)",
+        "3 lbs 4.9 oz - Wheat Malt, Can (2.0 SRM) (Grain)",
+        "0.7 oz - Cascade [5.5%] - Boil 60 min (Hops)",
+        "0.9 oz - Cascade [5.5%] - Boil 20 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "0.9 oz - Cascade [5.5%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale (Wyeast Labs #1056) (Yeast)"
+    ],
+    "name": "Bob Cat",
+    "name_raw": "Bob Cat",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "1"
+}

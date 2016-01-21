@@ -1,0 +1,27 @@
+{
+    "bjcp": "18E",
+    "id": "7781",
+    "ingredients": [
+        "7.93 gal - Distilled Water (Water)",
+        "5.02 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "9 lbs 14.7 oz - Lager Malt (1.5 SRM) (Grain)",
+        "10.6 oz - Aromatic Malt (76.1 SRM) (Grain)",
+        "10.6 oz - Special B Malt (180.0 SRM) (Grain)",
+        "7.1 oz - Chocolate 500 (253.8 SRM) (Grain)",
+        "7.1 oz - Wheat Malt, Bel (2.0 SRM) (Grain)",
+        "1 lbs 5.2 oz - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "1.1 oz - Goldings, East Kent [5.0%] - Boil 90 min (Hops)",
+        "0.7 oz - Goldings, East Kent [5.0%] - Boil 30 min (Hops)",
+        "1.00 tsp - Irish Moss (Boil 10 min) (Misc)",
+        "1.00 - Servomyces (Boil 10 min) (Misc)",
+        "1 pkgs - Trappist Ale (White Labs #WLP500) (Yeast)",
+        "6.00 l - Oxygen (Primary 1 min) (Misc)"
+    ],
+    "name": "Delirium Bristolian",
+    "name_raw": "Delirium Bristolian",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Belgian Dark Strong Ale",
+    "style_raw": "Belgian Dark Strong Ale",
+    "votes": "1"
+}

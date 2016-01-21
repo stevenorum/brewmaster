@@ -1,0 +1,28 @@
+{
+    "bjcp": "10C",
+    "id": "8359",
+    "ingredients": [
+        "4.00 g - Calcium Chloride (Mash 60 min) (Misc)",
+        "2.00 g - Baking Soda (Mash 60 min) (Misc)",
+        "2.00 g - Epsom Salt (MgSO4) (Mash 60 min) (Misc)",
+        "2.00 g - Gypsum (Calcium Sulfate) (Mash 60 min) (Misc)",
+        "7 lbs 4.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "1 lbs - Caramel Malt - 80L 6-Row (Briess) (80.0 SRM) (Grain)",
+        "8.0 oz - Chocolate Malt (350.0 SRM) (Grain)",
+        "8.0 oz - Special Roast (50.0 SRM) (Grain)",
+        "4.0 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "0.5 oz - Chinook [13.0%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "0.5 oz - Mosaic [12.0%] - Boil 5 min (Hops)",
+        "0.5 oz - Willamette [5.5%] - Boil 5 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "0.8 oz - Willamette [5.5%] - Dry Hop 4 days (Hops)"
+    ],
+    "name": "Hunter Brown Ale",
+    "name_raw": "Hunter Brown Ale",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "1"
+}

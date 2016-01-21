@@ -1,0 +1,29 @@
+{
+    "bjcp": "14C",
+    "id": "2450",
+    "ingredients": [
+        "13 lbs 3.6 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "9.7 oz - Cara-Pils/Dextrine (2.0 SRM) (Grain)",
+        "9.7 oz - Caramel/Crystal Malt - 60L (60.0 SRM) (Grain)",
+        "12.2 oz - Corn Sugar (Dextrose) (0.0 SRM) (Grain)",
+        "3.8 oz - Columbus (Tomahawk) [15.4%] - Boil 90 min (Hops)",
+        "0.8 oz - Columbus (Tomahawk) [15.4%] - Boil 45 min (Hops)",
+        "1.1 oz - Simcoe [12.9%] - Boil 30 min (Hops)",
+        "2.4 oz - Simcoe [12.9%] - Steep 0 min (Hops)",
+        "0.8 oz - Centennial [10.5%] - Steep 0 min (Hops)",
+        "1 pkgs - California Ale (White Labs #WLP001) (Yeast)",
+        "0.9 oz - Simcoe [12.9%] - Dry Hop 14 days (Hops)",
+        "0.9 oz - Columbus (Tomahawk) [15.4%] - Dry Hop 14 days (Hops)",
+        "0.8 oz - Centennial [10.5%] - Dry Hop 14 days (Hops)",
+        "0.2 oz - Centennial [10.5%] - Dry Hop 5 days (Hops)",
+        "0.2 oz - Columbus (Tomahawk) [15.4%] - Dry Hop 5 days (Hops)",
+        "0.2 oz - Simcoe [12.9%] - Dry Hop 5 days (Hops)"
+    ],
+    "name": "Pliny The Elder Clone",
+    "name_raw": "Pliny The Elder Clone",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Imperial IPA",
+    "style_raw": "Imperial IPA",
+    "votes": "1"
+}

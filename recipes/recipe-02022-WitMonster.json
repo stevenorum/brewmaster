@@ -1,0 +1,21 @@
+{
+    "bjcp": "16A",
+    "id": "2022",
+    "ingredients": [
+        "4 lbs 15.4 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "4 lbs 15.2 oz - Wheat, Flaked (1.6 SRM) (Grain)",
+        "1.2 oz - Goldings, East Kent 4,5% [4.5%] - Boil 60 min (Hops)",
+        "6.00 g - Klar urt (Boil 15 min) (Misc)",
+        "2.32 g - Wyeast Beer Nutrient Blend (Boil 10 min) (Misc)",
+        "22.40 g - Coriander Seed (Boil 5 min) (Misc)",
+        "22.40 g - Orange Peel, Bitter (Boil 5 min) (Misc)",
+        "1 pkgs - Belgian Wit Ale (White Labs #WLP400) (Yeast)"
+    ],
+    "name": "Wit Monster",
+    "name_raw": "Wit Monster",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Witbier",
+    "style_raw": "Witbier",
+    "votes": "1"
+}

@@ -1,0 +1,20 @@
+{
+    "bjcp": "10A",
+    "id": "110",
+    "ingredients": [
+        "5 pounds, unhopped light dry malt extract",
+        "1/2 pound, dark crystal malt",
+        "1 ounce, Cascade hops (60 minute boil)",
+        "1/2 ounce, Cascade (30 minute boil)",
+        "1/2 ounce, Cascade (10 minute boil)",
+        "1/2--1 ounce, Cascade (dry hop)",
+        "Wyeast American ale yeast"
+    ],
+    "name": "American Pale Ale (Extract)",
+    "name_raw": "American Pale Ale (Extract)",
+    "rating": "4.4",
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": "20"
+}

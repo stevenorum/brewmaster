@@ -1,0 +1,23 @@
+{
+    "bjcp": "11A",
+    "id": "7797",
+    "ingredients": [
+        "3.96 gal - London, England (mash water) (Water)",
+        "3.80 gal - London, England (sparge) (Water)",
+        "4 lbs 13.6 oz - Pale Malt, Maris Otter (3.0 SRM) (Grain)",
+        "2 lbs 3.3 oz - Brown Malt (65.0 SRM) (Grain)",
+        "1 lbs 1.6 oz - Caramel/Crystal Malt -120L (120.0 SRM) (Grain)",
+        "1.1 oz - Goldings, East Kent [5.0%] - Boil 60 min (Hops)",
+        "1.00 - Whirlfloc Tablet (Boil 15 min) (Misc)",
+        "2.1 oz - Goldings, East Kent [5.0%] - Steep 5 min (Hops)",
+        "1 pkgs - SafAle English Ale (DCL/Fermentis #S-04) (Yeast)",
+        "1.00 tsp - Yeast Nutrient (Primary 3 days) (Misc)"
+    ],
+    "name": "Threepenny",
+    "name_raw": "Threepenny",
+    "rating": "5.0",
+    "source": "beerrecipes.com",
+    "style": "Mild",
+    "style_raw": "Mild",
+    "votes": "1"
+}

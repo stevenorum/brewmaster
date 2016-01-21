@@ -1,0 +1,23 @@
+{
+    "bjcp": "10A",
+    "id": "2880",
+    "ingredients": [
+        "9 lbs 8.0 oz - Pale Malt (2 Row) US (2.0 SRM) (Grain)",
+        "2 lbs 8.0 oz - Rye Malt (4.7 SRM) (Grain)",
+        "8.0 oz - Caramel/Crystal Malt - 40L (40.0 SRM) (Grain)",
+        "1.0 oz - Centennial [10.0%] - Boil 60 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 10 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 10 min (Hops)",
+        "0.5 oz - Amarillo Gold [8.5%] - Boil 0 min (Hops)",
+        "0.5 oz - Cascade [5.5%] - Boil 0 min (Hops)",
+        "1 pkgs - American Ale II (Wyeast Labs #1272) (Yeast)",
+        "1.0 oz - Cascade [5.5%] - Dry Hop 7 days (Hops)"
+    ],
+    "name": "Pale Ryder",
+    "name_raw": "Pale Ryder",
+    "rating": 2,
+    "source": "beerrecipes.com",
+    "style": "American Pale Ale",
+    "style_raw": "American Pale Ale",
+    "votes": 0
+}
