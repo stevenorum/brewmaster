@@ -21,7 +21,7 @@ name_RE='<h1 itemprop="name">(?P<name>.*)</h1>'
 
 def load_recipe(id):
     recipe = urllib2.urlopen('http://beerrecipes.org/showrecipe.php?recipeid={}'.format(id)).read()
-    if '<title>Find a Beer Recipe' in recipe:
+    if '<title>Find a Beer Recipe' in recipe or '<h1>Bad Recipe Removed</h1>' in recipe:
         raise RuntimeError('Recipe not found')
     return recipe.split('\n')
 
@@ -66,7 +66,7 @@ def main():
             recipe = parse_recipe(load_recipe(i))
             save_recipe(recipe)
             print('{} (#{}) saved'.format(recipe['name'],recipe['id']))
-        except RuntimeError as e:
+        except (RuntimeError, KeyError):
             print('No recipe found with ID {}'.format(i))
 
 if __name__ == "__main__":
