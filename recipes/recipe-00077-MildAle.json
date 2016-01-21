@@ -1,0 +1,24 @@
+{
+    "bjcp": "10C",
+    "id": "77",
+    "ingredients": [
+        "5 pounds, Klages 2-row malt",
+        "4 pounds, mild malt",
+        "2 pounds, crystal malt (80L)",
+        "1/2 pound, English pale malt",
+        "1/2 pound, flaked barley",
+        "1/5 pound, chocolate malt",
+        "1 ounce, Willamette leaf hops (5.9% alpha)",
+        "1/8 ounce, Cascade leaf hops (6.7% alpha)",
+        "1/8 ounce, Eroica leaf hops (13.4% alpha)",
+        "1/2 ounce, Willamette leaf hops (finish)",
+        "yeast"
+    ],
+    "name": "Mild Ale",
+    "name_raw": "Mild Ale",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "American Brown Ale",
+    "style_raw": "American Brown Ale",
+    "votes": "4"
+}

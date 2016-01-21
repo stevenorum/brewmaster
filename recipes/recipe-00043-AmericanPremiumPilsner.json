@@ -1,0 +1,24 @@
+{
+    "bjcp": "2C",
+    "id": "43",
+    "ingredients": [
+        "6 lbs Lager malt (I use 2-row, but 6-row is appropriate for the amount of adjuncts)",
+        "1 lb Mild ale malt",
+        "1 lb Rice",
+        "1/2 lb Flaked barley",
+        "1/2 lb Flaked maize",
+        "4 oz Malto-dextrin powder",
+        "3/4 oz Saaz (4.2%AA for 90min)",
+        "1/4 oz Saaz (4.2%AA for 30min)",
+        "1 oz Cascade (4.9%AA for 2min)",
+        "1 oz Cascade (4.9%AA for dry-hopping)",
+        "Nottingham Ale yeast (dry -- I know, I NEVER use dry yeast...) or Wyeast #2112 California Lager (optional)"
+    ],
+    "name": "American Premium Pilsner",
+    "name_raw": "American Premium Pilsner",
+    "rating": "3.7",
+    "source": "beerrecipes.com",
+    "style": "Classic American Pilsner",
+    "style_raw": "Classic American Pilsner",
+    "votes": "11"
+}

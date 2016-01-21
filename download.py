@@ -40,11 +40,13 @@ def parse_recipe(recipe):
                 beer['votes'] = 0
         if '<b>Beer Style:</b>' in line:
             m = re.search(type_RE, line)
-            beer['style'] = m.group('type').strip()
+            beer['style_raw'] = m.group('type').strip()
+            beer['style'] = unicode(beer['style_raw'], errors='replace').encode('ascii','replace')
             beer['bjcp'] = m.group('bjcp').strip()
             beer['id'] = m.group('id').strip()
         if '<h1 itemprop="name">' in line:
-            beer['name'] = re.search(name_RE,line).group('name').strip()
+            beer['name_raw'] = re.search(name_RE,line).group('name').strip()
+            beer['name'] = unicode(beer['name_raw'], errors='replace').encode('ascii', 'replace')
     return beer
 
 def save_recipe(recipe, path='recipes/'):

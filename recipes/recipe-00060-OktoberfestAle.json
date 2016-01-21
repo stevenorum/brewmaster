@@ -1,0 +1,21 @@
+{
+    "bjcp": "3B",
+    "id": "60",
+    "ingredients": [
+        "6lbs light DME",
+        "0.5lb CaraMunich crystal (or 60L crystal if you can't find CaraMunich)",
+        "0.5lb CaraVienne crystal (or 20L crystal if you can't find CaraVienne)",
+        "2 oz Roasted barley (optional)",
+        "4 HBUs of Noble hops (Hallertau, Tettnang) for 60 min.",
+        "4 HBUs of Noble hops for 30 min.",
+        "4 HBUs of Noble hops for 15 min.",
+        "Wyeast 1056"
+    ],
+    "name": "Oktoberfest Ale",
+    "name_raw": "Oktoberfest Ale",
+    "rating": "1.0",
+    "source": "beerrecipes.com",
+    "style": "Oktoberfest/M??rzen",
+    "style_raw": "Oktoberfest/M\u00e4rzen",
+    "votes": "2"
+}

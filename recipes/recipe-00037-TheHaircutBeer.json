@@ -1,0 +1,20 @@
+{
+    "bjcp": "1B",
+    "id": "37",
+    "ingredients": [
+        "3.3 lbs Australian lager malt extract (hopped)",
+        "3.3 lbs Australian plain light malt extract (unhopped)",
+        "1 oz. Fuggles hops (boiling)",
+        "0.5 oz Cascade hops (boiling)",
+        "0.5 oz Cascade hops (finishing)",
+        "1pkg. Superbrau yeast",
+        "3/4cup Corn Sugar for bottling"
+    ],
+    "name": "The Haircut Beer",
+    "name_raw": "The Haircut Beer",
+    "rating": "2.5",
+    "source": "beerrecipes.com",
+    "style": "Standard American Lager",
+    "style_raw": "Standard American Lager",
+    "votes": "2"
+}

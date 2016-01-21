@@ -1,0 +1,24 @@
+{
+    "bjcp": "2B",
+    "id": "35",
+    "ingredients": [
+        "10 # Pilsner Malt. (german)",
+        "1 # aromatic munich (belgian)",
+        "1 # 40L Crystal",
+        "0.5 # Biscuit (belgian)",
+        "1 oz N. Brewer (boil)",
+        "1 oz Saaz (boil)",
+        "3/4 oz Saaz (flavor)",
+        "3/4 oz saaz (finish)",
+        "1/2 ounce Saaz (dry hop, primary)",
+        "1/2 ounce Saaz (dry hop, secondary)",
+        "Wyeast Bohemian Lager yeast"
+    ],
+    "name": "Pilsner-Urquel!!!",
+    "name_raw": "Pilsner-Urquel!!!",
+    "rating": "2.6",
+    "source": "beerrecipes.com",
+    "style": "Bohemian Pilsener",
+    "style_raw": "Bohemian Pilsener",
+    "votes": "10"
+}

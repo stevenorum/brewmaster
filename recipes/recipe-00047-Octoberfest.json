@@ -1,0 +1,23 @@
+{
+    "bjcp": "3B",
+    "id": "47",
+    "ingredients": [
+        "9.5 # German Vienna malt",
+        "1 # German Munich malt",
+        ".75# Belgian Aromatic malt",
+        ".75# German Caramel malt (10L)",
+        ".75# German Wheat malt",
+        ".75# Cara-Pils",
+        ".5# Flaked Oats",
+        "1 oz. Hallertau Herrsbrucker (3.8% A)--45 mins.",
+        ".6 oz. Northern Brewer (8.8% A)--15 mins.",
+        "Wyeast Bavarian Lager (#2206)"
+    ],
+    "name": "Octoberfest",
+    "name_raw": "Octoberfest",
+    "rating": "2.1",
+    "source": "beerrecipes.com",
+    "style": "Oktoberfest/M??rzen",
+    "style_raw": "Oktoberfest/M\u00e4rzen",
+    "votes": "14"
+}

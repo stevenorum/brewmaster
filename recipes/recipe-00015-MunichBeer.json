@@ -1,0 +1,26 @@
+{
+    "bjcp": "1D",
+    "id": "15",
+    "ingredients": [
+        "10 pounds, pale alt malt",
+        "5 pounds, Munich malt",
+        "1/2 pound, dextrin malt",
+        "1-1/2 pounds, amber crystal malt",
+        "1 ounce, gypsum",
+        "1/3 ounce, Burton H2O salts",
+        "5-1/2 grams, Hallertauer",
+        "1-1/2 ounces, Cascade 60 min",
+        "1/4 ounce, Cascade 30 min",
+        "1/4 ounces, Cascade 15 min",
+        "1/4 ounce, Hallertau (dry hop)",
+        "Wyeast Munich beer yeast",
+        "Polyclar"
+    ],
+    "name": "Munich Beer",
+    "name_raw": "Munich Beer",
+    "rating": "3.5",
+    "source": "beerrecipes.com",
+    "style": "Munich Helles",
+    "style_raw": "Munich Helles",
+    "votes": "2"
+}

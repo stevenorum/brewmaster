@@ -1,0 +1,19 @@
+{
+    "bjcp": "1B",
+    "id": "42",
+    "ingredients": [
+        "5.00 lb. Flaked Maize",
+        "17.00 lb. Pale Ale",
+        "1.25 oz. Chinook 13.9% 60 min",
+        "2.25 oz. N. Brewer 7.9% 30 min",
+        "1.00 oz. Tettnanger 6.2% 15 min",
+        "Bavarian lager yeast"
+    ],
+    "name": "American Pre-Prohibition Lager",
+    "name_raw": "American Pre-Prohibition Lager",
+    "rating": "4.1",
+    "source": "beerrecipes.com",
+    "style": "Standard American Lager",
+    "style_raw": "Standard American Lager",
+    "votes": "18"
+}

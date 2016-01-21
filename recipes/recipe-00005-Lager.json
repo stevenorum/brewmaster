@@ -1,0 +1,21 @@
+{
+    "bjcp": "1B",
+    "id": "5",
+    "ingredients": [
+        "7 pounds, cracked lager malt",
+        "1250 mg, ascorbic acid",
+        "3.3 pounds, light unhopped John Bull malt extract",
+        "1-1/2 ounces, Northern Brewer hops pellets",
+        "1 ounce, Talisman leaf hops",
+        "1 teaspoon, Irish moss",
+        "1 ounce, Willamette hops pellets",
+        "Red Star lager yeast"
+    ],
+    "name": "Lager",
+    "name_raw": "Lager",
+    "rating": "3.0",
+    "source": "beerrecipes.com",
+    "style": "Standard American Lager",
+    "style_raw": "Standard American Lager",
+    "votes": "2"
+}

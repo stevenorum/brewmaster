@@ -1,0 +1,24 @@
+{
+    "bjcp": "1D",
+    "id": "1",
+    "ingredients": [
+        "7 pounds, light unhopped syrup",
+        "2 pounds, Cara-pils malt",
+        "2 pounds, light crystal malt",
+        "1 pound, extra rich crystal malt",
+        "1/2 ounce, Hallertauer (5.0% alpha)",
+        "1 ounce, Willamette (4.5 alpha)",
+        "1 teaspoon, salt",
+        "1 teaspoon, citric acid",
+        "1 teaspoon, yeast nutrient",
+        "1 tablespoon, Irish moss",
+        "Edme ale yeast"
+    ],
+    "name": "German Malz Bier",
+    "name_raw": "German Malz Bier",
+    "rating": "4.0",
+    "source": "beerrecipes.com",
+    "style": "Munich Helles",
+    "style_raw": "Munich Helles",
+    "votes": "1"
+}

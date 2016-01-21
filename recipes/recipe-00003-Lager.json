@@ -1,0 +1,21 @@
+{
+    "bjcp": "1B",
+    "id": "3",
+    "ingredients": [
+        "3.3 pounds, Northwest malt extract",
+        "1 pound, light dry malt",
+        "1/2 pound, Munich malt",
+        "2 pounds, Klages malt",
+        "1 ounce, Hallertauer hops (5.1 alpha)",
+        "1/4 ounce, Nugget hops (11.0 alpha)",
+        "1 ounce, Hallertauer hops (finish)",
+        "Wyeast #2042: Danish"
+    ],
+    "name": "Lager",
+    "name_raw": "Lager",
+    "rating": "4.5",
+    "source": "beerrecipes.com",
+    "style": "Standard American Lager",
+    "style_raw": "Standard American Lager",
+    "votes": "2"
+}
